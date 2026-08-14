@@ -1,6 +1,6 @@
 {
-    "updated": "2026-08-14 14:48:38",
-    "count": 2,
+    "updated": "2026-08-14 15:38:11",
+    "count": 3,
     "trains": [
         {
             "type": "amtrak",
@@ -9,13 +9,28 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "48-13",
-            "latitude": 43.05905628471058,
-            "longitude": -76.9625803790936,
+            "latitude": 43.07701210065217,
+            "longitude": -76.17005387987817,
             "status": "enroute",
             "completedStops": 12,
             "totalStops": 20,
             "nextStop": "Syracuse",
-            "lastUpdate": "14:48:38"
+            "lastUpdate": "15:38:11"
+        },
+        {
+            "type": "amtrak",
+            "trainNum": "63",
+            "route": "Maple Leaf",
+            "provider": "Amtrak",
+            "direction": "W",
+            "trainID": "63-14",
+            "latitude": 43.039063538200715,
+            "longitude": -74.84271427371134,
+            "status": "enroute",
+            "completedStops": 13,
+            "totalStops": 22,
+            "nextStop": "Utica",
+            "lastUpdate": "15:38:11"
         },
         {
             "type": "amtrak",
@@ -24,13 +39,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "284-14",
-            "latitude": 43.19975385095788,
-            "longitude": -75.448373967241,
+            "latitude": 42.929890705869035,
+            "longitude": -74.61371791448371,
             "status": "enroute",
-            "completedStops": 6,
+            "completedStops": 7,
             "totalStops": 16,
-            "nextStop": "Utica",
-            "lastUpdate": "14:48:38"
+            "nextStop": "Amsterdam",
+            "lastUpdate": "15:38:11"
         }
     ]
 }

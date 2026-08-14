@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-14 14:48:38",
+    "updated": "2026-08-14 15:38:11",
     "count": 2,
     "trains": [
         {
@@ -16,7 +16,7 @@
             ],
             "spottedOn": 1786676280,
             "source": "Heritage Units",
-            "lastUpdate": "14:48:38"
+            "lastUpdate": "15:38:11"
         },
         {
             "type": "freight",
@@ -32,7 +32,7 @@
             ],
             "spottedOn": 1786640820,
             "source": "Heritage Units",
-            "lastUpdate": "14:48:38"
+            "lastUpdate": "15:38:11"
         }
     ]
 }
