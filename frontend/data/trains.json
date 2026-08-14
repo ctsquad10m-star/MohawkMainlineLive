@@ -1,21 +1,5 @@
 {
-    "updated": "2026-08-14 02:52:36",
-    "count": 1,
-    "trains": [
-        {
-            "type": "amtrak",
-            "trainNum": "49",
-            "route": "Lake Shore Limited",
-            "provider": "Amtrak",
-            "direction": "W",
-            "trainID": "49-13",
-            "latitude": 43.06013202456395,
-            "longitude": -77.08992264414078,
-            "status": "enroute",
-            "completedStops": 8,
-            "totalStops": 20,
-            "nextStop": "Rochester",
-            "lastUpdate": "02:52:36"
-        }
-    ]
+    "updated": "2026-08-14 04:16:11",
+    "count": 0,
+    "trains": []
 }
