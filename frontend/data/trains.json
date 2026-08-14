@@ -1,0 +1,21 @@
+{
+    "updated": "2026-08-13 19:35:02",
+    "count": 1,
+    "trains": [
+        {
+            "type": "amtrak",
+            "trainNum": "283",
+            "route": "Empire Service",
+            "provider": "Amtrak",
+            "direction": "W",
+            "trainID": "283-13",
+            "latitude": 43.06651784148513,
+            "longitude": -76.78467810039564,
+            "status": "enroute",
+            "completedStops": 12,
+            "totalStops": 16,
+            "nextStop": "Rochester",
+            "lastUpdate": "19:35:02"
+        }
+    ]
+}

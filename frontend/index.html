@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Mohawk Mainline Operations Center</title>
+
+<link rel="stylesheet" href="style.css">
+
+<!-- Leaflet Map -->
+<link rel="stylesheet" href="https://unpkg.com/leaflet/dist/leaflet.css">
+
+</head>
+
+
+<body>
+
+
+<div class="dashboard">
+
+
+<header>
+
+<div>
+
+<h1>MOHAWK MAINLINE</h1>
+
+<p>LIVE OPERATIONS CENTER</p>
+
+</div>
+
+
+<div class="clock">
+
+<span id="clock">--:--:-- --</span>
+
+</div>
+
+
+</header>
+
+
+<main>
+
+    <!-- MAP -->
+    <section class="map-panel panel">
+
+        <div class="panel-title">
+            🛰 CSX MOHAWK SUBDIVISION MAP
+        </div>
+
+        <div id="map"></div>
+
+    </section>
+
+
+    <!-- CAMERAS -->
+    <section class="panel cameras">
+
+        <div class="panel-title">
+            📷 LIVE CAMERAS
+        </div>
+
+        <div class="camera-grid">
+
+            <div class="camera-box">
+
+                <div class="camera-name">
+                    <span class="camera-dot"></span>
+                    FAIRPORT
+                </div>
+
+                <iframe
+                    src="https://www.youtube.com/embed/XWxyuL9dctA?autoplay=1&mute=1&controls=0&modestbranding=1"
+                    allow="autoplay"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+            </div>
+
+
+            <div class="camera-box">
+
+                <div class="camera-name">
+                    <span class="camera-dot"></span>
+                    I-481
+                </div>
+
+                <video id="i481-camera" autoplay muted></video>
+
+            </div>
+
+
+            <div class="camera-box">
+
+                <div class="camera-name">
+                    <span class="camera-dot"></span>
+                    SAUQUOIT CREEK BRIDGE
+                </div>
+
+                <video id="sauquoit-camera" autoplay muted></video>
+
+            </div>
+
+
+            <div class="camera-box">
+
+                <div class="camera-name">
+                    <span class="camera-dot"></span>
+                    UTICA STATION
+                </div>
+
+                <iframe
+                    src="https://www.youtube.com/embed/TRhQ31HQbC4?autoplay=1&mute=1&controls=0&playsinline=1&enablejsapi=1&origin=http%3A%2F%2Flocalhost%3A8000"
+                    title="Utica Station live camera"
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                    referrerpolicy="strict-origin-when-cross-origin"
+                    frameborder="0"
+                    allowfullscreen>
+                </iframe>
+
+            </div>
+
+        </div>
+
+    </section>
+
+
+    <!-- RIGHT COLUMN -->
+    <aside>
+
+        <!-- ACTIVE TRAINS -->
+        <section class="panel operations">
+
+            <div class="panel-title">
+                🚂 ACTIVE TRAIN MOVEMENTS
+            </div>
+
+            <div class="content" id="train-data">
+
+                <div class="train-status">
+                    NO ACTIVE TRAINS
+                </div>
+
+                <div class="small-text">
+                    Waiting for live data...
+                </div>
+
+            </div>
+
+        </section>
+
+
+<section class="panel status">
+
+    <div class="panel-title">
+        LIVE STREAM ACTIVITY
+    </div>
+
+
+    <!-- MOST RECENT SUBSCRIBER -->
+
+    <div class="subscriber-box">
+
+        <div class="subscriber-label">
+            🔴 MOST RECENT SUBSCRIBER
+        </div>
+
+        <div class="subscriber-name" id="recent-subscriber">
+            
+        </div>
+
+    </div>
+
+</section>
+
+    </aside>
+
+</main>
+
+
+
+
+
+</footer>
+
+
+
+</div>
+
+
+
+<!-- Leaflet JS -->
+
+<script src="https://unpkg.com/leaflet/dist/leaflet.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+
+<script src="script.js"></script>
+
+
+</body>
+
+
+</html>

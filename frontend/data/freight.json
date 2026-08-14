@@ -1,0 +1,22 @@
+{
+    "updated": "2026-08-13 19:35:00",
+    "count": 1,
+    "trains": [
+        {
+            "type": "freight",
+            "trainNum": "CSX M367",
+            "route": "CSX M367",
+            "provider": "CSX",
+            "direction": "W",
+            "latitude": 43.059740252,
+            "longitude": -76.998214299,
+            "location": "Lyons, NY (Leach Rd)",
+            "locomotives": [
+                "CSXT81 - CSX YN2"
+            ],
+            "spottedOn": 1786638420,
+            "source": "Heritage Units",
+            "lastUpdate": "19:35:00"
+        }
+    ]
+}
