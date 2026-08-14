@@ -1,7 +1,35 @@
 {
-    "updated": "2026-08-14 02:42:42",
-    "count": 509,
+    "updated": "2026-08-14 02:52:37",
+    "count": 511,
     "reports": [
+        {
+            "id": 1074322,
+            "locoCode": "CSXT5208",
+            "locoName": "Chessie System Emblem",
+            "locoId": 3672,
+            "spottedOn": 1786675740,
+            "location": "Fostoria, OH (Webcam)",
+            "direction": "West",
+            "train": "Manifest",
+            "visualId": 4,
+            "route": false,
+            "spotter": "Bravesfan1",
+            "spotterCnt": "173 Reports"
+        },
+        {
+            "id": 1074321,
+            "locoCode": "BNSF1035",
+            "locoName": "BNSF H1 Paint",
+            "locoId": 3235,
+            "spottedOn": 1786675500,
+            "location": "Tulsa, OK",
+            "direction": "In Yard",
+            "train": "HUMP1",
+            "visualId": 3,
+            "route": false,
+            "spotter": "Oklahoma-Railfan",
+            "spotterCnt": "252 Reports"
+        },
         {
             "id": 1074317,
             "locoCode": "AMTK644",
@@ -15,6 +43,20 @@
             "route": true,
             "spotter": "Train538",
             "spotterCnt": "56 Reports"
+        },
+        {
+            "id": 1074320,
+            "locoCode": "WE7011",
+            "locoName": "50th Anniversary Operation Lifesaver",
+            "locoId": 2468,
+            "spottedOn": 1786675080,
+            "location": "Chatfield, OH (W&LE Junction)",
+            "direction": "East",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "jc likes bnsf",
+            "spotterCnt": "9 Reports"
         },
         {
             "id": 1074316,
@@ -409,20 +451,6 @@
             "spotterCnt": "42 Reports"
         },
         {
-            "id": 1074291,
-            "locoCode": "UP6379",
-            "locoName": "SP Paint",
-            "locoId": 528,
-            "spottedOn": 1786668000,
-            "location": "Waxahachie, TX",
-            "direction": "West",
-            "train": "UP MFWEW",
-            "visualId": 3,
-            "route": true,
-            "spotter": "Ajallday24",
-            "spotterCnt": "1 Report"
-        },
-        {
             "id": 1074275,
             "locoCode": "CSXT443",
             "locoName": "CSX YN2",
@@ -717,6 +745,20 @@
             "spotterCnt": "125 Reports"
         },
         {
+            "id": 1074239,
+            "locoCode": "UP1988",
+            "locoName": "Katy",
+            "locoId": 26,
+            "spottedOn": 1786665180,
+            "location": "South Salt Lake, UT",
+            "direction": "Idle",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "UtahRails",
+            "spotterCnt": "57 Reports"
+        },
+        {
             "id": 1074229,
             "locoCode": "UP1996",
             "locoName": "Southern Pacific",
@@ -743,20 +785,6 @@
             "route": true,
             "spotter": "lamejamikel",
             "spotterCnt": "21 Reports"
-        },
-        {
-            "id": 1074239,
-            "locoCode": "UP1988",
-            "locoName": "Katy",
-            "locoId": 26,
-            "spottedOn": 1786665180,
-            "location": "South Salt Lake, UT",
-            "direction": "Idle",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "UtahRails",
-            "spotterCnt": "57 Reports"
         },
         {
             "id": 1074227,
@@ -1037,6 +1065,20 @@
             "route": true,
             "spotter": "thetaylorwithautism2005",
             "spotterCnt": "2,209 Reports"
+        },
+        {
+            "id": 1074171,
+            "locoCode": "UP6379",
+            "locoName": "SP Paint",
+            "locoId": 528,
+            "spottedOn": 1786661160,
+            "location": "Fort Worth, TX",
+            "direction": "South",
+            "train": "UP MFWEW",
+            "visualId": 3,
+            "route": true,
+            "spotter": "Vcc8221",
+            "spotterCnt": "156 Reports"
         },
         {
             "id": 1074167,
@@ -1501,6 +1543,20 @@
             "spotterCnt": "52 Reports"
         },
         {
+            "id": 1074264,
+            "locoCode": "BNSF763",
+            "locoName": "BNSF Warbonnet",
+            "locoId": 977,
+            "spottedOn": 1786656240,
+            "location": "Melrose, NM (SWRC Camera)",
+            "direction": "West",
+            "train": "BNSF H-AMSBAR",
+            "visualId": 4,
+            "route": true,
+            "spotter": "Railway Railfan",
+            "spotterCnt": "9,704 Reports"
+        },
+        {
             "id": 1074266,
             "locoCode": "BNSF1043",
             "locoName": "BNSF H1 Paint",
@@ -1519,20 +1575,6 @@
             "locoCode": "BNSF968",
             "locoName": "BNSF H1 Paint",
             "locoId": 3171,
-            "spottedOn": 1786656240,
-            "location": "Melrose, NM (SWRC Camera)",
-            "direction": "West",
-            "train": "BNSF H-AMSBAR",
-            "visualId": 4,
-            "route": true,
-            "spotter": "Railway Railfan",
-            "spotterCnt": "9,704 Reports"
-        },
-        {
-            "id": 1074264,
-            "locoCode": "BNSF763",
-            "locoName": "BNSF Warbonnet",
-            "locoId": 977,
             "spottedOn": 1786656240,
             "location": "Melrose, NM (SWRC Camera)",
             "direction": "West",
@@ -2453,10 +2495,10 @@
             "spotterCnt": "87 Reports"
         },
         {
-            "id": 1073961,
-            "locoCode": "BNSF2326",
-            "locoName": "BNSF H1 Paint",
-            "locoId": 3318,
+            "id": 1073962,
+            "locoCode": "BNSF169",
+            "locoName": "ATSF Bluebonnet",
+            "locoId": 1893,
             "spottedOn": 1786644780,
             "location": "Keokuk, IA (Lock 19)",
             "direction": "West",
@@ -2467,10 +2509,10 @@
             "spotterCnt": "1,695 Reports"
         },
         {
-            "id": 1073962,
-            "locoCode": "BNSF169",
-            "locoName": "ATSF Bluebonnet",
-            "locoId": 1893,
+            "id": 1073961,
+            "locoCode": "BNSF2326",
+            "locoName": "BNSF H1 Paint",
+            "locoId": 3318,
             "spottedOn": 1786644780,
             "location": "Keokuk, IA (Lock 19)",
             "direction": "West",
@@ -2814,7 +2856,7 @@
             "visualId": 4,
             "route": false,
             "spotter": "Wengerr",
-            "spotterCnt": "17,662 Reports"
+            "spotterCnt": "17,663 Reports"
         },
         {
             "id": 1073854,
@@ -3587,20 +3629,6 @@
             "spotterCnt": "49 Reports"
         },
         {
-            "id": 1073662,
-            "locoCode": "WE7011",
-            "locoName": "50th Anniversary Operation Lifesaver",
-            "locoId": 2468,
-            "spottedOn": 1786588680,
-            "location": "Chatfield, OH (W&LE Junction)",
-            "direction": "East",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "jc likes bnsf",
-            "spotterCnt": "8 Reports"
-        },
-        {
             "id": 1073661,
             "locoCode": "BNSF712",
             "locoName": "BNSF Warbonnet",
@@ -3671,10 +3699,10 @@
             "spotterCnt": "318 Reports"
         },
         {
-            "id": 1073649,
-            "locoCode": "CN2781",
-            "locoName": "Ex-Citirail",
-            "locoId": 2513,
+            "id": 1073648,
+            "locoCode": "CSXT279",
+            "locoName": "CSX YN2",
+            "locoId": 2864,
             "spottedOn": 1786586220,
             "location": "Hillside, IL (Wolf Rd)",
             "direction": "East",
@@ -3685,10 +3713,10 @@
             "spotterCnt": "240 Reports"
         },
         {
-            "id": 1073648,
-            "locoCode": "CSXT279",
-            "locoName": "CSX YN2",
-            "locoId": 2864,
+            "id": 1073649,
+            "locoCode": "CN2781",
+            "locoName": "Ex-Citirail",
+            "locoId": 2513,
             "spottedOn": 1786586220,
             "location": "Hillside, IL (Wolf Rd)",
             "direction": "East",
@@ -4315,10 +4343,10 @@
             "spotterCnt": "121 Reports"
         },
         {
-            "id": 1073455,
-            "locoCode": "CN3927",
+            "id": 1073454,
+            "locoCode": "CN3950",
             "locoName": "Ex-CitiRail",
-            "locoId": 2365,
+            "locoId": 2388,
             "spottedOn": 1786573980,
             "location": "Belleville, ON (Webcam)",
             "direction": "East",
@@ -4329,10 +4357,10 @@
             "spotterCnt": "1,145 Reports"
         },
         {
-            "id": 1073454,
-            "locoCode": "CN3950",
+            "id": 1073455,
+            "locoCode": "CN3927",
             "locoName": "Ex-CitiRail",
-            "locoId": 2388,
+            "locoId": 2365,
             "spottedOn": 1786573980,
             "location": "Belleville, ON (Webcam)",
             "direction": "East",
@@ -4777,6 +4805,20 @@
             "spotterCnt": "81 Reports"
         },
         {
+            "id": 1073192,
+            "locoCode": "CN2796",
+            "locoName": "Ex-Citirail",
+            "locoId": 2528,
+            "spottedOn": 1786556160,
+            "location": "Drummondville, QC",
+            "direction": "East",
+            "train": "CN Z120-31",
+            "visualId": 3,
+            "route": true,
+            "spotter": "shadow 2800",
+            "spotterCnt": "3,994 Reports"
+        },
+        {
             "id": 1073190,
             "locoCode": "CN2773",
             "locoName": "Ex-Citirail",
@@ -4805,20 +4847,6 @@
             "spotterCnt": "3,994 Reports"
         },
         {
-            "id": 1073192,
-            "locoCode": "CN2796",
-            "locoName": "Ex-Citirail",
-            "locoId": 2528,
-            "spottedOn": 1786556160,
-            "location": "Drummondville, QC",
-            "direction": "East",
-            "train": "CN Z120-31",
-            "visualId": 3,
-            "route": true,
-            "spotter": "shadow 2800",
-            "spotterCnt": "3,994 Reports"
-        },
-        {
             "id": 1073241,
             "locoCode": "MBTX1030",
             "locoName": "Boston & Maine",
@@ -4833,10 +4861,10 @@
             "spotterCnt": "12 Reports"
         },
         {
-            "id": 1073176,
-            "locoCode": "BNSF1003",
+            "id": 1073177,
+            "locoCode": "BNSF1122",
             "locoName": "BNSF H1 Paint",
-            "locoId": 3204,
+            "locoId": 3122,
             "spottedOn": 1786555680,
             "location": "Riverside, CA",
             "direction": "East",
@@ -4847,10 +4875,10 @@
             "spotterCnt": "24 Reports"
         },
         {
-            "id": 1073177,
-            "locoCode": "BNSF1122",
+            "id": 1073176,
+            "locoCode": "BNSF1003",
             "locoName": "BNSF H1 Paint",
-            "locoId": 3122,
+            "locoId": 3204,
             "spottedOn": 1786555680,
             "location": "Riverside, CA",
             "direction": "East",
@@ -5225,10 +5253,10 @@
             "spotterCnt": "38 Reports"
         },
         {
-            "id": 1073713,
-            "locoCode": "CN3947",
-            "locoName": "Ex-CitiRail",
-            "locoId": 2385,
+            "id": 1073712,
+            "locoCode": "CN2764",
+            "locoName": "Ex-Citirail",
+            "locoId": 2496,
             "spottedOn": 1786540680,
             "location": "Junction City, WI (Camera)",
             "direction": "North",
@@ -5239,10 +5267,10 @@
             "spotterCnt": "1,803 Reports"
         },
         {
-            "id": 1073712,
-            "locoCode": "CN2764",
-            "locoName": "Ex-Citirail",
-            "locoId": 2496,
+            "id": 1073713,
+            "locoCode": "CN3947",
+            "locoName": "Ex-CitiRail",
+            "locoId": 2385,
             "spottedOn": 1786540680,
             "location": "Junction City, WI (Camera)",
             "direction": "North",
@@ -5390,7 +5418,7 @@
             "visualId": 4,
             "route": true,
             "spotter": "Wengerr",
-            "spotterCnt": "17,662 Reports"
+            "spotterCnt": "17,663 Reports"
         },
         {
             "id": 1072970,
@@ -5561,10 +5589,10 @@
             "spotterCnt": "8 Reports"
         },
         {
-            "id": 1072905,
-            "locoCode": "CSXT140",
+            "id": 1072906,
+            "locoCode": "CSXT537",
             "locoName": "CSX YN2",
-            "locoId": 2839,
+            "locoId": 2952,
             "spottedOn": 1786502040,
             "location": "Decatur, AL (VRF Camera)",
             "direction": "South",
@@ -5575,10 +5603,10 @@
             "spotterCnt": "1,334 Reports"
         },
         {
-            "id": 1072906,
-            "locoCode": "CSXT537",
+            "id": 1072905,
+            "locoCode": "CSXT140",
             "locoName": "CSX YN2",
-            "locoId": 2952,
+            "locoId": 2839,
             "spottedOn": 1786502040,
             "location": "Decatur, AL (VRF Camera)",
             "direction": "South",
@@ -5684,7 +5712,7 @@
             "visualId": 3,
             "route": false,
             "spotter": "jc likes bnsf",
-            "spotterCnt": "8 Reports"
+            "spotterCnt": "9 Reports"
         },
         {
             "id": 1072847,
@@ -5981,10 +6009,10 @@
             "spotterCnt": "1,145 Reports"
         },
         {
-            "id": 1072886,
-            "locoCode": "BNSF334",
-            "locoName": "BNSF H1 Paint",
-            "locoId": 3329,
+            "id": 1072885,
+            "locoCode": "BNSF552",
+            "locoName": "ATSF Warbonnet",
+            "locoId": 1743,
             "spottedOn": 1786490640,
             "location": "Ottumwa, IA (BNSF)",
             "direction": "East",
@@ -5995,10 +6023,10 @@
             "spotterCnt": "1,478 Reports"
         },
         {
-            "id": 1072885,
-            "locoCode": "BNSF552",
-            "locoName": "ATSF Warbonnet",
-            "locoId": 1743,
+            "id": 1072886,
+            "locoCode": "BNSF334",
+            "locoName": "BNSF H1 Paint",
+            "locoId": 3329,
             "spottedOn": 1786490640,
             "location": "Ottumwa, IA (BNSF)",
             "direction": "East",
@@ -7132,6 +7160,34 @@
     "raw": {
         "table": [
             {
+                "id": 1074322,
+                "locoCode": "CSXT5208",
+                "locoName": "Chessie System Emblem",
+                "locoId": 3672,
+                "spottedOn": 1786675740,
+                "location": "Fostoria, OH (Webcam)",
+                "direction": "West",
+                "train": "Manifest",
+                "visualId": 4,
+                "route": false,
+                "spotter": "Bravesfan1",
+                "spotterCnt": "173 Reports"
+            },
+            {
+                "id": 1074321,
+                "locoCode": "BNSF1035",
+                "locoName": "BNSF H1 Paint",
+                "locoId": 3235,
+                "spottedOn": 1786675500,
+                "location": "Tulsa, OK",
+                "direction": "In Yard",
+                "train": "HUMP1",
+                "visualId": 3,
+                "route": false,
+                "spotter": "Oklahoma-Railfan",
+                "spotterCnt": "252 Reports"
+            },
+            {
                 "id": 1074317,
                 "locoCode": "AMTK644",
                 "locoName": "America 250 Years",
@@ -7144,6 +7200,20 @@
                 "route": true,
                 "spotter": "Train538",
                 "spotterCnt": "56 Reports"
+            },
+            {
+                "id": 1074320,
+                "locoCode": "WE7011",
+                "locoName": "50th Anniversary Operation Lifesaver",
+                "locoId": 2468,
+                "spottedOn": 1786675080,
+                "location": "Chatfield, OH (W&LE Junction)",
+                "direction": "East",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "jc likes bnsf",
+                "spotterCnt": "9 Reports"
             },
             {
                 "id": 1074316,
@@ -7538,20 +7608,6 @@
                 "spotterCnt": "42 Reports"
             },
             {
-                "id": 1074291,
-                "locoCode": "UP6379",
-                "locoName": "SP Paint",
-                "locoId": 528,
-                "spottedOn": 1786668000,
-                "location": "Waxahachie, TX",
-                "direction": "West",
-                "train": "UP MFWEW",
-                "visualId": 3,
-                "route": true,
-                "spotter": "Ajallday24",
-                "spotterCnt": "1 Report"
-            },
-            {
                 "id": 1074275,
                 "locoCode": "CSXT443",
                 "locoName": "CSX YN2",
@@ -7846,6 +7902,20 @@
                 "spotterCnt": "125 Reports"
             },
             {
+                "id": 1074239,
+                "locoCode": "UP1988",
+                "locoName": "Katy",
+                "locoId": 26,
+                "spottedOn": 1786665180,
+                "location": "South Salt Lake, UT",
+                "direction": "Idle",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "UtahRails",
+                "spotterCnt": "57 Reports"
+            },
+            {
                 "id": 1074229,
                 "locoCode": "UP1996",
                 "locoName": "Southern Pacific",
@@ -7872,20 +7942,6 @@
                 "route": true,
                 "spotter": "lamejamikel",
                 "spotterCnt": "21 Reports"
-            },
-            {
-                "id": 1074239,
-                "locoCode": "UP1988",
-                "locoName": "Katy",
-                "locoId": 26,
-                "spottedOn": 1786665180,
-                "location": "South Salt Lake, UT",
-                "direction": "Idle",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "UtahRails",
-                "spotterCnt": "57 Reports"
             },
             {
                 "id": 1074227,
@@ -8166,6 +8222,20 @@
                 "route": true,
                 "spotter": "thetaylorwithautism2005",
                 "spotterCnt": "2,209 Reports"
+            },
+            {
+                "id": 1074171,
+                "locoCode": "UP6379",
+                "locoName": "SP Paint",
+                "locoId": 528,
+                "spottedOn": 1786661160,
+                "location": "Fort Worth, TX",
+                "direction": "South",
+                "train": "UP MFWEW",
+                "visualId": 3,
+                "route": true,
+                "spotter": "Vcc8221",
+                "spotterCnt": "156 Reports"
             },
             {
                 "id": 1074167,
@@ -8630,6 +8700,20 @@
                 "spotterCnt": "52 Reports"
             },
             {
+                "id": 1074264,
+                "locoCode": "BNSF763",
+                "locoName": "BNSF Warbonnet",
+                "locoId": 977,
+                "spottedOn": 1786656240,
+                "location": "Melrose, NM (SWRC Camera)",
+                "direction": "West",
+                "train": "BNSF H-AMSBAR",
+                "visualId": 4,
+                "route": true,
+                "spotter": "Railway Railfan",
+                "spotterCnt": "9,704 Reports"
+            },
+            {
                 "id": 1074266,
                 "locoCode": "BNSF1043",
                 "locoName": "BNSF H1 Paint",
@@ -8648,20 +8732,6 @@
                 "locoCode": "BNSF968",
                 "locoName": "BNSF H1 Paint",
                 "locoId": 3171,
-                "spottedOn": 1786656240,
-                "location": "Melrose, NM (SWRC Camera)",
-                "direction": "West",
-                "train": "BNSF H-AMSBAR",
-                "visualId": 4,
-                "route": true,
-                "spotter": "Railway Railfan",
-                "spotterCnt": "9,704 Reports"
-            },
-            {
-                "id": 1074264,
-                "locoCode": "BNSF763",
-                "locoName": "BNSF Warbonnet",
-                "locoId": 977,
                 "spottedOn": 1786656240,
                 "location": "Melrose, NM (SWRC Camera)",
                 "direction": "West",
@@ -9582,10 +9652,10 @@
                 "spotterCnt": "87 Reports"
             },
             {
-                "id": 1073961,
-                "locoCode": "BNSF2326",
-                "locoName": "BNSF H1 Paint",
-                "locoId": 3318,
+                "id": 1073962,
+                "locoCode": "BNSF169",
+                "locoName": "ATSF Bluebonnet",
+                "locoId": 1893,
                 "spottedOn": 1786644780,
                 "location": "Keokuk, IA (Lock 19)",
                 "direction": "West",
@@ -9596,10 +9666,10 @@
                 "spotterCnt": "1,695 Reports"
             },
             {
-                "id": 1073962,
-                "locoCode": "BNSF169",
-                "locoName": "ATSF Bluebonnet",
-                "locoId": 1893,
+                "id": 1073961,
+                "locoCode": "BNSF2326",
+                "locoName": "BNSF H1 Paint",
+                "locoId": 3318,
                 "spottedOn": 1786644780,
                 "location": "Keokuk, IA (Lock 19)",
                 "direction": "West",
@@ -9943,7 +10013,7 @@
                 "visualId": 4,
                 "route": false,
                 "spotter": "Wengerr",
-                "spotterCnt": "17,662 Reports"
+                "spotterCnt": "17,663 Reports"
             },
             {
                 "id": 1073854,
@@ -10716,20 +10786,6 @@
                 "spotterCnt": "49 Reports"
             },
             {
-                "id": 1073662,
-                "locoCode": "WE7011",
-                "locoName": "50th Anniversary Operation Lifesaver",
-                "locoId": 2468,
-                "spottedOn": 1786588680,
-                "location": "Chatfield, OH (W&LE Junction)",
-                "direction": "East",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "jc likes bnsf",
-                "spotterCnt": "8 Reports"
-            },
-            {
                 "id": 1073661,
                 "locoCode": "BNSF712",
                 "locoName": "BNSF Warbonnet",
@@ -10800,10 +10856,10 @@
                 "spotterCnt": "318 Reports"
             },
             {
-                "id": 1073649,
-                "locoCode": "CN2781",
-                "locoName": "Ex-Citirail",
-                "locoId": 2513,
+                "id": 1073648,
+                "locoCode": "CSXT279",
+                "locoName": "CSX YN2",
+                "locoId": 2864,
                 "spottedOn": 1786586220,
                 "location": "Hillside, IL (Wolf Rd)",
                 "direction": "East",
@@ -10814,10 +10870,10 @@
                 "spotterCnt": "240 Reports"
             },
             {
-                "id": 1073648,
-                "locoCode": "CSXT279",
-                "locoName": "CSX YN2",
-                "locoId": 2864,
+                "id": 1073649,
+                "locoCode": "CN2781",
+                "locoName": "Ex-Citirail",
+                "locoId": 2513,
                 "spottedOn": 1786586220,
                 "location": "Hillside, IL (Wolf Rd)",
                 "direction": "East",
@@ -11444,10 +11500,10 @@
                 "spotterCnt": "121 Reports"
             },
             {
-                "id": 1073455,
-                "locoCode": "CN3927",
+                "id": 1073454,
+                "locoCode": "CN3950",
                 "locoName": "Ex-CitiRail",
-                "locoId": 2365,
+                "locoId": 2388,
                 "spottedOn": 1786573980,
                 "location": "Belleville, ON (Webcam)",
                 "direction": "East",
@@ -11458,10 +11514,10 @@
                 "spotterCnt": "1,145 Reports"
             },
             {
-                "id": 1073454,
-                "locoCode": "CN3950",
+                "id": 1073455,
+                "locoCode": "CN3927",
                 "locoName": "Ex-CitiRail",
-                "locoId": 2388,
+                "locoId": 2365,
                 "spottedOn": 1786573980,
                 "location": "Belleville, ON (Webcam)",
                 "direction": "East",
@@ -11906,6 +11962,20 @@
                 "spotterCnt": "81 Reports"
             },
             {
+                "id": 1073192,
+                "locoCode": "CN2796",
+                "locoName": "Ex-Citirail",
+                "locoId": 2528,
+                "spottedOn": 1786556160,
+                "location": "Drummondville, QC",
+                "direction": "East",
+                "train": "CN Z120-31",
+                "visualId": 3,
+                "route": true,
+                "spotter": "shadow 2800",
+                "spotterCnt": "3,994 Reports"
+            },
+            {
                 "id": 1073190,
                 "locoCode": "CN2773",
                 "locoName": "Ex-Citirail",
@@ -11934,20 +12004,6 @@
                 "spotterCnt": "3,994 Reports"
             },
             {
-                "id": 1073192,
-                "locoCode": "CN2796",
-                "locoName": "Ex-Citirail",
-                "locoId": 2528,
-                "spottedOn": 1786556160,
-                "location": "Drummondville, QC",
-                "direction": "East",
-                "train": "CN Z120-31",
-                "visualId": 3,
-                "route": true,
-                "spotter": "shadow 2800",
-                "spotterCnt": "3,994 Reports"
-            },
-            {
                 "id": 1073241,
                 "locoCode": "MBTX1030",
                 "locoName": "Boston & Maine",
@@ -11962,10 +12018,10 @@
                 "spotterCnt": "12 Reports"
             },
             {
-                "id": 1073176,
-                "locoCode": "BNSF1003",
+                "id": 1073177,
+                "locoCode": "BNSF1122",
                 "locoName": "BNSF H1 Paint",
-                "locoId": 3204,
+                "locoId": 3122,
                 "spottedOn": 1786555680,
                 "location": "Riverside, CA",
                 "direction": "East",
@@ -11976,10 +12032,10 @@
                 "spotterCnt": "24 Reports"
             },
             {
-                "id": 1073177,
-                "locoCode": "BNSF1122",
+                "id": 1073176,
+                "locoCode": "BNSF1003",
                 "locoName": "BNSF H1 Paint",
-                "locoId": 3122,
+                "locoId": 3204,
                 "spottedOn": 1786555680,
                 "location": "Riverside, CA",
                 "direction": "East",
@@ -12354,10 +12410,10 @@
                 "spotterCnt": "38 Reports"
             },
             {
-                "id": 1073713,
-                "locoCode": "CN3947",
-                "locoName": "Ex-CitiRail",
-                "locoId": 2385,
+                "id": 1073712,
+                "locoCode": "CN2764",
+                "locoName": "Ex-Citirail",
+                "locoId": 2496,
                 "spottedOn": 1786540680,
                 "location": "Junction City, WI (Camera)",
                 "direction": "North",
@@ -12368,10 +12424,10 @@
                 "spotterCnt": "1,803 Reports"
             },
             {
-                "id": 1073712,
-                "locoCode": "CN2764",
-                "locoName": "Ex-Citirail",
-                "locoId": 2496,
+                "id": 1073713,
+                "locoCode": "CN3947",
+                "locoName": "Ex-CitiRail",
+                "locoId": 2385,
                 "spottedOn": 1786540680,
                 "location": "Junction City, WI (Camera)",
                 "direction": "North",
@@ -12519,7 +12575,7 @@
                 "visualId": 4,
                 "route": true,
                 "spotter": "Wengerr",
-                "spotterCnt": "17,662 Reports"
+                "spotterCnt": "17,663 Reports"
             },
             {
                 "id": 1072970,
@@ -12690,10 +12746,10 @@
                 "spotterCnt": "8 Reports"
             },
             {
-                "id": 1072905,
-                "locoCode": "CSXT140",
+                "id": 1072906,
+                "locoCode": "CSXT537",
                 "locoName": "CSX YN2",
-                "locoId": 2839,
+                "locoId": 2952,
                 "spottedOn": 1786502040,
                 "location": "Decatur, AL (VRF Camera)",
                 "direction": "South",
@@ -12704,10 +12760,10 @@
                 "spotterCnt": "1,334 Reports"
             },
             {
-                "id": 1072906,
-                "locoCode": "CSXT537",
+                "id": 1072905,
+                "locoCode": "CSXT140",
                 "locoName": "CSX YN2",
-                "locoId": 2952,
+                "locoId": 2839,
                 "spottedOn": 1786502040,
                 "location": "Decatur, AL (VRF Camera)",
                 "direction": "South",
@@ -12813,7 +12869,7 @@
                 "visualId": 3,
                 "route": false,
                 "spotter": "jc likes bnsf",
-                "spotterCnt": "8 Reports"
+                "spotterCnt": "9 Reports"
             },
             {
                 "id": 1072847,
@@ -13110,10 +13166,10 @@
                 "spotterCnt": "1,145 Reports"
             },
             {
-                "id": 1072886,
-                "locoCode": "BNSF334",
-                "locoName": "BNSF H1 Paint",
-                "locoId": 3329,
+                "id": 1072885,
+                "locoCode": "BNSF552",
+                "locoName": "ATSF Warbonnet",
+                "locoId": 1743,
                 "spottedOn": 1786490640,
                 "location": "Ottumwa, IA (BNSF)",
                 "direction": "East",
@@ -13124,10 +13180,10 @@
                 "spotterCnt": "1,478 Reports"
             },
             {
-                "id": 1072885,
-                "locoCode": "BNSF552",
-                "locoName": "ATSF Warbonnet",
-                "locoId": 1743,
+                "id": 1072886,
+                "locoCode": "BNSF334",
+                "locoName": "BNSF H1 Paint",
+                "locoId": 3329,
                 "spottedOn": 1786490640,
                 "location": "Ottumwa, IA (BNSF)",
                 "direction": "East",
@@ -14261,6 +14317,53 @@
         "map": [
             {
                 "isNew": true,
+                "name": "Fostoria, OH (Webcam)",
+                "lat": 41.15266,
+                "lon": -83.40866,
+                "direction": 4,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1074322,
+                        "loco": "CSXT5208 - Chessie System Emblem",
+                        "spottedOn": 1786675740,
+                        "direction": "West",
+                        "train": "Manifest",
+                        "visualId": 4,
+                        "leading": false
+                    }
+                ]
+            },
+            {
+                "isNew": true,
+                "name": "Tulsa, OK",
+                "lat": 36.175301792,
+                "lon": -95.937847243,
+                "direction": -1,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1074321,
+                        "loco": "BNSF1035 - BNSF H1 Paint",
+                        "spottedOn": 1786675500,
+                        "direction": "In Yard",
+                        "train": "HUMP1",
+                        "visualId": 3,
+                        "leading": true
+                    },
+                    {
+                        "id": 1074187,
+                        "loco": "NS4001 - DC to AC Conversion (Blue)",
+                        "spottedOn": 1786658400,
+                        "direction": "South",
+                        "train": "BNSF H-TULTEA",
+                        "visualId": 3,
+                        "leading": true
+                    }
+                ]
+            },
+            {
+                "isNew": false,
                 "name": "Bridgeport, CT",
                 "lat": 41.160976441,
                 "lon": -73.234355735,
@@ -14347,6 +14450,52 @@
                         "train": "AMTK 175",
                         "visualId": 3,
                         "leading": true
+                    }
+                ]
+            },
+            {
+                "isNew": false,
+                "name": "Chatfield, OH (W&LE Junction)",
+                "lat": 40.957545649,
+                "lon": -82.937861647,
+                "direction": -1,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1074320,
+                        "loco": "WE7011 - 50th Anniversary Operation Lifesaver",
+                        "spottedOn": 1786675080,
+                        "direction": "East",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1074228,
+                        "loco": "NS1069 - Virginian",
+                        "spottedOn": 1786665180,
+                        "direction": "West",
+                        "train": "NS 178",
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1074057,
+                        "loco": "NS1070 - Wabash",
+                        "spottedOn": 1786652700,
+                        "direction": "West",
+                        "train": "NS 178",
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1072809,
+                        "loco": "WE7023 - 30th Anniversary",
+                        "spottedOn": 1786496760,
+                        "direction": "East",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
                     }
                 ]
             },
@@ -14703,15 +14852,6 @@
                         "leading": true
                     },
                     {
-                        "id": 1073455,
-                        "loco": "CN3927 - Ex-CitiRail",
-                        "spottedOn": 1786573980,
-                        "direction": "East",
-                        "train": "CN Q106-51",
-                        "visualId": 4,
-                        "leading": false
-                    },
-                    {
                         "id": 1073454,
                         "loco": "CN3950 - Ex-CitiRail",
                         "spottedOn": 1786573980,
@@ -14719,6 +14859,15 @@
                         "train": "CN Q106-51",
                         "visualId": 4,
                         "leading": true
+                    },
+                    {
+                        "id": 1073455,
+                        "loco": "CN3927 - Ex-CitiRail",
+                        "spottedOn": 1786573980,
+                        "direction": "East",
+                        "train": "CN Q106-51",
+                        "visualId": 4,
+                        "leading": false
                     },
                     {
                         "id": 1073116,
@@ -14764,7 +14913,7 @@
                 "lat": 40.030557555,
                 "lon": -76.507132015,
                 "direction": 2,
-                "age": 1,
+                "age": 2,
                 "reports": [
                     {
                         "id": 1074292,
@@ -14783,7 +14932,7 @@
                 "lat": 44.044453597,
                 "lon": -123.016931382,
                 "direction": 3,
-                "age": 1,
+                "age": 2,
                 "reports": [
                     {
                         "id": 1074305,
@@ -15058,25 +15207,6 @@
             },
             {
                 "isNew": false,
-                "name": "Waxahachie, TX",
-                "lat": 32.3961599,
-                "lon": -96.8546472,
-                "direction": 4,
-                "age": 2,
-                "reports": [
-                    {
-                        "id": 1074291,
-                        "loco": "UP6379 - SP Paint",
-                        "spottedOn": 1786668000,
-                        "direction": "West",
-                        "train": "UP MFWEW",
-                        "visualId": 3,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
                 "name": "Garrett, IN (Randolph St)",
                 "lat": 41.3524964,
                 "lon": -85.1356582,
@@ -15157,7 +15287,7 @@
                 "lat": 47.247352483,
                 "lon": -122.397151417,
                 "direction": -1,
-                "age": 2,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1074263,
@@ -15194,7 +15324,7 @@
                 "lat": 35.21201709,
                 "lon": -86.080992106,
                 "direction": 1,
-                "age": 2,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1074253,
@@ -15213,7 +15343,7 @@
                 "lat": 33.936871461,
                 "lon": -81.099138055,
                 "direction": 4,
-                "age": 2,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1074277,
@@ -15232,7 +15362,7 @@
                 "lat": 41.178138567,
                 "lon": -83.645470477,
                 "direction": 4,
-                "age": 2,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1074256,
@@ -15251,7 +15381,7 @@
                 "lat": 41.859325641,
                 "lon": -90.064512833,
                 "direction": 4,
-                "age": 2,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1074246,
@@ -15443,71 +15573,6 @@
             },
             {
                 "isNew": false,
-                "name": "Clearview Acres, WY",
-                "lat": 41.561110951,
-                "lon": -109.290514604,
-                "direction": 2,
-                "age": 3,
-                "reports": [
-                    {
-                        "id": 1074229,
-                        "loco": "UP1996 - Southern Pacific",
-                        "spottedOn": 1786665180,
-                        "direction": "East",
-                        "train": "UP MWCNP",
-                        "visualId": 3,
-                        "leading": true
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Chatfield, OH (W&LE Junction)",
-                "lat": 40.957545649,
-                "lon": -82.937861647,
-                "direction": -1,
-                "age": 3,
-                "reports": [
-                    {
-                        "id": 1074228,
-                        "loco": "NS1069 - Virginian",
-                        "spottedOn": 1786665180,
-                        "direction": "West",
-                        "train": "NS 178",
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1074057,
-                        "loco": "NS1070 - Wabash",
-                        "spottedOn": 1786652700,
-                        "direction": "West",
-                        "train": "NS 178",
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1073662,
-                        "loco": "WE7011 - 50th Anniversary Operation Lifesaver",
-                        "spottedOn": 1786588680,
-                        "direction": "East",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1072809,
-                        "loco": "WE7023 - 30th Anniversary",
-                        "spottedOn": 1786496760,
-                        "direction": "East",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
                 "name": "South Salt Lake, UT",
                 "lat": 40.718460504,
                 "lon": -111.908379772,
@@ -15522,6 +15587,25 @@
                         "train": null,
                         "visualId": 3,
                         "leading": false
+                    }
+                ]
+            },
+            {
+                "isNew": false,
+                "name": "Clearview Acres, WY",
+                "lat": 41.561110951,
+                "lon": -109.290514604,
+                "direction": 2,
+                "age": 3,
+                "reports": [
+                    {
+                        "id": 1074229,
+                        "loco": "UP1996 - Southern Pacific",
+                        "spottedOn": 1786665180,
+                        "direction": "East",
+                        "train": "UP MWCNP",
+                        "visualId": 3,
+                        "leading": true
                     }
                 ]
             },
@@ -15801,7 +15885,7 @@
                 "lat": 39.833457236,
                 "lon": -78.940881609,
                 "direction": 4,
-                "age": 3,
+                "age": 4,
                 "reports": [
                     {
                         "id": 1074195,
@@ -15820,7 +15904,7 @@
                 "lat": 42.463286276,
                 "lon": -83.846060376,
                 "direction": 2,
-                "age": 3,
+                "age": 4,
                 "reports": [
                     {
                         "id": 1074194,
@@ -15904,6 +15988,25 @@
                         "spottedOn": 1786661940,
                         "direction": "East",
                         "train": "CSX B451",
+                        "visualId": 3,
+                        "leading": false
+                    }
+                ]
+            },
+            {
+                "isNew": false,
+                "name": "Fort Worth, TX",
+                "lat": 32.740459302,
+                "lon": -97.321677304,
+                "direction": 3,
+                "age": 4,
+                "reports": [
+                    {
+                        "id": 1074171,
+                        "loco": "UP6379 - SP Paint",
+                        "spottedOn": 1786661160,
+                        "direction": "South",
+                        "train": "UP MFWEW",
                         "visualId": 3,
                         "leading": false
                     }
@@ -16047,7 +16150,7 @@
                 "lat": 41.68657723,
                 "lon": -88.429718095,
                 "direction": 2,
-                "age": 4,
+                "age": 5,
                 "reports": [
                     {
                         "id": 1074154,
@@ -16151,25 +16254,6 @@
                         "train": null,
                         "visualId": 3,
                         "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Tulsa, OK",
-                "lat": 36.175301792,
-                "lon": -95.937847243,
-                "direction": 3,
-                "age": 5,
-                "reports": [
-                    {
-                        "id": 1074187,
-                        "loco": "NS4001 - DC to AC Conversion (Blue)",
-                        "spottedOn": 1786658400,
-                        "direction": "South",
-                        "train": "BNSF H-TULTEA",
-                        "visualId": 3,
-                        "leading": true
                     }
                 ]
             },
@@ -16492,6 +16576,15 @@
                 "age": 5,
                 "reports": [
                     {
+                        "id": 1074264,
+                        "loco": "BNSF763 - BNSF Warbonnet",
+                        "spottedOn": 1786656240,
+                        "direction": "West",
+                        "train": "BNSF H-AMSBAR",
+                        "visualId": 4,
+                        "leading": true
+                    },
+                    {
                         "id": 1074266,
                         "loco": "BNSF1043 - BNSF H1 Paint",
                         "spottedOn": 1786656240,
@@ -16508,15 +16601,6 @@
                         "train": "BNSF H-AMSBAR",
                         "visualId": 4,
                         "leading": false
-                    },
-                    {
-                        "id": 1074264,
-                        "loco": "BNSF763 - BNSF Warbonnet",
-                        "spottedOn": 1786656240,
-                        "direction": "West",
-                        "train": "BNSF H-AMSBAR",
-                        "visualId": 4,
-                        "leading": true
                     }
                 ]
             },
@@ -16526,7 +16610,7 @@
                 "lat": 42.814619827,
                 "lon": -86.025040235,
                 "direction": 2,
-                "age": 5,
+                "age": 6,
                 "reports": [
                     {
                         "id": 1074094,
@@ -16865,7 +16949,7 @@
                 "lat": 41.088880246,
                 "lon": -104.938549237,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074055,
@@ -16893,7 +16977,7 @@
                 "lat": 34.763796191,
                 "lon": -92.261883016,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074049,
@@ -16921,7 +17005,7 @@
                 "lat": 40.0161879,
                 "lon": -79.5917919,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074045,
@@ -16949,7 +17033,7 @@
                 "lat": 34.387555371,
                 "lon": -103.048519893,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074077,
@@ -16998,6 +17082,15 @@
                         "leading": true
                     },
                     {
+                        "id": 1073192,
+                        "loco": "CN2796 - Ex-Citirail",
+                        "spottedOn": 1786556160,
+                        "direction": "East",
+                        "train": "CN Z120-31",
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
                         "id": 1073190,
                         "loco": "CN2773 - Ex-Citirail",
                         "spottedOn": 1786556160,
@@ -17009,15 +17102,6 @@
                     {
                         "id": 1073191,
                         "loco": "CN8357 - Suicide Awareness (You Are Not Alone)",
-                        "spottedOn": 1786556160,
-                        "direction": "East",
-                        "train": "CN Z120-31",
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1073192,
-                        "loco": "CN2796 - Ex-Citirail",
                         "spottedOn": 1786556160,
                         "direction": "East",
                         "train": "CN Z120-31",
@@ -17341,7 +17425,7 @@
                 "lat": 29.954839514,
                 "lon": -90.091325211,
                 "direction": 1,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1073995,
@@ -17360,7 +17444,7 @@
                 "lat": 41.774724203,
                 "lon": -88.24440241,
                 "direction": 7,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1073999,
@@ -17379,7 +17463,7 @@
                 "lat": 41.607166047,
                 "lon": -87.644240551,
                 "direction": 1,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1073997,
@@ -17398,7 +17482,7 @@
                 "lat": 52.073682954,
                 "lon": -106.617952537,
                 "direction": 4,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074008,
@@ -17417,7 +17501,7 @@
                 "lat": 32.40786,
                 "lon": -91.18837,
                 "direction": 4,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1073993,
@@ -17689,7 +17773,7 @@
                 "lat": 41.295867654,
                 "lon": -82.770714003,
                 "direction": 5,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1073950,
@@ -17708,7 +17792,7 @@
                 "lat": 39.961202,
                 "lon": -83.166937,
                 "direction": 2,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1073947,
@@ -17727,17 +17811,8 @@
                 "lat": 40.393671688,
                 "lon": -91.376591678,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
-                    {
-                        "id": 1073961,
-                        "loco": "BNSF2326 - BNSF H1 Paint",
-                        "spottedOn": 1786644780,
-                        "direction": "West",
-                        "train": "BNSF L-HLA839",
-                        "visualId": 4,
-                        "leading": true
-                    },
                     {
                         "id": 1073962,
                         "loco": "BNSF169 - ATSF Bluebonnet",
@@ -17746,6 +17821,15 @@
                         "train": "BNSF L-HLA839",
                         "visualId": 4,
                         "leading": false
+                    },
+                    {
+                        "id": 1073961,
+                        "loco": "BNSF2326 - BNSF H1 Paint",
+                        "spottedOn": 1786644780,
+                        "direction": "West",
+                        "train": "BNSF L-HLA839",
+                        "visualId": 4,
+                        "leading": true
                     }
                 ]
             },
@@ -17981,7 +18065,7 @@
                 "lat": 34.80321893,
                 "lon": -86.9698806,
                 "direction": 1,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1073910,
@@ -18261,7 +18345,7 @@
                 "lat": 40.799036382,
                 "lon": -74.473309809,
                 "direction": 5,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1073850,
@@ -18449,7 +18533,7 @@
                 "lat": 34.884007108,
                 "lon": -79.698761567,
                 "direction": 5,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1073840,
@@ -18468,7 +18552,7 @@
                 "lat": 27.753103972,
                 "lon": -98.050566433,
                 "direction": -1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074062,
@@ -18496,7 +18580,7 @@
                 "lat": 43.048042986,
                 "lon": -89.372992534,
                 "direction": 2,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1073812,
@@ -18665,7 +18749,7 @@
                 "lat": 39.871376332,
                 "lon": -79.492648161,
                 "direction": 2,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1073783,
@@ -18750,7 +18834,7 @@
                 "lat": 34.967119303,
                 "lon": -110.42966922,
                 "direction": 4,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073780,
@@ -18769,7 +18853,7 @@
                 "lat": 37.218093262,
                 "lon": -93.229925,
                 "direction": -1,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1074024,
@@ -18937,7 +19021,7 @@
                 "lat": 49.023215697,
                 "lon": -122.81368017,
                 "direction": 3,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1074066,
@@ -19184,7 +19268,7 @@
                 "lat": 41.609674392,
                 "lon": -83.492911736,
                 "direction": -1,
-                "age": 24,
+                "age": 25,
                 "reports": [
                     {
                         "id": 1073782,
@@ -19234,15 +19318,6 @@
                 "age": 25,
                 "reports": [
                     {
-                        "id": 1073649,
-                        "loco": "CN2781 - Ex-Citirail",
-                        "spottedOn": 1786586220,
-                        "direction": "East",
-                        "train": "CN M338-91",
-                        "visualId": 3,
-                        "leading": true
-                    },
-                    {
                         "id": 1073648,
                         "loco": "CSXT279 - CSX YN2",
                         "spottedOn": 1786586220,
@@ -19250,6 +19325,15 @@
                         "train": "CN M338-91",
                         "visualId": 3,
                         "leading": false
+                    },
+                    {
+                        "id": 1073649,
+                        "loco": "CN2781 - Ex-Citirail",
+                        "spottedOn": 1786586220,
+                        "direction": "East",
+                        "train": "CN M338-91",
+                        "visualId": 3,
+                        "leading": true
                     }
                 ]
             },
@@ -19278,7 +19362,7 @@
                 "lat": 38.108623562,
                 "lon": -121.273356949,
                 "direction": 3,
-                "age": 25,
+                "age": 26,
                 "reports": [
                     {
                         "id": 1073646,
@@ -19297,7 +19381,7 @@
                 "lat": 29.56425412,
                 "lon": -96.2546443,
                 "direction": 4,
-                "age": 25,
+                "age": 26,
                 "reports": [
                     {
                         "id": 1073624,
@@ -19401,7 +19485,7 @@
                 "lat": 38.4873306,
                 "lon": -100.870261,
                 "direction": 2,
-                "age": 26,
+                "age": 27,
                 "reports": [
                     {
                         "id": 1073574,
@@ -19420,7 +19504,7 @@
                 "lat": 29.702281175,
                 "lon": -98.128986747,
                 "direction": 3,
-                "age": 26,
+                "age": 27,
                 "reports": [
                     {
                         "id": 1073605,
@@ -19439,7 +19523,7 @@
                 "lat": 43.451344,
                 "lon": -83.690413,
                 "direction": 2,
-                "age": 26,
+                "age": 27,
                 "reports": [
                     {
                         "id": 1073565,
@@ -19984,7 +20068,7 @@
                 "lat": 33.202539994,
                 "lon": -87.573725927,
                 "direction": 5,
-                "age": 29,
+                "age": 30,
                 "reports": [
                     {
                         "id": 1073382,
@@ -20033,15 +20117,6 @@
                         "leading": true
                     },
                     {
-                        "id": 1073713,
-                        "loco": "CN3947 - Ex-CitiRail",
-                        "spottedOn": 1786540680,
-                        "direction": "North",
-                        "train": "CN S733-81",
-                        "visualId": 4,
-                        "leading": false
-                    },
-                    {
                         "id": 1073712,
                         "loco": "CN2764 - Ex-Citirail",
                         "spottedOn": 1786540680,
@@ -20049,6 +20124,15 @@
                         "train": "CN S733-81",
                         "visualId": 4,
                         "leading": true
+                    },
+                    {
+                        "id": 1073713,
+                        "loco": "CN3947 - Ex-CitiRail",
+                        "spottedOn": 1786540680,
+                        "direction": "North",
+                        "train": "CN S733-81",
+                        "visualId": 4,
+                        "leading": false
                     }
                 ]
             },
@@ -20105,7 +20189,7 @@
                 "lat": 42.332755519,
                 "lon": -71.063425148,
                 "direction": 5,
-                "age": 30,
+                "age": 31,
                 "reports": [
                     {
                         "id": 1073318,
@@ -20143,7 +20227,7 @@
                 "lat": 39.101168875,
                 "lon": -84.542763821,
                 "direction": 0,
-                "age": 31,
+                "age": 32,
                 "reports": [
                     {
                         "id": 1073265,
@@ -20162,7 +20246,7 @@
                 "lat": 37.407279881,
                 "lon": -94.696484767,
                 "direction": 2,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1074280,
@@ -20222,8 +20306,8 @@
                 "age": 33,
                 "reports": [
                     {
-                        "id": 1073176,
-                        "loco": "BNSF1003 - BNSF H1 Paint",
+                        "id": 1073177,
+                        "loco": "BNSF1122 - BNSF H1 Paint",
                         "spottedOn": 1786555680,
                         "direction": "East",
                         "train": "BNSF Z-LACLPK",
@@ -20231,8 +20315,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1073177,
-                        "loco": "BNSF1122 - BNSF H1 Paint",
+                        "id": 1073176,
+                        "loco": "BNSF1003 - BNSF H1 Paint",
                         "spottedOn": 1786555680,
                         "direction": "East",
                         "train": "BNSF Z-LACLPK",
@@ -20351,7 +20435,7 @@
                 "lat": 30.432271087,
                 "lon": -93.964840366,
                 "direction": 1,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073095,
@@ -20370,7 +20454,7 @@
                 "lat": 45.029450867,
                 "lon": -93.253988222,
                 "direction": -1,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073093,
@@ -20559,7 +20643,7 @@
                 "lat": 41.066091137,
                 "lon": -81.523202254,
                 "direction": 2,
-                "age": 37,
+                "age": 38,
                 "reports": [
                     {
                         "id": 1073014,
@@ -20578,7 +20662,7 @@
                 "lat": 41.062087,
                 "lon": -81.4709797,
                 "direction": 2,
-                "age": 37,
+                "age": 38,
                 "reports": [
                     {
                         "id": 1073011,
@@ -20681,7 +20765,7 @@
                 "lat": 45.568103661,
                 "lon": -94.148772681,
                 "direction": 2,
-                "age": 38,
+                "age": 39,
                 "reports": [
                     {
                         "id": 1072988,
@@ -20871,8 +20955,8 @@
                 "age": 48,
                 "reports": [
                     {
-                        "id": 1072905,
-                        "loco": "CSXT140 - CSX YN2",
+                        "id": 1072906,
+                        "loco": "CSXT537 - CSX YN2",
                         "spottedOn": 1786502040,
                         "direction": "South",
                         "train": "CSX M209",
@@ -20880,8 +20964,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1072906,
-                        "loco": "CSXT537 - CSX YN2",
+                        "id": 1072905,
+                        "loco": "CSXT140 - CSX YN2",
                         "spottedOn": 1786502040,
                         "direction": "South",
                         "train": "CSX M209",
@@ -20934,7 +21018,7 @@
                 "lat": 42.23314148,
                 "lon": -83.15167418,
                 "direction": -1,
-                "age": 49,
+                "age": 50,
                 "reports": [
                     {
                         "id": 1072818,
@@ -21065,7 +21149,7 @@
                 "lat": 43.518730886,
                 "lon": -70.372551489,
                 "direction": 4,
-                "age": 50,
+                "age": 51,
                 "reports": [
                     {
                         "id": 1072772,
@@ -21191,15 +21275,6 @@
                 "age": 51,
                 "reports": [
                     {
-                        "id": 1072886,
-                        "loco": "BNSF334 - BNSF H1 Paint",
-                        "spottedOn": 1786490640,
-                        "direction": "East",
-                        "train": "BNSF L-CHI664",
-                        "visualId": 4,
-                        "leading": false
-                    },
-                    {
                         "id": 1072885,
                         "loco": "BNSF552 - ATSF Warbonnet",
                         "spottedOn": 1786490640,
@@ -21207,6 +21282,15 @@
                         "train": "BNSF L-CHI664",
                         "visualId": 4,
                         "leading": true
+                    },
+                    {
+                        "id": 1072886,
+                        "loco": "BNSF334 - BNSF H1 Paint",
+                        "spottedOn": 1786490640,
+                        "direction": "East",
+                        "train": "BNSF L-CHI664",
+                        "visualId": 4,
+                        "leading": false
                     }
                 ]
             },
@@ -21311,7 +21395,7 @@
                 "lat": 36.504585971,
                 "lon": -86.886119707,
                 "direction": -1,
-                "age": 52,
+                "age": 53,
                 "reports": [
                     {
                         "id": 1072631,
@@ -21339,7 +21423,7 @@
                 "lat": 47.864787795,
                 "lon": -122.33282292,
                 "direction": 4,
-                "age": 52,
+                "age": 53,
                 "reports": [
                     {
                         "id": 1072621,
@@ -21452,7 +21536,7 @@
                 "lat": 30.884921687,
                 "lon": -96.596926353,
                 "direction": 1,
-                "age": 53,
+                "age": 54,
                 "reports": [
                     {
                         "id": 1072834,
@@ -21556,7 +21640,7 @@
                 "lat": 32.4410868,
                 "lon": -110.9351929,
                 "direction": 4,
-                "age": 54,
+                "age": 55,
                 "reports": [
                     {
                         "id": 1072522,
@@ -21613,7 +21697,7 @@
                 "lat": 46.004471478,
                 "lon": -122.845191413,
                 "direction": 3,
-                "age": 55,
+                "age": 56,
                 "reports": [
                     {
                         "id": 1072476,
@@ -21632,7 +21716,7 @@
                 "lat": 38.5285169,
                 "lon": -89.1316944,
                 "direction": 5,
-                "age": 55,
+                "age": 56,
                 "reports": [
                     {
                         "id": 1073640,
@@ -21784,7 +21868,7 @@
                 "lat": 32.776092713,
                 "lon": -96.808454946,
                 "direction": 2,
-                "age": 57,
+                "age": 58,
                 "reports": [
                     {
                         "id": 1072376,
@@ -21803,7 +21887,7 @@
                 "lat": 40.73197,
                 "lon": -74.174184,
                 "direction": 5,
-                "age": 57,
+                "age": 58,
                 "reports": [
                     {
                         "id": 1072456,
@@ -21860,7 +21944,7 @@
                 "lat": 40.945559594,
                 "lon": -90.362249895,
                 "direction": 4,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072326,
@@ -21898,7 +21982,7 @@
                 "lat": 38.049220895,
                 "lon": -97.876072477,
                 "direction": 2,
-                "age": 59,
+                "age": 60,
                 "reports": [
                     {
                         "id": 1072288,
@@ -21964,7 +22048,7 @@
                 "lat": 45.422848983,
                 "lon": -122.760870519,
                 "direction": 5,
-                "age": 61,
+                "age": 62,
                 "reports": [
                     {
                         "id": 1072217,

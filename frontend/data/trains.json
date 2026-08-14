@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-14 02:42:42",
+    "updated": "2026-08-14 02:52:36",
     "count": 1,
     "trains": [
         {
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "49-13",
-            "latitude": 43.07257176355065,
-            "longitude": -76.85753121332824,
+            "latitude": 43.06013202456395,
+            "longitude": -77.08992264414078,
             "status": "enroute",
             "completedStops": 8,
             "totalStops": 20,
             "nextStop": "Rochester",
-            "lastUpdate": "02:42:42"
+            "lastUpdate": "02:52:36"
         }
     ]
 }
