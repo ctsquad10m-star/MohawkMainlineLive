@@ -1,7 +1,22 @@
 {
-    "updated": "2026-08-14 13:53:47",
-    "count": 1,
+    "updated": "2026-08-14 14:48:38",
+    "count": 2,
     "trains": [
+        {
+            "type": "amtrak",
+            "trainNum": "48",
+            "route": "Lake Shore Limited",
+            "provider": "Amtrak",
+            "direction": "W",
+            "trainID": "48-13",
+            "latitude": 43.05905628471058,
+            "longitude": -76.9625803790936,
+            "status": "enroute",
+            "completedStops": 12,
+            "totalStops": 20,
+            "nextStop": "Syracuse",
+            "lastUpdate": "14:48:38"
+        },
         {
             "type": "amtrak",
             "trainNum": "284",
@@ -9,13 +24,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "284-14",
-            "latitude": 43.076890030626565,
-            "longitude": -76.1701378028961,
+            "latitude": 43.19975385095788,
+            "longitude": -75.448373967241,
             "status": "enroute",
-            "completedStops": 4,
+            "completedStops": 6,
             "totalStops": 16,
-            "nextStop": "Syracuse",
-            "lastUpdate": "13:53:47"
+            "nextStop": "Utica",
+            "lastUpdate": "14:48:38"
         }
     ]
 }
