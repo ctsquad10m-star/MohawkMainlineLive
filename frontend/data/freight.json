@@ -1,7 +1,23 @@
 {
-    "updated": "2026-08-14 15:38:11",
-    "count": 2,
+    "updated": "2026-08-14 16:31:21",
+    "count": 3,
     "trains": [
+        {
+            "type": "freight",
+            "trainNum": "CSX M367",
+            "route": "CSX M367",
+            "provider": "CSX",
+            "direction": "W",
+            "latitude": 43.059386123,
+            "longitude": -76.962024985,
+            "location": "Lyons, NY (Sunderville Rd)",
+            "locomotives": [
+                "CSXT136 - CSX YN2"
+            ],
+            "spottedOn": 1786723020,
+            "source": "Heritage Units",
+            "lastUpdate": "16:31:21"
+        },
         {
             "type": "freight",
             "trainNum": "CSX M636",
@@ -16,7 +32,7 @@
             ],
             "spottedOn": 1786676280,
             "source": "Heritage Units",
-            "lastUpdate": "15:38:11"
+            "lastUpdate": "16:31:21"
         },
         {
             "type": "freight",
@@ -32,7 +48,7 @@
             ],
             "spottedOn": 1786640820,
             "source": "Heritage Units",
-            "lastUpdate": "15:38:11"
+            "lastUpdate": "16:31:21"
         }
     ]
 }

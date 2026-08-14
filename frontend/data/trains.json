@@ -1,6 +1,6 @@
 {
-    "updated": "2026-08-14 15:38:11",
-    "count": 3,
+    "updated": "2026-08-14 16:31:20",
+    "count": 2,
     "trains": [
         {
             "type": "amtrak",
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "48-13",
-            "latitude": 43.07701210065217,
-            "longitude": -76.17005387987817,
+            "latitude": 43.19627103388273,
+            "longitude": -75.40894524317764,
             "status": "enroute",
-            "completedStops": 12,
+            "completedStops": 13,
             "totalStops": 20,
-            "nextStop": "Syracuse",
-            "lastUpdate": "15:38:11"
+            "nextStop": "Utica",
+            "lastUpdate": "16:31:20"
         },
         {
             "type": "amtrak",
@@ -24,28 +24,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "63-14",
-            "latitude": 43.039063538200715,
-            "longitude": -74.84271427371134,
+            "latitude": 43.199879735935795,
+            "longitude": -75.44951074761951,
             "status": "enroute",
-            "completedStops": 13,
+            "completedStops": 14,
             "totalStops": 22,
-            "nextStop": "Utica",
-            "lastUpdate": "15:38:11"
-        },
-        {
-            "type": "amtrak",
-            "trainNum": "284",
-            "route": "Empire Service",
-            "provider": "Amtrak",
-            "direction": "W",
-            "trainID": "284-14",
-            "latitude": 42.929890705869035,
-            "longitude": -74.61371791448371,
-            "status": "enroute",
-            "completedStops": 7,
-            "totalStops": 16,
-            "nextStop": "Amsterdam",
-            "lastUpdate": "15:38:11"
+            "nextStop": "Rome",
+            "lastUpdate": "16:31:20"
         }
     ]
 }
