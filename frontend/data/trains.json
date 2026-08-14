@@ -1,21 +1,21 @@
 {
-    "updated": "2026-08-13 19:35:02",
+    "updated": "2026-08-14 02:42:42",
     "count": 1,
     "trains": [
         {
             "type": "amtrak",
-            "trainNum": "283",
-            "route": "Empire Service",
+            "trainNum": "49",
+            "route": "Lake Shore Limited",
             "provider": "Amtrak",
             "direction": "W",
-            "trainID": "283-13",
-            "latitude": 43.06651784148513,
-            "longitude": -76.78467810039564,
+            "trainID": "49-13",
+            "latitude": 43.07257176355065,
+            "longitude": -76.85753121332824,
             "status": "enroute",
-            "completedStops": 12,
-            "totalStops": 16,
+            "completedStops": 8,
+            "totalStops": 20,
             "nextStop": "Rochester",
-            "lastUpdate": "19:35:02"
+            "lastUpdate": "02:42:42"
         }
     ]
 }
