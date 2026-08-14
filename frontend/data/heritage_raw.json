@@ -1,7 +1,21 @@
 {
-    "updated": "2026-08-14 08:34:59",
-    "count": 508,
+    "updated": "2026-08-14 09:40:55",
+    "count": 509,
     "reports": [
+        {
+            "id": 1074387,
+            "locoCode": "CSXT427",
+            "locoName": "CSX YN2",
+            "locoId": 2907,
+            "spottedOn": 1786700040,
+            "location": "Fostoria, OH (Webcam)",
+            "direction": "West",
+            "train": null,
+            "visualId": 4,
+            "route": false,
+            "spotter": "Penn Central 1073",
+            "spotterCnt": "283 Reports"
+        },
         {
             "id": 1074383,
             "locoCode": "UP1995",
@@ -199,10 +213,10 @@
             "spotterCnt": "122 Reports"
         },
         {
-            "id": 1074358,
-            "locoCode": "CN3922",
-            "locoName": "Ex-CitiRail",
-            "locoId": 2360,
+            "id": 1074357,
+            "locoCode": "CN3230",
+            "locoName": "100th Anniversary",
+            "locoId": 2156,
             "spottedOn": 1786684500,
             "location": "London, ON (LiveTrains Camera)",
             "direction": "East",
@@ -213,10 +227,10 @@
             "spotterCnt": "130 Reports"
         },
         {
-            "id": 1074357,
-            "locoCode": "CN3230",
-            "locoName": "100th Anniversary",
-            "locoId": 2156,
+            "id": 1074358,
+            "locoCode": "CN3922",
+            "locoName": "Ex-CitiRail",
+            "locoId": 2360,
             "spottedOn": 1786684500,
             "location": "London, ON (LiveTrains Camera)",
             "direction": "East",
@@ -815,20 +829,6 @@
             "spotterCnt": "42 Reports"
         },
         {
-            "id": 1074275,
-            "locoCode": "CSXT443",
-            "locoName": "CSX YN2",
-            "locoId": 2914,
-            "spottedOn": 1786668000,
-            "location": "Garrett, IN (Randolph St)",
-            "direction": "West",
-            "train": "CSX I157",
-            "visualId": 3,
-            "route": true,
-            "spotter": "NSChicagolinerailfanner",
-            "spotterCnt": "564 Reports"
-        },
-        {
             "id": 1074273,
             "locoCode": "NS1230",
             "locoName": "Birmingham",
@@ -841,6 +841,20 @@
             "route": true,
             "spotter": "SouthernPuttPutt",
             "spotterCnt": "522 Reports"
+        },
+        {
+            "id": 1074275,
+            "locoCode": "CSXT443",
+            "locoName": "CSX YN2",
+            "locoId": 2914,
+            "spottedOn": 1786668000,
+            "location": "Garrett, IN (Randolph St)",
+            "direction": "West",
+            "train": "CSX I157",
+            "visualId": 3,
+            "route": true,
+            "spotter": "NSChicagolinerailfanner",
+            "spotterCnt": "564 Reports"
         },
         {
             "id": 1074272,
@@ -1333,10 +1347,10 @@
             "spotterCnt": "71 Reports"
         },
         {
-            "id": 1074350,
-            "locoCode": "BNSF685",
+            "id": 1074349,
+            "locoCode": "BNSF554",
             "locoName": "ATSF Warbonnet",
-            "locoId": 1781,
+            "locoId": 873,
             "spottedOn": 1786661580,
             "location": "Ottumwa, IA (BNSF)",
             "direction": "East",
@@ -1347,10 +1361,10 @@
             "spotterCnt": "1,481 Reports"
         },
         {
-            "id": 1074349,
-            "locoCode": "BNSF554",
+            "id": 1074350,
+            "locoCode": "BNSF685",
             "locoName": "ATSF Warbonnet",
-            "locoId": 873,
+            "locoId": 1781,
             "spottedOn": 1786661580,
             "location": "Ottumwa, IA (BNSF)",
             "direction": "East",
@@ -1795,6 +1809,20 @@
             "spotterCnt": "66 Reports"
         },
         {
+            "id": 1074264,
+            "locoCode": "BNSF763",
+            "locoName": "BNSF Warbonnet",
+            "locoId": 977,
+            "spottedOn": 1786656240,
+            "location": "Melrose, NM (SWRC Camera)",
+            "direction": "West",
+            "train": "BNSF H-AMSBAR",
+            "visualId": 4,
+            "route": true,
+            "spotter": "Railway Railfan",
+            "spotterCnt": "9,704 Reports"
+        },
+        {
             "id": 1074266,
             "locoCode": "BNSF1043",
             "locoName": "BNSF H1 Paint",
@@ -1813,20 +1841,6 @@
             "locoCode": "BNSF968",
             "locoName": "BNSF H1 Paint",
             "locoId": 3171,
-            "spottedOn": 1786656240,
-            "location": "Melrose, NM (SWRC Camera)",
-            "direction": "West",
-            "train": "BNSF H-AMSBAR",
-            "visualId": 4,
-            "route": true,
-            "spotter": "Railway Railfan",
-            "spotterCnt": "9,704 Reports"
-        },
-        {
-            "id": 1074264,
-            "locoCode": "BNSF763",
-            "locoName": "BNSF Warbonnet",
-            "locoId": 977,
             "spottedOn": 1786656240,
             "location": "Melrose, NM (SWRC Camera)",
             "direction": "West",
@@ -2089,20 +2103,6 @@
             "spotterCnt": "2 Reports"
         },
         {
-            "id": 1074046,
-            "locoCode": "CSXT545",
-            "locoName": "CSX YN2",
-            "locoId": 2955,
-            "spottedOn": 1786652160,
-            "location": "West Newton, PA (5th St)",
-            "direction": "East",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "jackmp294.5",
-            "spotterCnt": "1,145 Reports"
-        },
-        {
             "id": 1074045,
             "locoCode": "CSXT9969",
             "locoName": "GP40WH-2",
@@ -2115,6 +2115,20 @@
             "route": true,
             "spotter": "The Ronkonkoma Railfan",
             "spotterCnt": "5 Reports"
+        },
+        {
+            "id": 1074046,
+            "locoCode": "CSXT545",
+            "locoName": "CSX YN2",
+            "locoId": 2955,
+            "spottedOn": 1786652160,
+            "location": "West Newton, PA (5th St)",
+            "direction": "East",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "jackmp294.5",
+            "spotterCnt": "1,145 Reports"
         },
         {
             "id": 1074077,
@@ -2705,10 +2719,10 @@
             "spotterCnt": "87 Reports"
         },
         {
-            "id": 1073961,
-            "locoCode": "BNSF2326",
-            "locoName": "BNSF H1 Paint",
-            "locoId": 3318,
+            "id": 1073962,
+            "locoCode": "BNSF169",
+            "locoName": "ATSF Bluebonnet",
+            "locoId": 1893,
             "spottedOn": 1786644780,
             "location": "Keokuk, IA (Lock 19)",
             "direction": "West",
@@ -2719,10 +2733,10 @@
             "spotterCnt": "1,695 Reports"
         },
         {
-            "id": 1073962,
-            "locoCode": "BNSF169",
-            "locoName": "ATSF Bluebonnet",
-            "locoId": 1893,
+            "id": 1073961,
+            "locoCode": "BNSF2326",
+            "locoName": "BNSF H1 Paint",
+            "locoId": 3318,
             "spottedOn": 1786644780,
             "location": "Keokuk, IA (Lock 19)",
             "direction": "West",
@@ -3475,20 +3489,6 @@
             "spotterCnt": "8 Reports"
         },
         {
-            "id": 1073780,
-            "locoCode": "BNSF704",
-            "locoName": "BNSF Warbonnet",
-            "locoId": 1456,
-            "spottedOn": 1786623300,
-            "location": "Joseph City, AZ (SWRC Camera)",
-            "direction": "West",
-            "train": "BNSF H-AMSBAR",
-            "visualId": 4,
-            "route": true,
-            "spotter": "Railway Railfan",
-            "spotterCnt": "9,704 Reports"
-        },
-        {
             "id": 1074024,
             "locoCode": "BNSF713",
             "locoName": "BNSF Warbonnet",
@@ -3501,6 +3501,20 @@
             "route": false,
             "spotter": "Train Tracker",
             "spotterCnt": "1,988 Reports"
+        },
+        {
+            "id": 1073780,
+            "locoCode": "BNSF704",
+            "locoName": "BNSF Warbonnet",
+            "locoId": 1456,
+            "spottedOn": 1786623300,
+            "location": "Joseph City, AZ (SWRC Camera)",
+            "direction": "West",
+            "train": "BNSF H-AMSBAR",
+            "visualId": 4,
+            "route": true,
+            "spotter": "Railway Railfan",
+            "spotterCnt": "9,704 Reports"
         },
         {
             "id": 1073756,
@@ -4945,10 +4959,10 @@
             "spotterCnt": "81 Reports"
         },
         {
-            "id": 1073191,
-            "locoCode": "CN8357",
-            "locoName": "Suicide Awareness (You Are Not Alone)",
-            "locoId": 3418,
+            "id": 1073190,
+            "locoCode": "CN2773",
+            "locoName": "Ex-Citirail",
+            "locoId": 2505,
             "spottedOn": 1786556160,
             "location": "Drummondville, QC",
             "direction": "East",
@@ -4959,10 +4973,10 @@
             "spotterCnt": "3,995 Reports"
         },
         {
-            "id": 1073190,
-            "locoCode": "CN2773",
-            "locoName": "Ex-Citirail",
-            "locoId": 2505,
+            "id": 1073191,
+            "locoCode": "CN8357",
+            "locoName": "Suicide Awareness (You Are Not Alone)",
+            "locoId": 3418,
             "spottedOn": 1786556160,
             "location": "Drummondville, QC",
             "direction": "East",
@@ -5575,10 +5589,10 @@
             "spotterCnt": "117 Reports"
         },
         {
-            "id": 1072966,
-            "locoCode": "CN3885",
-            "locoName": "100th Anniversary",
-            "locoId": 2058,
+            "id": 1072965,
+            "locoCode": "CN2763",
+            "locoName": "Ex-Citirail",
+            "locoId": 2495,
             "spottedOn": 1786534560,
             "location": "Pointe-Claire, QC",
             "direction": "East",
@@ -5589,10 +5603,10 @@
             "spotterCnt": "128 Reports"
         },
         {
-            "id": 1072965,
-            "locoCode": "CN2763",
-            "locoName": "Ex-Citirail",
-            "locoId": 2495,
+            "id": 1072966,
+            "locoCode": "CN3885",
+            "locoName": "100th Anniversary",
+            "locoId": 2058,
             "spottedOn": 1786534560,
             "location": "Pointe-Claire, QC",
             "direction": "East",
@@ -5729,10 +5743,10 @@
             "spotterCnt": "8 Reports"
         },
         {
-            "id": 1072905,
-            "locoCode": "CSXT140",
+            "id": 1072906,
+            "locoCode": "CSXT537",
             "locoName": "CSX YN2",
-            "locoId": 2839,
+            "locoId": 2952,
             "spottedOn": 1786502040,
             "location": "Decatur, AL (VRF Camera)",
             "direction": "South",
@@ -5743,10 +5757,10 @@
             "spotterCnt": "1,334 Reports"
         },
         {
-            "id": 1072906,
-            "locoCode": "CSXT537",
+            "id": 1072905,
+            "locoCode": "CSXT140",
             "locoName": "CSX YN2",
-            "locoId": 2952,
+            "locoId": 2839,
             "spottedOn": 1786502040,
             "location": "Decatur, AL (VRF Camera)",
             "direction": "South",
@@ -6149,10 +6163,10 @@
             "spotterCnt": "1,145 Reports"
         },
         {
-            "id": 1072885,
-            "locoCode": "BNSF552",
-            "locoName": "ATSF Warbonnet",
-            "locoId": 1743,
+            "id": 1072886,
+            "locoCode": "BNSF334",
+            "locoName": "BNSF H1 Paint",
+            "locoId": 3329,
             "spottedOn": 1786490640,
             "location": "Ottumwa, IA (BNSF)",
             "direction": "East",
@@ -6163,10 +6177,10 @@
             "spotterCnt": "1,481 Reports"
         },
         {
-            "id": 1072886,
-            "locoCode": "BNSF334",
-            "locoName": "BNSF H1 Paint",
-            "locoId": 3329,
+            "id": 1072885,
+            "locoCode": "BNSF552",
+            "locoName": "ATSF Warbonnet",
+            "locoId": 1743,
             "spottedOn": 1786490640,
             "location": "Ottumwa, IA (BNSF)",
             "direction": "East",
@@ -7118,6 +7132,20 @@
     "raw": {
         "table": [
             {
+                "id": 1074387,
+                "locoCode": "CSXT427",
+                "locoName": "CSX YN2",
+                "locoId": 2907,
+                "spottedOn": 1786700040,
+                "location": "Fostoria, OH (Webcam)",
+                "direction": "West",
+                "train": null,
+                "visualId": 4,
+                "route": false,
+                "spotter": "Penn Central 1073",
+                "spotterCnt": "283 Reports"
+            },
+            {
                 "id": 1074383,
                 "locoCode": "UP1995",
                 "locoName": "C&NW",
@@ -7314,10 +7342,10 @@
                 "spotterCnt": "122 Reports"
             },
             {
-                "id": 1074358,
-                "locoCode": "CN3922",
-                "locoName": "Ex-CitiRail",
-                "locoId": 2360,
+                "id": 1074357,
+                "locoCode": "CN3230",
+                "locoName": "100th Anniversary",
+                "locoId": 2156,
                 "spottedOn": 1786684500,
                 "location": "London, ON (LiveTrains Camera)",
                 "direction": "East",
@@ -7328,10 +7356,10 @@
                 "spotterCnt": "130 Reports"
             },
             {
-                "id": 1074357,
-                "locoCode": "CN3230",
-                "locoName": "100th Anniversary",
-                "locoId": 2156,
+                "id": 1074358,
+                "locoCode": "CN3922",
+                "locoName": "Ex-CitiRail",
+                "locoId": 2360,
                 "spottedOn": 1786684500,
                 "location": "London, ON (LiveTrains Camera)",
                 "direction": "East",
@@ -7930,20 +7958,6 @@
                 "spotterCnt": "42 Reports"
             },
             {
-                "id": 1074275,
-                "locoCode": "CSXT443",
-                "locoName": "CSX YN2",
-                "locoId": 2914,
-                "spottedOn": 1786668000,
-                "location": "Garrett, IN (Randolph St)",
-                "direction": "West",
-                "train": "CSX I157",
-                "visualId": 3,
-                "route": true,
-                "spotter": "NSChicagolinerailfanner",
-                "spotterCnt": "564 Reports"
-            },
-            {
                 "id": 1074273,
                 "locoCode": "NS1230",
                 "locoName": "Birmingham",
@@ -7956,6 +7970,20 @@
                 "route": true,
                 "spotter": "SouthernPuttPutt",
                 "spotterCnt": "522 Reports"
+            },
+            {
+                "id": 1074275,
+                "locoCode": "CSXT443",
+                "locoName": "CSX YN2",
+                "locoId": 2914,
+                "spottedOn": 1786668000,
+                "location": "Garrett, IN (Randolph St)",
+                "direction": "West",
+                "train": "CSX I157",
+                "visualId": 3,
+                "route": true,
+                "spotter": "NSChicagolinerailfanner",
+                "spotterCnt": "564 Reports"
             },
             {
                 "id": 1074272,
@@ -8448,10 +8476,10 @@
                 "spotterCnt": "71 Reports"
             },
             {
-                "id": 1074350,
-                "locoCode": "BNSF685",
+                "id": 1074349,
+                "locoCode": "BNSF554",
                 "locoName": "ATSF Warbonnet",
-                "locoId": 1781,
+                "locoId": 873,
                 "spottedOn": 1786661580,
                 "location": "Ottumwa, IA (BNSF)",
                 "direction": "East",
@@ -8462,10 +8490,10 @@
                 "spotterCnt": "1,481 Reports"
             },
             {
-                "id": 1074349,
-                "locoCode": "BNSF554",
+                "id": 1074350,
+                "locoCode": "BNSF685",
                 "locoName": "ATSF Warbonnet",
-                "locoId": 873,
+                "locoId": 1781,
                 "spottedOn": 1786661580,
                 "location": "Ottumwa, IA (BNSF)",
                 "direction": "East",
@@ -8910,6 +8938,20 @@
                 "spotterCnt": "66 Reports"
             },
             {
+                "id": 1074264,
+                "locoCode": "BNSF763",
+                "locoName": "BNSF Warbonnet",
+                "locoId": 977,
+                "spottedOn": 1786656240,
+                "location": "Melrose, NM (SWRC Camera)",
+                "direction": "West",
+                "train": "BNSF H-AMSBAR",
+                "visualId": 4,
+                "route": true,
+                "spotter": "Railway Railfan",
+                "spotterCnt": "9,704 Reports"
+            },
+            {
                 "id": 1074266,
                 "locoCode": "BNSF1043",
                 "locoName": "BNSF H1 Paint",
@@ -8928,20 +8970,6 @@
                 "locoCode": "BNSF968",
                 "locoName": "BNSF H1 Paint",
                 "locoId": 3171,
-                "spottedOn": 1786656240,
-                "location": "Melrose, NM (SWRC Camera)",
-                "direction": "West",
-                "train": "BNSF H-AMSBAR",
-                "visualId": 4,
-                "route": true,
-                "spotter": "Railway Railfan",
-                "spotterCnt": "9,704 Reports"
-            },
-            {
-                "id": 1074264,
-                "locoCode": "BNSF763",
-                "locoName": "BNSF Warbonnet",
-                "locoId": 977,
                 "spottedOn": 1786656240,
                 "location": "Melrose, NM (SWRC Camera)",
                 "direction": "West",
@@ -9204,20 +9232,6 @@
                 "spotterCnt": "2 Reports"
             },
             {
-                "id": 1074046,
-                "locoCode": "CSXT545",
-                "locoName": "CSX YN2",
-                "locoId": 2955,
-                "spottedOn": 1786652160,
-                "location": "West Newton, PA (5th St)",
-                "direction": "East",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "jackmp294.5",
-                "spotterCnt": "1,145 Reports"
-            },
-            {
                 "id": 1074045,
                 "locoCode": "CSXT9969",
                 "locoName": "GP40WH-2",
@@ -9230,6 +9244,20 @@
                 "route": true,
                 "spotter": "The Ronkonkoma Railfan",
                 "spotterCnt": "5 Reports"
+            },
+            {
+                "id": 1074046,
+                "locoCode": "CSXT545",
+                "locoName": "CSX YN2",
+                "locoId": 2955,
+                "spottedOn": 1786652160,
+                "location": "West Newton, PA (5th St)",
+                "direction": "East",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "jackmp294.5",
+                "spotterCnt": "1,145 Reports"
             },
             {
                 "id": 1074077,
@@ -9820,10 +9848,10 @@
                 "spotterCnt": "87 Reports"
             },
             {
-                "id": 1073961,
-                "locoCode": "BNSF2326",
-                "locoName": "BNSF H1 Paint",
-                "locoId": 3318,
+                "id": 1073962,
+                "locoCode": "BNSF169",
+                "locoName": "ATSF Bluebonnet",
+                "locoId": 1893,
                 "spottedOn": 1786644780,
                 "location": "Keokuk, IA (Lock 19)",
                 "direction": "West",
@@ -9834,10 +9862,10 @@
                 "spotterCnt": "1,695 Reports"
             },
             {
-                "id": 1073962,
-                "locoCode": "BNSF169",
-                "locoName": "ATSF Bluebonnet",
-                "locoId": 1893,
+                "id": 1073961,
+                "locoCode": "BNSF2326",
+                "locoName": "BNSF H1 Paint",
+                "locoId": 3318,
                 "spottedOn": 1786644780,
                 "location": "Keokuk, IA (Lock 19)",
                 "direction": "West",
@@ -10590,20 +10618,6 @@
                 "spotterCnt": "8 Reports"
             },
             {
-                "id": 1073780,
-                "locoCode": "BNSF704",
-                "locoName": "BNSF Warbonnet",
-                "locoId": 1456,
-                "spottedOn": 1786623300,
-                "location": "Joseph City, AZ (SWRC Camera)",
-                "direction": "West",
-                "train": "BNSF H-AMSBAR",
-                "visualId": 4,
-                "route": true,
-                "spotter": "Railway Railfan",
-                "spotterCnt": "9,704 Reports"
-            },
-            {
                 "id": 1074024,
                 "locoCode": "BNSF713",
                 "locoName": "BNSF Warbonnet",
@@ -10616,6 +10630,20 @@
                 "route": false,
                 "spotter": "Train Tracker",
                 "spotterCnt": "1,988 Reports"
+            },
+            {
+                "id": 1073780,
+                "locoCode": "BNSF704",
+                "locoName": "BNSF Warbonnet",
+                "locoId": 1456,
+                "spottedOn": 1786623300,
+                "location": "Joseph City, AZ (SWRC Camera)",
+                "direction": "West",
+                "train": "BNSF H-AMSBAR",
+                "visualId": 4,
+                "route": true,
+                "spotter": "Railway Railfan",
+                "spotterCnt": "9,704 Reports"
             },
             {
                 "id": 1073756,
@@ -12060,10 +12088,10 @@
                 "spotterCnt": "81 Reports"
             },
             {
-                "id": 1073191,
-                "locoCode": "CN8357",
-                "locoName": "Suicide Awareness (You Are Not Alone)",
-                "locoId": 3418,
+                "id": 1073190,
+                "locoCode": "CN2773",
+                "locoName": "Ex-Citirail",
+                "locoId": 2505,
                 "spottedOn": 1786556160,
                 "location": "Drummondville, QC",
                 "direction": "East",
@@ -12074,10 +12102,10 @@
                 "spotterCnt": "3,995 Reports"
             },
             {
-                "id": 1073190,
-                "locoCode": "CN2773",
-                "locoName": "Ex-Citirail",
-                "locoId": 2505,
+                "id": 1073191,
+                "locoCode": "CN8357",
+                "locoName": "Suicide Awareness (You Are Not Alone)",
+                "locoId": 3418,
                 "spottedOn": 1786556160,
                 "location": "Drummondville, QC",
                 "direction": "East",
@@ -12690,10 +12718,10 @@
                 "spotterCnt": "117 Reports"
             },
             {
-                "id": 1072966,
-                "locoCode": "CN3885",
-                "locoName": "100th Anniversary",
-                "locoId": 2058,
+                "id": 1072965,
+                "locoCode": "CN2763",
+                "locoName": "Ex-Citirail",
+                "locoId": 2495,
                 "spottedOn": 1786534560,
                 "location": "Pointe-Claire, QC",
                 "direction": "East",
@@ -12704,10 +12732,10 @@
                 "spotterCnt": "128 Reports"
             },
             {
-                "id": 1072965,
-                "locoCode": "CN2763",
-                "locoName": "Ex-Citirail",
-                "locoId": 2495,
+                "id": 1072966,
+                "locoCode": "CN3885",
+                "locoName": "100th Anniversary",
+                "locoId": 2058,
                 "spottedOn": 1786534560,
                 "location": "Pointe-Claire, QC",
                 "direction": "East",
@@ -12844,10 +12872,10 @@
                 "spotterCnt": "8 Reports"
             },
             {
-                "id": 1072905,
-                "locoCode": "CSXT140",
+                "id": 1072906,
+                "locoCode": "CSXT537",
                 "locoName": "CSX YN2",
-                "locoId": 2839,
+                "locoId": 2952,
                 "spottedOn": 1786502040,
                 "location": "Decatur, AL (VRF Camera)",
                 "direction": "South",
@@ -12858,10 +12886,10 @@
                 "spotterCnt": "1,334 Reports"
             },
             {
-                "id": 1072906,
-                "locoCode": "CSXT537",
+                "id": 1072905,
+                "locoCode": "CSXT140",
                 "locoName": "CSX YN2",
-                "locoId": 2952,
+                "locoId": 2839,
                 "spottedOn": 1786502040,
                 "location": "Decatur, AL (VRF Camera)",
                 "direction": "South",
@@ -13264,10 +13292,10 @@
                 "spotterCnt": "1,145 Reports"
             },
             {
-                "id": 1072885,
-                "locoCode": "BNSF552",
-                "locoName": "ATSF Warbonnet",
-                "locoId": 1743,
+                "id": 1072886,
+                "locoCode": "BNSF334",
+                "locoName": "BNSF H1 Paint",
+                "locoId": 3329,
                 "spottedOn": 1786490640,
                 "location": "Ottumwa, IA (BNSF)",
                 "direction": "East",
@@ -13278,10 +13306,10 @@
                 "spotterCnt": "1,481 Reports"
             },
             {
-                "id": 1072886,
-                "locoCode": "BNSF334",
-                "locoName": "BNSF H1 Paint",
-                "locoId": 3329,
+                "id": 1072885,
+                "locoCode": "BNSF552",
+                "locoName": "ATSF Warbonnet",
+                "locoId": 1743,
                 "spottedOn": 1786490640,
                 "location": "Ottumwa, IA (BNSF)",
                 "direction": "East",
@@ -14232,12 +14260,40 @@
         ],
         "map": [
             {
+                "isNew": true,
+                "name": "Fostoria, OH (Webcam)",
+                "lat": 41.15266,
+                "lon": -83.40866,
+                "direction": -1,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1074387,
+                        "loco": "CSXT427 - CSX YN2",
+                        "spottedOn": 1786700040,
+                        "direction": "West",
+                        "train": null,
+                        "visualId": 4,
+                        "leading": true
+                    },
+                    {
+                        "id": 1074322,
+                        "loco": "CSXT5208 - Chessie System Emblem",
+                        "spottedOn": 1786675740,
+                        "direction": "West",
+                        "train": "CSX M511",
+                        "visualId": 4,
+                        "leading": false
+                    }
+                ]
+            },
+            {
                 "isNew": false,
                 "name": "Boone, IA (Webcam)",
                 "lat": 42.065316722,
                 "lon": -93.877981505,
                 "direction": 4,
-                "age": 0,
+                "age": 1,
                 "reports": [
                     {
                         "id": 1074383,
@@ -14256,7 +14312,7 @@
                 "lat": 47.126495904,
                 "lon": -118.379527289,
                 "direction": -1,
-                "age": 1,
+                "age": 2,
                 "reports": [
                     {
                         "id": 1074385,
@@ -14311,7 +14367,7 @@
                 "lat": 34.00132399,
                 "lon": -84.14552811,
                 "direction": 1,
-                "age": 1,
+                "age": 2,
                 "reports": [
                     {
                         "id": 1074381,
@@ -14330,7 +14386,7 @@
                 "lat": 27.954117573,
                 "lon": -82.369076633,
                 "direction": -1,
-                "age": 1,
+                "age": 2,
                 "reports": [
                     {
                         "id": 1074376,
@@ -14358,7 +14414,7 @@
                 "lat": 39.188683,
                 "lon": -94.684154,
                 "direction": -1,
-                "age": 1,
+                "age": 2,
                 "reports": [
                     {
                         "id": 1074374,
@@ -14422,7 +14478,7 @@
                 "lat": 49.113035475,
                 "lon": -122.647198076,
                 "direction": 2,
-                "age": 1,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1074373,
@@ -14441,7 +14497,7 @@
                 "lat": 41.549965,
                 "lon": -89.11747,
                 "direction": -1,
-                "age": 2,
+                "age": 4,
                 "reports": [
                     {
                         "id": 1074370,
@@ -14469,7 +14525,7 @@
                 "lat": 30.8291627,
                 "lon": -96.534985,
                 "direction": 3,
-                "age": 2,
+                "age": 4,
                 "reports": [
                     {
                         "id": 1074364,
@@ -14488,7 +14544,7 @@
                 "lat": 35.1921637,
                 "lon": -101.832178,
                 "direction": 5,
-                "age": 3,
+                "age": 4,
                 "reports": [
                     {
                         "id": 1074363,
@@ -14507,7 +14563,7 @@
                 "lat": 34.954482743,
                 "lon": -81.93584737,
                 "direction": -1,
-                "age": 3,
+                "age": 4,
                 "reports": [
                     {
                         "id": 1074382,
@@ -14535,7 +14591,7 @@
                 "lat": 42.3941614,
                 "lon": -75.1701557,
                 "direction": -1,
-                "age": 3,
+                "age": 4,
                 "reports": [
                     {
                         "id": 1074359,
@@ -14563,17 +14619,8 @@
                 "lat": 42.983995936,
                 "lon": -81.236458714,
                 "direction": -1,
-                "age": 3,
+                "age": 4,
                 "reports": [
-                    {
-                        "id": 1074358,
-                        "loco": "CN3922 - Ex-CitiRail",
-                        "spottedOn": 1786684500,
-                        "direction": "East",
-                        "train": "CN M394-91",
-                        "visualId": 4,
-                        "leading": false
-                    },
                     {
                         "id": 1074357,
                         "loco": "CN3230 - 100th Anniversary",
@@ -14582,6 +14629,15 @@
                         "train": "CN M394-91",
                         "visualId": 4,
                         "leading": true
+                    },
+                    {
+                        "id": 1074358,
+                        "loco": "CN3922 - Ex-CitiRail",
+                        "spottedOn": 1786684500,
+                        "direction": "East",
+                        "train": "CN M394-91",
+                        "visualId": 4,
+                        "leading": false
                     },
                     {
                         "id": 1074309,
@@ -14654,7 +14710,7 @@
                 "lat": 45.8768,
                 "lon": -72.4931,
                 "direction": -1,
-                "age": 4,
+                "age": 5,
                 "reports": [
                     {
                         "id": 1074354,
@@ -14684,15 +14740,6 @@
                         "leading": true
                     },
                     {
-                        "id": 1073191,
-                        "loco": "CN8357 - Suicide Awareness (You Are Not Alone)",
-                        "spottedOn": 1786556160,
-                        "direction": "East",
-                        "train": "CN Z120-31",
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
                         "id": 1073190,
                         "loco": "CN2773 - Ex-Citirail",
                         "spottedOn": 1786556160,
@@ -14700,6 +14747,15 @@
                         "train": "CN Z120-31",
                         "visualId": 3,
                         "leading": true
+                    },
+                    {
+                        "id": 1073191,
+                        "loco": "CN8357 - Suicide Awareness (You Are Not Alone)",
+                        "spottedOn": 1786556160,
+                        "direction": "East",
+                        "train": "CN Z120-31",
+                        "visualId": 3,
+                        "leading": false
                     },
                     {
                         "id": 1073192,
@@ -14727,7 +14783,7 @@
                 "lat": 39.801211304,
                 "lon": -84.175972968,
                 "direction": 5,
-                "age": 4,
+                "age": 5,
                 "reports": [
                     {
                         "id": 1074347,
@@ -14746,7 +14802,7 @@
                 "lat": 42.26666101,
                 "lon": -89.541686309,
                 "direction": 2,
-                "age": 4,
+                "age": 5,
                 "reports": [
                     {
                         "id": 1074353,
@@ -14765,7 +14821,7 @@
                 "lat": 29.5609906,
                 "lon": -95.806682,
                 "direction": 1,
-                "age": 4,
+                "age": 5,
                 "reports": [
                     {
                         "id": 1074344,
@@ -14784,7 +14840,7 @@
                 "lat": 32.4410868,
                 "lon": -110.9351929,
                 "direction": -1,
-                "age": 4,
+                "age": 5,
                 "reports": [
                     {
                         "id": 1074340,
@@ -14812,7 +14868,7 @@
                 "lat": 30.886672589,
                 "lon": -88.040522812,
                 "direction": 1,
-                "age": 5,
+                "age": 6,
                 "reports": [
                     {
                         "id": 1074338,
@@ -14831,7 +14887,7 @@
                 "lat": 42.540337,
                 "lon": -92.444023,
                 "direction": 4,
-                "age": 5,
+                "age": 6,
                 "reports": [
                     {
                         "id": 1074360,
@@ -14850,7 +14906,7 @@
                 "lat": 38.661798455,
                 "lon": -89.981807834,
                 "direction": 2,
-                "age": 5,
+                "age": 6,
                 "reports": [
                     {
                         "id": 1074335,
@@ -14869,7 +14925,7 @@
                 "lat": 39.142918,
                 "lon": -121.584843,
                 "direction": 3,
-                "age": 5,
+                "age": 6,
                 "reports": [
                     {
                         "id": 1074361,
@@ -14888,7 +14944,7 @@
                 "lat": 40.767757879,
                 "lon": -111.910966161,
                 "direction": 1,
-                "age": 5,
+                "age": 6,
                 "reports": [
                     {
                         "id": 1074339,
@@ -14907,7 +14963,7 @@
                 "lat": 30.664132385,
                 "lon": -96.371840493,
                 "direction": 1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074334,
@@ -14926,7 +14982,7 @@
                 "lat": 39.801966079,
                 "lon": -75.448146287,
                 "direction": 1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074330,
@@ -14945,7 +15001,7 @@
                 "lat": 41.09872752,
                 "lon": -73.419067116,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074327,
@@ -14969,30 +15025,11 @@
             },
             {
                 "isNew": false,
-                "name": "Fostoria, OH (Webcam)",
-                "lat": 41.15266,
-                "lon": -83.40866,
-                "direction": 4,
-                "age": 6,
-                "reports": [
-                    {
-                        "id": 1074322,
-                        "loco": "CSXT5208 - Chessie System Emblem",
-                        "spottedOn": 1786675740,
-                        "direction": "West",
-                        "train": "CSX M511",
-                        "visualId": 4,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
                 "name": "Tulsa, OK",
                 "lat": 36.175301792,
                 "lon": -95.937847243,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074321,
@@ -15020,7 +15057,7 @@
                 "lat": 40.957545649,
                 "lon": -82.937861647,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074320,
@@ -15066,7 +15103,7 @@
                 "lat": 42.401698194,
                 "lon": -71.059514333,
                 "direction": 2,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074342,
@@ -15085,7 +15122,7 @@
                 "lat": 41.160976441,
                 "lon": -73.234355735,
                 "direction": -1,
-                "age": 6,
+                "age": 7,
                 "reports": [
                     {
                         "id": 1074314,
@@ -15158,7 +15195,7 @@
                 "lat": 46.251420671,
                 "lon": -119.094134579,
                 "direction": 4,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074312,
@@ -15177,7 +15214,7 @@
                 "lat": 40.01748,
                 "lon": -79.592106,
                 "direction": 2,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074308,
@@ -15196,7 +15233,7 @@
                 "lat": 47.2398969,
                 "lon": -122.388398,
                 "direction": 1,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074304,
@@ -15215,7 +15252,7 @@
                 "lat": 39.110266209,
                 "lon": -84.538246299,
                 "direction": -1,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074301,
@@ -15243,7 +15280,7 @@
                 "lat": 37.329415876,
                 "lon": -121.902767162,
                 "direction": 1,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074297,
@@ -15262,7 +15299,7 @@
                 "lat": 43.549874665,
                 "lon": -96.716888176,
                 "direction": -1,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074299,
@@ -15290,7 +15327,7 @@
                 "lat": 41.884470755,
                 "lon": -88.02963255,
                 "direction": 4,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074315,
@@ -15309,7 +15346,7 @@
                 "lat": 44.175,
                 "lon": -77.3863,
                 "direction": -1,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074295,
@@ -15409,7 +15446,7 @@
                 "lat": 40.030557555,
                 "lon": -76.507132015,
                 "direction": 2,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074292,
@@ -15428,7 +15465,7 @@
                 "lat": 44.044453597,
                 "lon": -123.016931382,
                 "direction": 3,
-                "age": 7,
+                "age": 8,
                 "reports": [
                     {
                         "id": 1074305,
@@ -15447,7 +15484,7 @@
                 "lat": 35.196815,
                 "lon": -111.648158,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074288,
@@ -15475,7 +15512,7 @@
                 "lat": 29.77599068,
                 "lon": -95.34331646,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074290,
@@ -15503,7 +15540,7 @@
                 "lat": 39.024592534,
                 "lon": -84.531032707,
                 "direction": 3,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074286,
@@ -15522,7 +15559,7 @@
                 "lat": 40.317536298,
                 "lon": -74.622138907,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074287,
@@ -15586,7 +15623,7 @@
                 "lat": 40.204119836,
                 "lon": -79.769012005,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074285,
@@ -15623,7 +15660,7 @@
                 "lat": 38.936107656,
                 "lon": -104.820304504,
                 "direction": 1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074283,
@@ -15642,7 +15679,7 @@
                 "lat": 42.343707,
                 "lon": -88.276215,
                 "direction": 5,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074282,
@@ -15661,7 +15698,7 @@
                 "lat": 39.498212083,
                 "lon": -84.576830553,
                 "direction": 0,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074276,
@@ -15676,30 +15713,11 @@
             },
             {
                 "isNew": false,
-                "name": "Garrett, IN (Randolph St)",
-                "lat": 41.3524964,
-                "lon": -85.1356582,
-                "direction": 4,
-                "age": 8,
-                "reports": [
-                    {
-                        "id": 1074275,
-                        "loco": "CSXT443 - CSX YN2",
-                        "spottedOn": 1786668000,
-                        "direction": "West",
-                        "train": "CSX I157",
-                        "visualId": 3,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
                 "name": "Plantersville, AL",
                 "lat": 32.669748,
                 "lon": -86.920948697,
                 "direction": 3,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074273,
@@ -15714,11 +15732,30 @@
             },
             {
                 "isNew": false,
+                "name": "Garrett, IN (Randolph St)",
+                "lat": 41.3524964,
+                "lon": -85.1356582,
+                "direction": 4,
+                "age": 9,
+                "reports": [
+                    {
+                        "id": 1074275,
+                        "loco": "CSXT443 - CSX YN2",
+                        "spottedOn": 1786668000,
+                        "direction": "West",
+                        "train": "CSX I157",
+                        "visualId": 3,
+                        "leading": false
+                    }
+                ]
+            },
+            {
+                "isNew": false,
                 "name": "Fresno, CA (Weldon Ave)",
                 "lat": 36.768638,
                 "lon": -119.7941129,
                 "direction": 2,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074272,
@@ -15737,7 +15774,7 @@
                 "lat": 41.680152478,
                 "lon": -85.971965526,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074368,
@@ -15792,7 +15829,7 @@
                 "lat": 38.732705467,
                 "lon": -104.726325487,
                 "direction": 1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074270,
@@ -15811,7 +15848,7 @@
                 "lat": 47.247352483,
                 "lon": -122.397151417,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074263,
@@ -15848,7 +15885,7 @@
                 "lat": 35.21201709,
                 "lon": -86.080992106,
                 "direction": 1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074253,
@@ -15867,7 +15904,7 @@
                 "lat": 33.936871461,
                 "lon": -81.099138055,
                 "direction": 4,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074277,
@@ -15886,7 +15923,7 @@
                 "lat": 41.012971401,
                 "lon": -74.123318919,
                 "direction": -1,
-                "age": 8,
+                "age": 9,
                 "reports": [
                     {
                         "id": 1074294,
@@ -15932,7 +15969,7 @@
                 "lat": 41.884626701,
                 "lon": -87.640739,
                 "direction": 8,
-                "age": 8,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074243,
@@ -15951,7 +15988,7 @@
                 "lat": 40.930154669,
                 "lon": -81.106284569,
                 "direction": 2,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074255,
@@ -15970,7 +16007,7 @@
                 "lat": 31.4456838,
                 "lon": -106.0883652,
                 "direction": -1,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074267,
@@ -15998,7 +16035,7 @@
                 "lat": 41.59080477,
                 "lon": -93.594402924,
                 "direction": 5,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074238,
@@ -16017,7 +16054,7 @@
                 "lat": 41.561110951,
                 "lon": -109.290514604,
                 "direction": 2,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074229,
@@ -16036,7 +16073,7 @@
                 "lat": 40.622652353,
                 "lon": -91.335430685,
                 "direction": -1,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074227,
@@ -16064,7 +16101,7 @@
                 "lat": 40.828916,
                 "lon": -74.100859,
                 "direction": 4,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074230,
@@ -16083,7 +16120,7 @@
                 "lat": 41.137017764,
                 "lon": -81.871390053,
                 "direction": 4,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074218,
@@ -16102,7 +16139,7 @@
                 "lat": 31.095668753,
                 "lon": -97.344979985,
                 "direction": -1,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074213,
@@ -16148,7 +16185,7 @@
                 "lat": 39.892669421,
                 "lon": -83.766007966,
                 "direction": 3,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074217,
@@ -16167,7 +16204,7 @@
                 "lat": 41.920270287,
                 "lon": -83.377761024,
                 "direction": 1,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074200,
@@ -16186,7 +16223,7 @@
                 "lat": 33.8685915,
                 "lon": -117.9210715,
                 "direction": -1,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074210,
@@ -16223,7 +16260,7 @@
                 "lat": 39.833457236,
                 "lon": -78.940881609,
                 "direction": 4,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074195,
@@ -16242,7 +16279,7 @@
                 "lat": 42.463286276,
                 "lon": -83.846060376,
                 "direction": 2,
-                "age": 9,
+                "age": 10,
                 "reports": [
                     {
                         "id": 1074194,
@@ -16261,7 +16298,7 @@
                 "lat": 41.843730885,
                 "lon": -87.750036007,
                 "direction": 5,
-                "age": 9,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074192,
@@ -16280,7 +16317,7 @@
                 "lat": 48.41138051,
                 "lon": -114.309679315,
                 "direction": 2,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074198,
@@ -16299,7 +16336,7 @@
                 "lat": 40.1287218,
                 "lon": -75.2057948,
                 "direction": 0,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074189,
@@ -16318,7 +16355,7 @@
                 "lat": 39.311986847,
                 "lon": -77.627781924,
                 "direction": 2,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074183,
@@ -16337,8 +16374,17 @@
                 "lat": 41.023151,
                 "lon": -92.421242,
                 "direction": -1,
-                "age": 10,
+                "age": 11,
                 "reports": [
+                    {
+                        "id": 1074349,
+                        "loco": "BNSF554 - ATSF Warbonnet",
+                        "spottedOn": 1786661580,
+                        "direction": "East",
+                        "train": "BNSF L-CHI664",
+                        "visualId": 4,
+                        "leading": false
+                    },
                     {
                         "id": 1074350,
                         "loco": "BNSF685 - ATSF Warbonnet",
@@ -16349,9 +16395,9 @@
                         "leading": false
                     },
                     {
-                        "id": 1074349,
-                        "loco": "BNSF554 - ATSF Warbonnet",
-                        "spottedOn": 1786661580,
+                        "id": 1072886,
+                        "loco": "BNSF334 - BNSF H1 Paint",
+                        "spottedOn": 1786490640,
                         "direction": "East",
                         "train": "BNSF L-CHI664",
                         "visualId": 4,
@@ -16365,15 +16411,6 @@
                         "train": "BNSF L-CHI664",
                         "visualId": 4,
                         "leading": true
-                    },
-                    {
-                        "id": 1072886,
-                        "loco": "BNSF334 - BNSF H1 Paint",
-                        "spottedOn": 1786490640,
-                        "direction": "East",
-                        "train": "BNSF L-CHI664",
-                        "visualId": 4,
-                        "leading": false
                     }
                 ]
             },
@@ -16383,7 +16420,7 @@
                 "lat": 41.884647346,
                 "lon": -87.638951322,
                 "direction": -1,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074167,
@@ -16411,7 +16448,7 @@
                 "lat": 35.970467,
                 "lon": -84.054506,
                 "direction": 3,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074166,
@@ -16430,7 +16467,7 @@
                 "lat": 39.188683,
                 "lon": -94.684154,
                 "direction": 4,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074172,
@@ -16449,7 +16486,7 @@
                 "lat": 41.887949005,
                 "lon": -87.640629688,
                 "direction": 4,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074163,
@@ -16468,7 +16505,7 @@
                 "lat": 36.177700019,
                 "lon": -86.679103764,
                 "direction": -1,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074179,
@@ -16496,7 +16533,7 @@
                 "lat": 42.885740192,
                 "lon": -73.889415482,
                 "direction": 2,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074157,
@@ -16515,7 +16552,7 @@
                 "lat": 41.68657723,
                 "lon": -88.429718095,
                 "direction": 2,
-                "age": 10,
+                "age": 11,
                 "reports": [
                     {
                         "id": 1074154,
@@ -16534,7 +16571,7 @@
                 "lat": 32.745697489,
                 "lon": -97.321479959,
                 "direction": -1,
-                "age": 10,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074147,
@@ -16562,7 +16599,7 @@
                 "lat": 40.602448439,
                 "lon": -79.75364008,
                 "direction": 2,
-                "age": 10,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074144,
@@ -16581,7 +16618,7 @@
                 "lat": 41.947806586,
                 "lon": -87.89897723,
                 "direction": -1,
-                "age": 10,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074146,
@@ -16609,7 +16646,7 @@
                 "lat": 41.035135369,
                 "lon": -82.511346026,
                 "direction": 4,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074135,
@@ -16628,7 +16665,7 @@
                 "lat": 45.4192,
                 "lon": -73.9168,
                 "direction": -1,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074133,
@@ -16656,7 +16693,7 @@
                 "lat": 41.280956,
                 "lon": -88.28523,
                 "direction": 4,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074132,
@@ -16675,7 +16712,7 @@
                 "lat": 40.039418,
                 "lon": -88.25341,
                 "direction": -1,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074123,
@@ -16703,7 +16740,7 @@
                 "lat": 41.650086736,
                 "lon": -87.687010026,
                 "direction": 4,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074125,
@@ -16722,7 +16759,7 @@
                 "lat": 37.75906784,
                 "lon": -77.481319886,
                 "direction": -1,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074122,
@@ -16750,7 +16787,7 @@
                 "lat": 41.166348142,
                 "lon": -82.229370513,
                 "direction": 4,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074108,
@@ -16769,7 +16806,7 @@
                 "lat": 40.830329701,
                 "lon": -72.650005198,
                 "direction": 4,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074107,
@@ -16788,7 +16825,7 @@
                 "lat": 41.206359931,
                 "lon": -83.901870012,
                 "direction": -1,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074130,
@@ -16816,7 +16853,7 @@
                 "lat": 40.809991239,
                 "lon": -74.207525482,
                 "direction": 4,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074105,
@@ -16835,7 +16872,7 @@
                 "lat": 41.528203,
                 "lon": -87.423047,
                 "direction": 2,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074103,
@@ -16854,7 +16891,7 @@
                 "lat": 44.055870136,
                 "lon": -123.096805916,
                 "direction": 1,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074099,
@@ -16873,8 +16910,17 @@
                 "lat": 34.423598585,
                 "lon": -103.63000451,
                 "direction": -1,
-                "age": 11,
+                "age": 12,
                 "reports": [
+                    {
+                        "id": 1074264,
+                        "loco": "BNSF763 - BNSF Warbonnet",
+                        "spottedOn": 1786656240,
+                        "direction": "West",
+                        "train": "BNSF H-AMSBAR",
+                        "visualId": 4,
+                        "leading": true
+                    },
                     {
                         "id": 1074266,
                         "loco": "BNSF1043 - BNSF H1 Paint",
@@ -16892,15 +16938,6 @@
                         "train": "BNSF H-AMSBAR",
                         "visualId": 4,
                         "leading": false
-                    },
-                    {
-                        "id": 1074264,
-                        "loco": "BNSF763 - BNSF Warbonnet",
-                        "spottedOn": 1786656240,
-                        "direction": "West",
-                        "train": "BNSF H-AMSBAR",
-                        "visualId": 4,
-                        "leading": true
                     }
                 ]
             },
@@ -16910,7 +16947,7 @@
                 "lat": 42.814619827,
                 "lon": -86.025040235,
                 "direction": 2,
-                "age": 11,
+                "age": 12,
                 "reports": [
                     {
                         "id": 1074094,
@@ -16929,7 +16966,7 @@
                 "lat": 43.330191505,
                 "lon": -88.288769229,
                 "direction": -1,
-                "age": 11,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074101,
@@ -16957,7 +16994,7 @@
                 "lat": 33.067286257,
                 "lon": -86.751183352,
                 "direction": 3,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074079,
@@ -16976,7 +17013,7 @@
                 "lat": 41.701726919,
                 "lon": -87.520082661,
                 "direction": 5,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074072,
@@ -16995,7 +17032,7 @@
                 "lat": 27.251774023,
                 "lon": -80.831026264,
                 "direction": 3,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074071,
@@ -17014,7 +17051,7 @@
                 "lat": 29.97185595,
                 "lon": -90.172089848,
                 "direction": 2,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074075,
@@ -17033,7 +17070,7 @@
                 "lat": 42.0013805,
                 "lon": -89.330391,
                 "direction": 4,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074076,
@@ -17052,7 +17089,7 @@
                 "lat": 37.9357639,
                 "lon": -94.695602677,
                 "direction": -1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074313,
@@ -17089,7 +17126,7 @@
                 "lat": 33.785472273,
                 "lon": -84.420139359,
                 "direction": -1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074068,
@@ -17117,7 +17154,7 @@
                 "lat": 39.62867012,
                 "lon": -78.803101559,
                 "direction": 4,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074064,
@@ -17136,7 +17173,7 @@
                 "lat": 30.49723,
                 "lon": -90.849629,
                 "direction": 2,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074063,
@@ -17155,7 +17192,7 @@
                 "lat": 39.431975651,
                 "lon": -84.208006388,
                 "direction": 5,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074059,
@@ -17174,7 +17211,7 @@
                 "lat": 39.080743881,
                 "lon": -77.141840492,
                 "direction": 2,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074058,
@@ -17193,7 +17230,7 @@
                 "lat": 39.763315512,
                 "lon": -75.486963241,
                 "direction": 1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074056,
@@ -17212,7 +17249,7 @@
                 "lat": 41.088880246,
                 "lon": -104.938549237,
                 "direction": -1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074055,
@@ -17240,7 +17277,7 @@
                 "lat": 34.763796191,
                 "lon": -92.261883016,
                 "direction": -1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074049,
@@ -17268,7 +17305,7 @@
                 "lat": 40.0161879,
                 "lon": -79.5917919,
                 "direction": -1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074045,
@@ -17296,7 +17333,7 @@
                 "lat": 34.387555371,
                 "lon": -103.048519893,
                 "direction": -1,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074077,
@@ -17324,7 +17361,7 @@
                 "lat": 41.690415508,
                 "lon": -87.506125689,
                 "direction": 4,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1074372,
@@ -17343,7 +17380,7 @@
                 "lat": 45.559753557,
                 "lon": -73.709219596,
                 "direction": 4,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074042,
@@ -17362,7 +17399,7 @@
                 "lat": 45.6377359,
                 "lon": -93.193566,
                 "direction": -1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074269,
@@ -17390,7 +17427,7 @@
                 "lat": 39.265169862,
                 "lon": -84.265260027,
                 "direction": 3,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074034,
@@ -17409,7 +17446,7 @@
                 "lat": 47.656815008,
                 "lon": -117.412023357,
                 "direction": 8,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074029,
@@ -17428,7 +17465,7 @@
                 "lat": 46.87416,
                 "lon": -96.694273,
                 "direction": 5,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074038,
@@ -17447,7 +17484,7 @@
                 "lat": 40.762026537,
                 "lon": -74.076625339,
                 "direction": -1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074025,
@@ -17475,7 +17512,7 @@
                 "lat": 35.043928949,
                 "lon": -85.284024763,
                 "direction": 5,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074013,
@@ -17494,7 +17531,7 @@
                 "lat": 32.858369,
                 "lon": -117.14855,
                 "direction": -1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074014,
@@ -17522,7 +17559,7 @@
                 "lat": 42.4649361,
                 "lon": -92.3146222,
                 "direction": -1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074002,
@@ -17559,7 +17596,7 @@
                 "lat": 35.327528968,
                 "lon": -81.759056703,
                 "direction": 3,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074006,
@@ -17578,7 +17615,7 @@
                 "lat": 37.659376227,
                 "lon": -82.250837599,
                 "direction": -1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074004,
@@ -17606,7 +17643,7 @@
                 "lat": 29.954839514,
                 "lon": -90.091325211,
                 "direction": 1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1073995,
@@ -17625,7 +17662,7 @@
                 "lat": 41.774724203,
                 "lon": -88.24440241,
                 "direction": 7,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1073999,
@@ -17644,7 +17681,7 @@
                 "lat": 41.607166047,
                 "lon": -87.644240551,
                 "direction": 1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1073997,
@@ -17663,7 +17700,7 @@
                 "lat": 52.073682954,
                 "lon": -106.617952537,
                 "direction": 4,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1074008,
@@ -17682,7 +17719,7 @@
                 "lat": 32.40786,
                 "lon": -91.18837,
                 "direction": 4,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1073993,
@@ -17701,7 +17738,7 @@
                 "lat": 38.019789067,
                 "lon": -84.520845347,
                 "direction": 1,
-                "age": 13,
+                "age": 14,
                 "reports": [
                     {
                         "id": 1073986,
@@ -17720,7 +17757,7 @@
                 "lat": 35.52842,
                 "lon": -108.74297,
                 "direction": -1,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1074003,
@@ -17766,7 +17803,7 @@
                 "lat": 31.205051162,
                 "lon": -82.361907098,
                 "direction": 3,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073978,
@@ -17785,7 +17822,7 @@
                 "lat": 36.335414291,
                 "lon": -94.461405558,
                 "direction": -1,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1074343,
@@ -17831,7 +17868,7 @@
                 "lat": 43.808735,
                 "lon": -91.216532,
                 "direction": 2,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073976,
@@ -17850,7 +17887,7 @@
                 "lat": 38.811302,
                 "lon": -94.908827,
                 "direction": -1,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073973,
@@ -17878,7 +17915,7 @@
                 "lat": 39.9871238,
                 "lon": -75.075808811,
                 "direction": -1,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073974,
@@ -17915,7 +17952,7 @@
                 "lat": 35.144978505,
                 "lon": -107.84083567,
                 "direction": 4,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073967,
@@ -17934,7 +17971,7 @@
                 "lat": 37.272619608,
                 "lon": -79.93659222,
                 "direction": 2,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073965,
@@ -17953,7 +17990,7 @@
                 "lat": 41.542689699,
                 "lon": -87.678559185,
                 "direction": 3,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073959,
@@ -17972,7 +18009,7 @@
                 "lat": 41.295867654,
                 "lon": -82.770714003,
                 "direction": 5,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073950,
@@ -17991,7 +18028,7 @@
                 "lat": 39.961202,
                 "lon": -83.166937,
                 "direction": 2,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073947,
@@ -18010,17 +18047,8 @@
                 "lat": 40.393671688,
                 "lon": -91.376591678,
                 "direction": -1,
-                "age": 14,
+                "age": 15,
                 "reports": [
-                    {
-                        "id": 1073961,
-                        "loco": "BNSF2326 - BNSF H1 Paint",
-                        "spottedOn": 1786644780,
-                        "direction": "West",
-                        "train": "BNSF L-HLA839",
-                        "visualId": 4,
-                        "leading": true
-                    },
                     {
                         "id": 1073962,
                         "loco": "BNSF169 - ATSF Bluebonnet",
@@ -18029,6 +18057,15 @@
                         "train": "BNSF L-HLA839",
                         "visualId": 4,
                         "leading": false
+                    },
+                    {
+                        "id": 1073961,
+                        "loco": "BNSF2326 - BNSF H1 Paint",
+                        "spottedOn": 1786644780,
+                        "direction": "West",
+                        "train": "BNSF L-HLA839",
+                        "visualId": 4,
+                        "leading": true
                     }
                 ]
             },
@@ -18038,7 +18075,7 @@
                 "lat": 37.944292912,
                 "lon": -81.064456058,
                 "direction": 2,
-                "age": 14,
+                "age": 15,
                 "reports": [
                     {
                         "id": 1073944,
@@ -18057,7 +18094,7 @@
                 "lat": 43.922095807,
                 "lon": -78.4405699,
                 "direction": 4,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073934,
@@ -18076,7 +18113,7 @@
                 "lat": 39.082994882,
                 "lon": -94.606631488,
                 "direction": 4,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073938,
@@ -18095,7 +18132,7 @@
                 "lat": 34.863361,
                 "lon": -116.888277,
                 "direction": -1,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1074078,
@@ -18123,7 +18160,7 @@
                 "lat": 40.5760963,
                 "lon": -76.0245981,
                 "direction": 5,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073922,
@@ -18142,7 +18179,7 @@
                 "lat": 41.660112,
                 "lon": -70.276592,
                 "direction": 2,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073918,
@@ -18161,7 +18198,7 @@
                 "lat": 39.298904722,
                 "lon": -76.547721048,
                 "direction": 5,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073917,
@@ -18180,7 +18217,7 @@
                 "lat": 38.67633584,
                 "lon": -83.782830944,
                 "direction": 4,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073913,
@@ -18199,7 +18236,7 @@
                 "lat": 34.80321893,
                 "lon": -86.9698806,
                 "direction": 1,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073910,
@@ -18218,7 +18255,7 @@
                 "lat": 40.8266835,
                 "lon": -73.926109428,
                 "direction": -1,
-                "age": 15,
+                "age": 16,
                 "reports": [
                     {
                         "id": 1073903,
@@ -18246,7 +18283,7 @@
                 "lat": 38.922688521,
                 "lon": -76.995403451,
                 "direction": 2,
-                "age": 16,
+                "age": 17,
                 "reports": [
                     {
                         "id": 1073890,
@@ -18265,7 +18302,7 @@
                 "lat": 38.90006,
                 "lon": -77.00492,
                 "direction": 8,
-                "age": 16,
+                "age": 17,
                 "reports": [
                     {
                         "id": 1073889,
@@ -18284,7 +18321,7 @@
                 "lat": 37.757868,
                 "lon": -77.48161,
                 "direction": -1,
-                "age": 16,
+                "age": 17,
                 "reports": [
                     {
                         "id": 1073907,
@@ -18321,7 +18358,7 @@
                 "lat": 43.059740252,
                 "lon": -76.998214299,
                 "direction": 4,
-                "age": 16,
+                "age": 17,
                 "reports": [
                     {
                         "id": 1073887,
@@ -18340,7 +18377,7 @@
                 "lat": 41.7414283,
                 "lon": -92.7224855,
                 "direction": -1,
-                "age": 17,
+                "age": 18,
                 "reports": [
                     {
                         "id": 1074169,
@@ -18368,7 +18405,7 @@
                 "lat": 33.520894416,
                 "lon": -86.793101009,
                 "direction": -1,
-                "age": 17,
+                "age": 18,
                 "reports": [
                     {
                         "id": 1073870,
@@ -18396,7 +18433,7 @@
                 "lat": 48.27776,
                 "lon": -113.613272,
                 "direction": -1,
-                "age": 17,
+                "age": 18,
                 "reports": [
                     {
                         "id": 1073929,
@@ -18433,7 +18470,7 @@
                 "lat": 40.799036382,
                 "lon": -74.473309809,
                 "direction": 5,
-                "age": 17,
+                "age": 18,
                 "reports": [
                     {
                         "id": 1073850,
@@ -18452,7 +18489,7 @@
                 "lat": 42.104797725,
                 "lon": -75.901558174,
                 "direction": 5,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073842,
@@ -18471,7 +18508,7 @@
                 "lat": 40.287554821,
                 "lon": -76.929166762,
                 "direction": 2,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1074000,
@@ -18490,7 +18527,7 @@
                 "lat": 39.129352822,
                 "lon": -94.434950797,
                 "direction": 4,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073835,
@@ -18509,7 +18546,7 @@
                 "lat": 48.759848304,
                 "lon": -122.488420863,
                 "direction": -1,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073831,
@@ -18537,7 +18574,7 @@
                 "lat": 43.1452729,
                 "lon": -90.6877506,
                 "direction": 7,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073830,
@@ -18556,7 +18593,7 @@
                 "lat": 39.691571933,
                 "lon": -78.183659044,
                 "direction": 4,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073827,
@@ -18575,7 +18612,7 @@
                 "lat": 41.804761116,
                 "lon": -87.628861494,
                 "direction": 6,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073824,
@@ -18594,7 +18631,7 @@
                 "lat": 34.884007108,
                 "lon": -79.698761567,
                 "direction": 5,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073840,
@@ -18613,7 +18650,7 @@
                 "lat": 27.753103972,
                 "lon": -98.050566433,
                 "direction": -1,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1074062,
@@ -18641,7 +18678,7 @@
                 "lat": 43.048042986,
                 "lon": -89.372992534,
                 "direction": 2,
-                "age": 18,
+                "age": 19,
                 "reports": [
                     {
                         "id": 1073812,
@@ -18660,7 +18697,7 @@
                 "lat": 35.786640442,
                 "lon": -78.729266056,
                 "direction": 3,
-                "age": 18,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073815,
@@ -18679,7 +18716,7 @@
                 "lat": 41.82416,
                 "lon": -87.83444,
                 "direction": 2,
-                "age": 18,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073811,
@@ -18698,7 +18735,7 @@
                 "lat": 33.986295727,
                 "lon": -84.154286631,
                 "direction": 3,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073806,
@@ -18717,7 +18754,7 @@
                 "lat": 40.2670326,
                 "lon": -76.7080408,
                 "direction": -1,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073813,
@@ -18745,7 +18782,7 @@
                 "lat": 42.90983,
                 "lon": -83.98365,
                 "direction": -1,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073797,
@@ -18773,7 +18810,7 @@
                 "lat": 33.813331235,
                 "lon": -84.633665371,
                 "direction": 4,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073794,
@@ -18792,7 +18829,7 @@
                 "lat": 51.50722,
                 "lon": -105.009992916,
                 "direction": -1,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073791,
@@ -18838,7 +18875,7 @@
                 "lat": 31.970101294,
                 "lon": -83.784065,
                 "direction": 1,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073789,
@@ -18857,7 +18894,7 @@
                 "lat": 39.871376332,
                 "lon": -79.492648161,
                 "direction": 2,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1073783,
@@ -18876,7 +18913,7 @@
                 "lat": 39.082947693,
                 "lon": -94.606619281,
                 "direction": -1,
-                "age": 19,
+                "age": 21,
                 "reports": [
                     {
                         "id": 1073781,
@@ -18904,7 +18941,7 @@
                 "lat": 38.355742255,
                 "lon": -87.574727885,
                 "direction": 2,
-                "age": 20,
+                "age": 21,
                 "reports": [
                     {
                         "id": 1074093,
@@ -18923,7 +18960,7 @@
                 "lat": 42.358679264,
                 "lon": -73.603710951,
                 "direction": 4,
-                "age": 20,
+                "age": 21,
                 "reports": [
                     {
                         "id": 1073775,
@@ -18938,30 +18975,11 @@
             },
             {
                 "isNew": false,
-                "name": "Joseph City, AZ (SWRC Camera)",
-                "lat": 34.967119303,
-                "lon": -110.42966922,
-                "direction": 4,
-                "age": 20,
-                "reports": [
-                    {
-                        "id": 1073780,
-                        "loco": "BNSF704 - BNSF Warbonnet",
-                        "spottedOn": 1786623300,
-                        "direction": "West",
-                        "train": "BNSF H-AMSBAR",
-                        "visualId": 4,
-                        "leading": true
-                    }
-                ]
-            },
-            {
-                "isNew": false,
                 "name": "Springfield, MO (Webcam - BNSF Thayer North)",
                 "lat": 37.218093262,
                 "lon": -93.229925,
                 "direction": -1,
-                "age": 20,
+                "age": 21,
                 "reports": [
                     {
                         "id": 1074024,
@@ -19012,11 +19030,30 @@
             },
             {
                 "isNew": false,
+                "name": "Joseph City, AZ (SWRC Camera)",
+                "lat": 34.967119303,
+                "lon": -110.42966922,
+                "direction": 4,
+                "age": 21,
+                "reports": [
+                    {
+                        "id": 1073780,
+                        "loco": "BNSF704 - BNSF Warbonnet",
+                        "spottedOn": 1786623300,
+                        "direction": "West",
+                        "train": "BNSF H-AMSBAR",
+                        "visualId": 4,
+                        "leading": true
+                    }
+                ]
+            },
+            {
+                "isNew": false,
                 "name": "Jesup, GA (Webcam)",
                 "lat": 31.605987889,
                 "lon": -81.881423505,
                 "direction": 1,
-                "age": 20,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1073756,
@@ -19035,7 +19072,7 @@
                 "lat": 41.153278814,
                 "lon": -83.406689024,
                 "direction": 4,
-                "age": 21,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1074036,
@@ -19054,7 +19091,7 @@
                 "lat": 42.55903609,
                 "lon": -71.589121034,
                 "direction": -1,
-                "age": 21,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1073750,
@@ -19082,7 +19119,7 @@
                 "lat": 40.454626025,
                 "lon": -80.01612769,
                 "direction": 5,
-                "age": 21,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1073751,
@@ -19101,7 +19138,7 @@
                 "lat": 49.023215697,
                 "lon": -122.81368017,
                 "direction": 3,
-                "age": 21,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1074066,
@@ -19120,7 +19157,7 @@
                 "lat": 41.2996019,
                 "lon": -81.4119731,
                 "direction": 1,
-                "age": 23,
+                "age": 24,
                 "reports": [
                     {
                         "id": 1073728,
@@ -19139,7 +19176,7 @@
                 "lat": 39.373703695,
                 "lon": -77.229173294,
                 "direction": 2,
-                "age": 23,
+                "age": 24,
                 "reports": [
                     {
                         "id": 1073725,
@@ -19158,7 +19195,7 @@
                 "lat": 46.669221026,
                 "lon": -122.972332217,
                 "direction": 3,
-                "age": 24,
+                "age": 25,
                 "reports": [
                     {
                         "id": 1073822,
@@ -19177,7 +19214,7 @@
                 "lat": 47.6860023,
                 "lon": -117.28271,
                 "direction": 3,
-                "age": 25,
+                "age": 27,
                 "reports": [
                     {
                         "id": 1073719,
@@ -19196,7 +19233,7 @@
                 "lat": 44.641306556,
                 "lon": -123.074581994,
                 "direction": 4,
-                "age": 26,
+                "age": 28,
                 "reports": [
                     {
                         "id": 1073718,
@@ -19215,7 +19252,7 @@
                 "lat": 45.498702357,
                 "lon": -122.915973339,
                 "direction": 4,
-                "age": 27,
+                "age": 28,
                 "reports": [
                     {
                         "id": 1073710,
@@ -19234,7 +19271,7 @@
                 "lat": 40.540722451,
                 "lon": -74.360839829,
                 "direction": 3,
-                "age": 28,
+                "age": 29,
                 "reports": [
                     {
                         "id": 1073700,
@@ -19253,7 +19290,7 @@
                 "lat": 37.965118778,
                 "lon": -87.608206127,
                 "direction": 5,
-                "age": 28,
+                "age": 29,
                 "reports": [
                     {
                         "id": 1073697,
@@ -19272,7 +19309,7 @@
                 "lat": 33.990562472,
                 "lon": -118.144741618,
                 "direction": 5,
-                "age": 28,
+                "age": 30,
                 "reports": [
                     {
                         "id": 1073690,
@@ -19291,7 +19328,7 @@
                 "lat": 34.057936125,
                 "lon": -118.217717035,
                 "direction": 0,
-                "age": 29,
+                "age": 30,
                 "reports": [
                     {
                         "id": 1073683,
@@ -19310,7 +19347,7 @@
                 "lat": 38.3699972,
                 "lon": -88.0499791,
                 "direction": 4,
-                "age": 29,
+                "age": 31,
                 "reports": [
                     {
                         "id": 1073674,
@@ -19329,7 +19366,7 @@
                 "lat": 33.879736388,
                 "lon": -117.528260269,
                 "direction": 7,
-                "age": 30,
+                "age": 31,
                 "reports": [
                     {
                         "id": 1073661,
@@ -19348,7 +19385,7 @@
                 "lat": 30.0380766,
                 "lon": -94.4079825,
                 "direction": 4,
-                "age": 30,
+                "age": 32,
                 "reports": [
                     {
                         "id": 1073653,
@@ -19367,7 +19404,7 @@
                 "lat": 41.871138294,
                 "lon": -87.902548201,
                 "direction": -1,
-                "age": 31,
+                "age": 32,
                 "reports": [
                     {
                         "id": 1073648,
@@ -19395,7 +19432,7 @@
                 "lat": 40.322246081,
                 "lon": -76.026490269,
                 "direction": 2,
-                "age": 31,
+                "age": 32,
                 "reports": [
                     {
                         "id": 1073636,
@@ -19414,7 +19451,7 @@
                 "lat": 38.108623562,
                 "lon": -121.273356949,
                 "direction": 3,
-                "age": 31,
+                "age": 32,
                 "reports": [
                     {
                         "id": 1073646,
@@ -19433,7 +19470,7 @@
                 "lat": 41.843533338,
                 "lon": -87.751958422,
                 "direction": 5,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073603,
@@ -19452,7 +19489,7 @@
                 "lat": 35.53435001,
                 "lon": -78.276416219,
                 "direction": -1,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073607,
@@ -19480,7 +19517,7 @@
                 "lat": 39.530422048,
                 "lon": -119.743577547,
                 "direction": 5,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073599,
@@ -19499,7 +19536,7 @@
                 "lat": 41.242411942,
                 "lon": -82.107943624,
                 "direction": 4,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073578,
@@ -19518,7 +19555,7 @@
                 "lat": 30.829569513,
                 "lon": -82.00753591,
                 "direction": -1,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073579,
@@ -19546,7 +19583,7 @@
                 "lat": 38.4873306,
                 "lon": -100.870261,
                 "direction": 2,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073574,
@@ -19565,7 +19602,7 @@
                 "lat": 29.702281175,
                 "lon": -98.128986747,
                 "direction": 3,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073605,
@@ -19584,7 +19621,7 @@
                 "lat": 43.451344,
                 "lon": -83.690413,
                 "direction": 2,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073565,
@@ -19603,7 +19640,7 @@
                 "lat": 41.84361,
                 "lon": -87.73888,
                 "direction": 3,
-                "age": 32,
+                "age": 33,
                 "reports": [
                     {
                         "id": 1073564,
@@ -19622,7 +19659,7 @@
                 "lat": 49.209971743,
                 "lon": -122.897308361,
                 "direction": -1,
-                "age": 33,
+                "age": 34,
                 "reports": [
                     {
                         "id": 1073679,
@@ -19659,7 +19696,7 @@
                 "lat": 39.086191166,
                 "lon": -94.586493389,
                 "direction": 4,
-                "age": 33,
+                "age": 34,
                 "reports": [
                     {
                         "id": 1073551,
@@ -19678,7 +19715,7 @@
                 "lat": 36.33120191,
                 "lon": -95.606046642,
                 "direction": 4,
-                "age": 33,
+                "age": 34,
                 "reports": [
                     {
                         "id": 1073532,
@@ -19697,7 +19734,7 @@
                 "lat": 43.326212947,
                 "lon": -108.139056021,
                 "direction": 3,
-                "age": 33,
+                "age": 34,
                 "reports": [
                     {
                         "id": 1073526,
@@ -19716,7 +19753,7 @@
                 "lat": 35.830953551,
                 "lon": -88.911315378,
                 "direction": 1,
-                "age": 33,
+                "age": 34,
                 "reports": [
                     {
                         "id": 1073519,
@@ -19735,7 +19772,7 @@
                 "lat": 42.280126839,
                 "lon": -87.896966564,
                 "direction": 4,
-                "age": 33,
+                "age": 34,
                 "reports": [
                     {
                         "id": 1073548,
@@ -19754,7 +19791,7 @@
                 "lat": 33.439508246,
                 "lon": -101.632467501,
                 "direction": 4,
-                "age": 33,
+                "age": 34,
                 "reports": [
                     {
                         "id": 1073517,
@@ -19773,7 +19810,7 @@
                 "lat": 41.1307514,
                 "lon": -104.8129095,
                 "direction": 5,
-                "age": 33,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073493,
@@ -19792,7 +19829,7 @@
                 "lat": 45.49859642,
                 "lon": -73.508610563,
                 "direction": 2,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073480,
@@ -19811,7 +19848,7 @@
                 "lat": 40.10371724,
                 "lon": -74.049652258,
                 "direction": 2,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073479,
@@ -19830,7 +19867,7 @@
                 "lat": 47.3567324,
                 "lon": -118.502954,
                 "direction": 2,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073481,
@@ -19849,7 +19886,7 @@
                 "lat": 37.686195979,
                 "lon": -97.330167002,
                 "direction": -1,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073709,
@@ -19895,7 +19932,7 @@
                 "lat": 30.50872,
                 "lon": -90.462655,
                 "direction": 2,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073463,
@@ -19914,7 +19951,7 @@
                 "lat": 34.311301308,
                 "lon": -88.790606218,
                 "direction": -1,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073460,
@@ -19942,7 +19979,7 @@
                 "lat": 40.807850755,
                 "lon": -96.776977311,
                 "direction": 0,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073452,
@@ -19961,7 +19998,7 @@
                 "lat": 41.553606368,
                 "lon": -87.672725827,
                 "direction": -1,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1073446,
@@ -19989,7 +20026,7 @@
                 "lat": 42.591806544,
                 "lon": -84.809497887,
                 "direction": -1,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073534,
@@ -20017,7 +20054,7 @@
                 "lat": 41.6777375,
                 "lon": -81.3392936,
                 "direction": 4,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073410,
@@ -20036,7 +20073,7 @@
                 "lat": 46.87465014,
                 "lon": -96.748300657,
                 "direction": -1,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073702,
@@ -20073,7 +20110,7 @@
                 "lat": 35.562128177,
                 "lon": -78.203404564,
                 "direction": 3,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073391,
@@ -20092,7 +20129,7 @@
                 "lat": 41.270800942,
                 "lon": -82.83001455,
                 "direction": -1,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073389,
@@ -20129,7 +20166,7 @@
                 "lat": 33.202539994,
                 "lon": -87.573725927,
                 "direction": 5,
-                "age": 35,
+                "age": 36,
                 "reports": [
                     {
                         "id": 1073382,
@@ -20148,7 +20185,7 @@
                 "lat": 44.590838,
                 "lon": -89.763629,
                 "direction": -1,
-                "age": 35,
+                "age": 37,
                 "reports": [
                     {
                         "id": 1073717,
@@ -20203,7 +20240,7 @@
                 "lat": 32.8609565,
                 "lon": -97.361453,
                 "direction": -1,
-                "age": 36,
+                "age": 37,
                 "reports": [
                     {
                         "id": 1073459,
@@ -20231,7 +20268,7 @@
                 "lat": 36.543317,
                 "lon": -82.560531,
                 "direction": 1,
-                "age": 36,
+                "age": 37,
                 "reports": [
                     {
                         "id": 1073332,
@@ -20250,7 +20287,7 @@
                 "lat": 42.332755519,
                 "lon": -71.063425148,
                 "direction": 5,
-                "age": 36,
+                "age": 37,
                 "reports": [
                     {
                         "id": 1073318,
@@ -20269,7 +20306,7 @@
                 "lat": 34.257574,
                 "lon": -78.0078217,
                 "direction": 4,
-                "age": 37,
+                "age": 38,
                 "reports": [
                     {
                         "id": 1073300,
@@ -20288,7 +20325,7 @@
                 "lat": 39.101168875,
                 "lon": -84.542763821,
                 "direction": 0,
-                "age": 37,
+                "age": 38,
                 "reports": [
                     {
                         "id": 1073265,
@@ -20307,7 +20344,7 @@
                 "lat": 37.407279881,
                 "lon": -94.696484767,
                 "direction": 2,
-                "age": 38,
+                "age": 39,
                 "reports": [
                     {
                         "id": 1074280,
@@ -20326,7 +20363,7 @@
                 "lat": 32.886296878,
                 "lon": -97.260448566,
                 "direction": 1,
-                "age": 39,
+                "age": 40,
                 "reports": [
                     {
                         "id": 1073203,
@@ -20345,7 +20382,7 @@
                 "lat": 31.207044266,
                 "lon": -82.365759552,
                 "direction": 1,
-                "age": 39,
+                "age": 40,
                 "reports": [
                     {
                         "id": 1073188,
@@ -20364,7 +20401,7 @@
                 "lat": 33.975622775,
                 "lon": -117.369680903,
                 "direction": -1,
-                "age": 39,
+                "age": 40,
                 "reports": [
                     {
                         "id": 1073176,
@@ -20392,7 +20429,7 @@
                 "lat": 40.016797561,
                 "lon": -98.060614402,
                 "direction": -1,
-                "age": 40,
+                "age": 41,
                 "reports": [
                     {
                         "id": 1073218,
@@ -20420,7 +20457,7 @@
                 "lat": 42.634078563,
                 "lon": -73.916989111,
                 "direction": 2,
-                "age": 40,
+                "age": 42,
                 "reports": [
                     {
                         "id": 1073142,
@@ -20439,7 +20476,7 @@
                 "lat": 44.593498325,
                 "lon": -75.690332638,
                 "direction": 4,
-                "age": 41,
+                "age": 42,
                 "reports": [
                     {
                         "id": 1073799,
@@ -20458,7 +20495,7 @@
                 "lat": 39.288656,
                 "lon": -80.280047,
                 "direction": 4,
-                "age": 41,
+                "age": 42,
                 "reports": [
                     {
                         "id": 1073115,
@@ -20477,7 +20514,7 @@
                 "lat": 40.6992299,
                 "lon": -73.8104762,
                 "direction": 5,
-                "age": 41,
+                "age": 42,
                 "reports": [
                     {
                         "id": 1073102,
@@ -20496,7 +20533,7 @@
                 "lat": 30.432271087,
                 "lon": -93.964840366,
                 "direction": 1,
-                "age": 41,
+                "age": 42,
                 "reports": [
                     {
                         "id": 1073095,
@@ -20515,7 +20552,7 @@
                 "lat": 45.029450867,
                 "lon": -93.253988222,
                 "direction": -1,
-                "age": 41,
+                "age": 42,
                 "reports": [
                     {
                         "id": 1073093,
@@ -20543,7 +20580,7 @@
                 "lat": 33.209137764,
                 "lon": -86.784921731,
                 "direction": 3,
-                "age": 41,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1073084,
@@ -20562,7 +20599,7 @@
                 "lat": 30.708241536,
                 "lon": -96.866274709,
                 "direction": 3,
-                "age": 41,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1073087,
@@ -20581,7 +20618,7 @@
                 "lat": 40.65890493,
                 "lon": -74.280123335,
                 "direction": 2,
-                "age": 41,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1073085,
@@ -20600,7 +20637,7 @@
                 "lat": 51.024211773,
                 "lon": -114.022110095,
                 "direction": -1,
-                "age": 42,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1073082,
@@ -20628,7 +20665,7 @@
                 "lat": 31.601039155,
                 "lon": -81.887113352,
                 "direction": 3,
-                "age": 42,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1073067,
@@ -20647,7 +20684,7 @@
                 "lat": 40.745150205,
                 "lon": -84.101140266,
                 "direction": 1,
-                "age": 42,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1073073,
@@ -20666,7 +20703,7 @@
                 "lat": 34.659347939,
                 "lon": -106.767147926,
                 "direction": 4,
-                "age": 42,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1073054,
@@ -20685,7 +20722,7 @@
                 "lat": 40.80818255,
                 "lon": -74.208672959,
                 "direction": 2,
-                "age": 43,
+                "age": 44,
                 "reports": [
                     {
                         "id": 1073034,
@@ -20704,7 +20741,7 @@
                 "lat": 41.066091137,
                 "lon": -81.523202254,
                 "direction": 2,
-                "age": 43,
+                "age": 44,
                 "reports": [
                     {
                         "id": 1073014,
@@ -20723,7 +20760,7 @@
                 "lat": 41.062087,
                 "lon": -81.4709797,
                 "direction": 2,
-                "age": 43,
+                "age": 44,
                 "reports": [
                     {
                         "id": 1073011,
@@ -20742,7 +20779,7 @@
                 "lat": 29.9979916,
                 "lon": -91.8343071,
                 "direction": 6,
-                "age": 44,
+                "age": 45,
                 "reports": [
                     {
                         "id": 1072996,
@@ -20761,7 +20798,7 @@
                 "lat": 43.1468622,
                 "lon": -79.251138576,
                 "direction": -1,
-                "age": 44,
+                "age": 45,
                 "reports": [
                     {
                         "id": 1072993,
@@ -20798,7 +20835,7 @@
                 "lat": 40.374606976,
                 "lon": -86.836728652,
                 "direction": -1,
-                "age": 44,
+                "age": 45,
                 "reports": [
                     {
                         "id": 1072990,
@@ -20826,7 +20863,7 @@
                 "lat": 45.568103661,
                 "lon": -94.148772681,
                 "direction": 2,
-                "age": 44,
+                "age": 45,
                 "reports": [
                     {
                         "id": 1072988,
@@ -20845,7 +20882,7 @@
                 "lat": 42.260219624,
                 "lon": -71.796545053,
                 "direction": 4,
-                "age": 45,
+                "age": 46,
                 "reports": [
                     {
                         "id": 1072970,
@@ -20864,17 +20901,8 @@
                 "lat": 45.442836165,
                 "lon": -73.817958733,
                 "direction": -1,
-                "age": 45,
+                "age": 46,
                 "reports": [
-                    {
-                        "id": 1072966,
-                        "loco": "CN3885 - 100th Anniversary",
-                        "spottedOn": 1786534560,
-                        "direction": "East",
-                        "train": "Intermodal",
-                        "visualId": 3,
-                        "leading": false
-                    },
                     {
                         "id": 1072965,
                         "loco": "CN2763 - Ex-Citirail",
@@ -20883,6 +20911,15 @@
                         "train": "Intermodal",
                         "visualId": 3,
                         "leading": true
+                    },
+                    {
+                        "id": 1072966,
+                        "loco": "CN3885 - 100th Anniversary",
+                        "spottedOn": 1786534560,
+                        "direction": "East",
+                        "train": "Intermodal",
+                        "visualId": 3,
+                        "leading": false
                     }
                 ]
             },
@@ -20892,7 +20929,7 @@
                 "lat": 31.970101294,
                 "lon": -83.784065,
                 "direction": -1,
-                "age": 48,
+                "age": 49,
                 "reports": [
                     {
                         "id": 1072942,
@@ -20938,7 +20975,7 @@
                 "lat": 34.8416574,
                 "lon": -114.6071443,
                 "direction": -1,
-                "age": 48,
+                "age": 49,
                 "reports": [
                     {
                         "id": 1072934,
@@ -20966,7 +21003,7 @@
                 "lat": 41.131369562,
                 "lon": -104.814305196,
                 "direction": -1,
-                "age": 49,
+                "age": 50,
                 "reports": [
                     {
                         "id": 1072982,
@@ -20994,7 +21031,7 @@
                 "lat": 40.783313326,
                 "lon": -81.412565607,
                 "direction": 4,
-                "age": 54,
+                "age": 55,
                 "reports": [
                     {
                         "id": 1072870,
@@ -21013,11 +21050,11 @@
                 "lat": 34.612450141,
                 "lon": -86.98801147,
                 "direction": -1,
-                "age": 54,
+                "age": 55,
                 "reports": [
                     {
-                        "id": 1072905,
-                        "loco": "CSXT140 - CSX YN2",
+                        "id": 1072906,
+                        "loco": "CSXT537 - CSX YN2",
                         "spottedOn": 1786502040,
                         "direction": "South",
                         "train": "CSX M209",
@@ -21025,8 +21062,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1072906,
-                        "loco": "CSXT537 - CSX YN2",
+                        "id": 1072905,
+                        "loco": "CSXT140 - CSX YN2",
                         "spottedOn": 1786502040,
                         "direction": "South",
                         "train": "CSX M209",
@@ -21041,7 +21078,7 @@
                 "lat": 47.810008884,
                 "lon": -116.899926768,
                 "direction": 4,
-                "age": 54,
+                "age": 55,
                 "reports": [
                     {
                         "id": 1072855,
@@ -21060,7 +21097,7 @@
                 "lat": 33.669260171,
                 "lon": -112.388570832,
                 "direction": 0,
-                "age": 54,
+                "age": 56,
                 "reports": [
                     {
                         "id": 1072848,
@@ -21079,7 +21116,7 @@
                 "lat": 42.23314148,
                 "lon": -83.15167418,
                 "direction": -1,
-                "age": 55,
+                "age": 56,
                 "reports": [
                     {
                         "id": 1072818,
@@ -21116,7 +21153,7 @@
                 "lat": 39.912229862,
                 "lon": -82.985311139,
                 "direction": 5,
-                "age": 55,
+                "age": 57,
                 "reports": [
                     {
                         "id": 1072808,
@@ -21135,7 +21172,7 @@
                 "lat": 39.133926729,
                 "lon": -94.537744231,
                 "direction": -1,
-                "age": 56,
+                "age": 57,
                 "reports": [
                     {
                         "id": 1072797,
@@ -21172,7 +21209,7 @@
                 "lat": 34.326230276,
                 "lon": -117.431504913,
                 "direction": 4,
-                "age": 56,
+                "age": 57,
                 "reports": [
                     {
                         "id": 1072787,
@@ -21191,7 +21228,7 @@
                 "lat": 43.518730886,
                 "lon": -70.372551489,
                 "direction": 4,
-                "age": 56,
+                "age": 57,
                 "reports": [
                     {
                         "id": 1072772,
@@ -21210,7 +21247,7 @@
                 "lat": 37.792152737,
                 "lon": -94.699035877,
                 "direction": 3,
-                "age": 56,
+                "age": 58,
                 "reports": [
                     {
                         "id": 1072755,
@@ -21229,7 +21266,7 @@
                 "lat": 45.6500992,
                 "lon": -122.6884546,
                 "direction": 0,
-                "age": 57,
+                "age": 58,
                 "reports": [
                     {
                         "id": 1072748,
@@ -21248,7 +21285,7 @@
                 "lat": 51.002297392,
                 "lon": -118.198525898,
                 "direction": -1,
-                "age": 57,
+                "age": 58,
                 "reports": [
                     {
                         "id": 1072899,
@@ -21276,7 +21313,7 @@
                 "lat": 28.692675308,
                 "lon": -100.510103831,
                 "direction": 4,
-                "age": 57,
+                "age": 58,
                 "reports": [
                     {
                         "id": 1072778,
@@ -21295,7 +21332,7 @@
                 "lat": 35.04677311,
                 "lon": -85.28779562,
                 "direction": 6,
-                "age": 57,
+                "age": 58,
                 "reports": [
                     {
                         "id": 1072717,
@@ -21314,7 +21351,7 @@
                 "lat": 38.481518567,
                 "lon": -90.740596101,
                 "direction": 4,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072849,
@@ -21333,7 +21370,7 @@
                 "lat": 38.206655624,
                 "lon": -84.547663277,
                 "direction": 1,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072667,
@@ -21352,7 +21389,7 @@
                 "lat": 40.913383475,
                 "lon": -96.534572032,
                 "direction": 8,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072657,
@@ -21371,7 +21408,7 @@
                 "lat": 40.356525842,
                 "lon": -79.840340617,
                 "direction": 5,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072638,
@@ -21390,7 +21427,7 @@
                 "lat": 33.95806,
                 "lon": -118.07132,
                 "direction": 2,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072629,
@@ -21409,7 +21446,7 @@
                 "lat": 36.504585971,
                 "lon": -86.886119707,
                 "direction": -1,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072631,
@@ -21437,7 +21474,7 @@
                 "lat": 47.864787795,
                 "lon": -122.33282292,
                 "direction": 4,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072621,
@@ -21456,7 +21493,7 @@
                 "lat": 40.773868988,
                 "lon": -74.086347618,
                 "direction": 2,
-                "age": 58,
+                "age": 59,
                 "reports": [
                     {
                         "id": 1072618,
@@ -21475,7 +21512,7 @@
                 "lat": 39.339791611,
                 "lon": -79.994315147,
                 "direction": -1,
-                "age": 59,
+                "age": 60,
                 "reports": [
                     {
                         "id": 1072605,
@@ -21503,7 +21540,7 @@
                 "lat": 48.459890975,
                 "lon": -114.045334767,
                 "direction": -1,
-                "age": 59,
+                "age": 60,
                 "reports": [
                     {
                         "id": 1072617,
@@ -21531,7 +21568,7 @@
                 "lat": 53.574059572,
                 "lon": -113.353320687,
                 "direction": 4,
-                "age": 59,
+                "age": 60,
                 "reports": [
                     {
                         "id": 1072639,
@@ -21550,7 +21587,7 @@
                 "lat": 44.428101021,
                 "lon": -92.245847583,
                 "direction": 2,
-                "age": 59,
+                "age": 61,
                 "reports": [
                     {
                         "id": 1072544,
@@ -21569,7 +21606,7 @@
                 "lat": 25.861031714,
                 "lon": -80.259757274,
                 "direction": 3,
-                "age": 60,
+                "age": 61,
                 "reports": [
                     {
                         "id": 1072528,
@@ -21588,7 +21625,7 @@
                 "lat": 36.259578628,
                 "lon": -89.18804146,
                 "direction": -1,
-                "age": 60,
+                "age": 61,
                 "reports": [
                     {
                         "id": 1072873,
@@ -21616,7 +21653,7 @@
                 "lat": 42.766898964,
                 "lon": -71.088152443,
                 "direction": 2,
-                "age": 60,
+                "age": 61,
                 "reports": [
                     {
                         "id": 1072521,
@@ -21635,7 +21672,7 @@
                 "lat": 46.094682281,
                 "lon": -122.87534712,
                 "direction": 3,
-                "age": 61,
+                "age": 62,
                 "reports": [
                     {
                         "id": 1072490,
@@ -21654,7 +21691,7 @@
                 "lat": 41.065675584,
                 "lon": -74.66642612,
                 "direction": 5,
-                "age": 61,
+                "age": 62,
                 "reports": [
                     {
                         "id": 1072484,
@@ -21673,7 +21710,7 @@
                 "lat": 46.004471478,
                 "lon": -122.845191413,
                 "direction": 3,
-                "age": 61,
+                "age": 62,
                 "reports": [
                     {
                         "id": 1072476,
@@ -21692,7 +21729,7 @@
                 "lat": 38.5285169,
                 "lon": -89.1316944,
                 "direction": 5,
-                "age": 61,
+                "age": 62,
                 "reports": [
                     {
                         "id": 1073640,
@@ -21711,7 +21748,7 @@
                 "lat": 40.807726051,
                 "lon": -96.719803337,
                 "direction": 4,
-                "age": 61,
+                "age": 63,
                 "reports": [
                     {
                         "id": 1072840,
@@ -21730,7 +21767,7 @@
                 "lat": 34.541184222,
                 "lon": -117.297966908,
                 "direction": 2,
-                "age": 62,
+                "age": 63,
                 "reports": [
                     {
                         "id": 1072452,
@@ -21749,7 +21786,7 @@
                 "lat": 41.073784401,
                 "lon": -85.058801658,
                 "direction": 4,
-                "age": 62,
+                "age": 63,
                 "reports": [
                     {
                         "id": 1072448,
@@ -21768,7 +21805,7 @@
                 "lat": 39.501628897,
                 "lon": -84.742800561,
                 "direction": 2,
-                "age": 62,
+                "age": 63,
                 "reports": [
                     {
                         "id": 1072447,
@@ -21787,7 +21824,7 @@
                 "lat": 40.769933007,
                 "lon": -82.747160742,
                 "direction": 2,
-                "age": 62,
+                "age": 64,
                 "reports": [
                     {
                         "id": 1072422,
@@ -21806,7 +21843,7 @@
                 "lat": 47.400002,
                 "lon": -121.989998,
                 "direction": 2,
-                "age": 63,
+                "age": 64,
                 "reports": [
                     {
                         "id": 1072431,
@@ -21825,7 +21862,7 @@
                 "lat": 35.348099922,
                 "lon": -118.870710665,
                 "direction": 1,
-                "age": 63,
+                "age": 64,
                 "reports": [
                     {
                         "id": 1072385,
@@ -21844,7 +21881,7 @@
                 "lat": 32.776092713,
                 "lon": -96.808454946,
                 "direction": 2,
-                "age": 63,
+                "age": 64,
                 "reports": [
                     {
                         "id": 1072376,
@@ -21863,7 +21900,7 @@
                 "lat": 40.73197,
                 "lon": -74.174184,
                 "direction": 5,
-                "age": 63,
+                "age": 64,
                 "reports": [
                     {
                         "id": 1072456,
@@ -21882,7 +21919,7 @@
                 "lat": 39.056717831,
                 "lon": -95.663425285,
                 "direction": 5,
-                "age": 63,
+                "age": 65,
                 "reports": [
                     {
                         "id": 1072366,
@@ -21901,7 +21938,7 @@
                 "lat": 39.052838778,
                 "lon": -95.659188577,
                 "direction": 8,
-                "age": 64,
+                "age": 65,
                 "reports": [
                     {
                         "id": 1072363,
@@ -21920,7 +21957,7 @@
                 "lat": 40.945559594,
                 "lon": -90.362249895,
                 "direction": 4,
-                "age": 64,
+                "age": 65,
                 "reports": [
                     {
                         "id": 1072326,
@@ -21939,7 +21976,7 @@
                 "lat": 33.464598704,
                 "lon": -112.100783003,
                 "direction": 2,
-                "age": 65,
+                "age": 66,
                 "reports": [
                     {
                         "id": 1072341,
@@ -21958,7 +21995,7 @@
                 "lat": 38.049220895,
                 "lon": -97.876072477,
                 "direction": 2,
-                "age": 65,
+                "age": 66,
                 "reports": [
                     {
                         "id": 1072288,
@@ -21977,7 +22014,7 @@
                 "lat": 44.410713552,
                 "lon": -89.843627409,
                 "direction": -1,
-                "age": 67,
+                "age": 68,
                 "reports": [
                     {
                         "id": 1072244,
@@ -22005,7 +22042,7 @@
                 "lat": 40.606462496,
                 "lon": -74.276597135,
                 "direction": 1,
-                "age": 67,
+                "age": 68,
                 "reports": [
                     {
                         "id": 1072229,
@@ -22024,7 +22061,7 @@
                 "lat": 45.422848983,
                 "lon": -122.760870519,
                 "direction": 5,
-                "age": 67,
+                "age": 68,
                 "reports": [
                     {
                         "id": 1072217,
@@ -22043,7 +22080,7 @@
                 "lat": 33.135606191,
                 "lon": -96.119058,
                 "direction": 2,
-                "age": 68,
+                "age": 69,
                 "reports": [
                     {
                         "id": 1072216,
@@ -22062,7 +22099,7 @@
                 "lat": 41.349594332,
                 "lon": -85.061609646,
                 "direction": 4,
-                "age": 68,
+                "age": 69,
                 "reports": [
                     {
                         "id": 1072204,
@@ -22081,7 +22118,7 @@
                 "lat": 40.760746572,
                 "lon": -74.075434368,
                 "direction": 4,
-                "age": 68,
+                "age": 69,
                 "reports": [
                     {
                         "id": 1072202,
@@ -22100,7 +22137,7 @@
                 "lat": 41.578766071,
                 "lon": -87.65940494,
                 "direction": 7,
-                "age": 70,
+                "age": 71,
                 "reports": [
                     {
                         "id": 1072160,

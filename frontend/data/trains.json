@@ -1,5 +1,21 @@
 {
-    "updated": "2026-08-14 08:34:58",
-    "count": 0,
-    "trains": []
+    "updated": "2026-08-14 09:40:55",
+    "count": 1,
+    "trains": [
+        {
+            "type": "amtrak",
+            "trainNum": "280",
+            "route": "Empire Service",
+            "provider": "Amtrak",
+            "direction": "W",
+            "trainID": "280-14",
+            "latitude": 43.12137698190446,
+            "longitude": -77.50815856234868,
+            "status": "enroute",
+            "completedStops": 4,
+            "totalStops": 15,
+            "nextStop": "Syracuse",
+            "lastUpdate": "09:40:55"
+        }
+    ]
 }
