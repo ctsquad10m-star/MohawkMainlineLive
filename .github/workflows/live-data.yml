@@ -43,14 +43,6 @@ jobs:
       - name: Update train data
         run: python backend/update_once.py
 
-      - name: Save updated JSON files
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add -A frontend/data
-          git diff --cached --quiet || git commit -m "Update live train data"
-          git push
-
       - name: Set up GitHub Pages
         uses: actions/configure-pages@v5
 
