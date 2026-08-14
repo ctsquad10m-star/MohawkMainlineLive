@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-14 10:40:32",
+    "updated": "2026-08-14 11:29:29",
     "count": 1,
     "trains": [
         {
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "280-14",
-            "latitude": 43.085026774922035,
-            "longitude": -76.32197043356878,
+            "latitude": 43.09174066828035,
+            "longitude": -75.6994421556815,
             "status": "enroute",
-            "completedStops": 4,
+            "completedStops": 5,
             "totalStops": 15,
-            "nextStop": "Syracuse",
-            "lastUpdate": "10:40:32"
+            "nextStop": "Rome",
+            "lastUpdate": "11:29:29"
         }
     ]
 }
