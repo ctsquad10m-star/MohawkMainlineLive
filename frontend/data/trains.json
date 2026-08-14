@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-14 11:29:29",
+    "updated": "2026-08-14 12:25:07",
     "count": 1,
     "trains": [
         {
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "280-14",
-            "latitude": 43.09174066828035,
-            "longitude": -75.6994421556815,
+            "latitude": 43.036995971993264,
+            "longitude": -74.83823581810698,
             "status": "enroute",
-            "completedStops": 5,
+            "completedStops": 7,
             "totalStops": 15,
-            "nextStop": "Rome",
-            "lastUpdate": "11:29:29"
+            "nextStop": "Amsterdam",
+            "lastUpdate": "12:25:07"
         }
     ]
 }
