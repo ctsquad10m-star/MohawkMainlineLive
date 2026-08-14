@@ -1,21 +1,21 @@
 {
-    "updated": "2026-08-14 12:25:07",
+    "updated": "2026-08-14 13:53:47",
     "count": 1,
     "trains": [
         {
             "type": "amtrak",
-            "trainNum": "280",
+            "trainNum": "284",
             "route": "Empire Service",
             "provider": "Amtrak",
             "direction": "W",
-            "trainID": "280-14",
-            "latitude": 43.036995971993264,
-            "longitude": -74.83823581810698,
+            "trainID": "284-14",
+            "latitude": 43.076890030626565,
+            "longitude": -76.1701378028961,
             "status": "enroute",
-            "completedStops": 7,
-            "totalStops": 15,
-            "nextStop": "Amsterdam",
-            "lastUpdate": "12:25:07"
+            "completedStops": 4,
+            "totalStops": 16,
+            "nextStop": "Syracuse",
+            "lastUpdate": "13:53:47"
         }
     ]
 }
