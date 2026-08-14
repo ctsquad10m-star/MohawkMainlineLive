@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-14 16:31:20",
+    "updated": "2026-08-14 16:50:58",
     "count": 2,
     "trains": [
         {
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "48-13",
-            "latitude": 43.19627103388273,
-            "longitude": -75.40894524317764,
+            "latitude": 43.10428341446049,
+            "longitude": -75.22139177050636,
             "status": "enroute",
             "completedStops": 13,
             "totalStops": 20,
             "nextStop": "Utica",
-            "lastUpdate": "16:31:20"
+            "lastUpdate": "16:50:58"
         },
         {
             "type": "amtrak",
@@ -24,13 +24,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "63-14",
-            "latitude": 43.199879735935795,
-            "longitude": -75.44951074761951,
+            "latitude": 43.07945352482163,
+            "longitude": -75.72990633763892,
             "status": "enroute",
-            "completedStops": 14,
+            "completedStops": 15,
             "totalStops": 22,
-            "nextStop": "Rome",
-            "lastUpdate": "16:31:20"
+            "nextStop": "Syracuse",
+            "lastUpdate": "16:50:58"
         }
     ]
 }
