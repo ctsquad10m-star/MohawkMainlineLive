@@ -57,3 +57,10 @@ def main():
             "HERITAGE FREIGHT PROCESSING",
             HERITAGE_COLLECTOR
         )
+
+    write_status("READY" if success else "FAILED")
+    return 0 if success else 1
+
+
+if __name__ == "__main__":
+    raise SystemExit(main())
