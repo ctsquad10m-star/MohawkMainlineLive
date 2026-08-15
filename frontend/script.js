@@ -65,6 +65,103 @@ const cameraIcon = L.divIcon({
 
 });
 
+// =====================================
+// MAP LEGEND
+// =====================================
+
+const mapLegend = L.control({
+    position: "bottomleft"
+});
+
+mapLegend.onAdd = function () {
+
+    const div = L.DomUtil.create(
+        "div",
+        "map-legend"
+    );
+
+    div.innerHTML = `
+
+        <div class="legend-title">
+            LEGEND
+        </div>
+
+        <div class="legend-divider"></div>
+
+        <!-- AMTRAK -->
+
+        <div class="legend-item">
+
+            <div class="legend-icon legend-amtrak">
+                <span></span>
+            </div>
+
+            <div class="legend-text">
+                <strong>AMTRAK TRAIN</strong>
+                <small>Passenger train</small>
+            </div>
+
+        </div>
+
+
+        <!-- FREIGHT -->
+
+        <div class="legend-item">
+
+            <div class="legend-icon legend-freight">
+                <span></span>
+            </div>
+
+            <div class="legend-text">
+                <strong>FREIGHT TRAIN</strong>
+                <small>Freight train</small>
+            </div>
+
+        </div>
+
+
+        <!-- CAMERA -->
+
+        <div class="legend-item">
+
+            <div class="legend-camera">
+                📷
+            </div>
+
+            <div class="legend-text">
+                <strong>TRACKSIDE CAMERA</strong>
+                <small>Live camera location</small>
+            </div>
+
+        </div>
+
+
+        <!-- RAILROAD -->
+
+        <div class="legend-item">
+
+            <div class="legend-rail">
+                <span></span>
+            </div>
+
+            <div class="legend-text">
+                <strong>RAILROAD</strong>
+                <small>Mohawk Subdivision</small>
+            </div>
+
+        </div>
+
+    `;
+
+    // Prevent the legend from interfering with map movement
+    L.DomEvent.disableClickPropagation(div);
+    L.DomEvent.disableScrollPropagation(div);
+
+    return div;
+};
+
+mapLegend.addTo(map);
+
 // Live Train Layer
 
 let trainMarkers = [];
