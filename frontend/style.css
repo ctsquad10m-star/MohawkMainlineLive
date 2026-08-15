@@ -2330,3 +2330,120 @@ body::before {
     filter: drop-shadow(0 0 3px #ff8c00);
 
 }
+
+/* =====================================
+   MAP CONTAINER
+===================================== */
+
+.map-container {
+    position: relative;
+    width: 100%;
+}
+
+
+/* =====================================
+   MAP LEGEND
+===================================== */
+
+.map-legend {
+
+    position: absolute;
+
+    left: 15px;
+    bottom: 15px;
+
+    width: 170px;
+
+    padding: 12px 14px;
+
+    background: rgba(10, 15, 20, 0.82);
+
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+    border-radius: 10px;
+
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+
+    color: white;
+
+    z-index: 1000;
+
+    box-sizing: border-box;
+
+    pointer-events: none;
+}
+
+
+/* Legend title */
+
+.legend-title {
+
+    font-size: 11px;
+
+    font-weight: bold;
+
+    letter-spacing: 1.5px;
+
+    margin-bottom: 10px;
+
+    color: #bfc8d0;
+
+}
+
+
+/* Legend rows */
+
+.legend-item {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    font-size: 12px;
+
+    margin-top: 8px;
+
+    white-space: nowrap;
+
+}
+
+
+/* Triangle */
+
+.legend-triangle {
+
+    width: 0;
+    height: 0;
+
+    display: inline-block;
+
+    flex-shrink: 0;
+
+}
+
+
+/* Amtrak */
+
+.legend-triangle.amtrak {
+
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 12px solid #32ff5c;
+
+    filter: drop-shadow(0 0 3px #32ff5c);
+}
+
+
+/* Freight */
+
+.legend-triangle.freight {
+
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 12px solid #ff8c00;
+
+    filter: drop-shadow(0 0 3px #ff8c00);
+}
