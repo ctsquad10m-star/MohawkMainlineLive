@@ -1897,6 +1897,318 @@ body::before {
 
 }
 
+
+
+/* =====================================
+   MAP LEGEND
+===================================== */
+
+.map-legend {
+
+    position: absolute;
+
+    left: 15px;
+    bottom: 15px;
+
+    width: 170px;
+
+    padding: 12px 14px;
+
+    background: rgba(10, 15, 20, 0.82);
+
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+    border-radius: 10px;
+
+    backdrop-filter: blur(6px);
+
+    -webkit-backdrop-filter: blur(6px);
+
+    color: white;
+
+    z-index: 1000;
+
+    box-sizing: border-box;
+
+}
+
+
+/* Legend title */
+
+.legend-title {
+
+    font-size: 11px;
+
+    font-weight: bold;
+
+    letter-spacing: 1.5px;
+
+    margin-bottom: 10px;
+
+    color: #bfc8d0;
+
+}
+
+
+/* Individual legend rows */
+
+.legend-item {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    font-size: 12px;
+
+    margin-top: 8px;
+
+    white-space: nowrap;
+
+}
+
+
+/* Triangle container */
+
+.legend-triangle {
+
+    width: 0;
+    height: 0;
+
+    display: inline-block;
+
+    flex-shrink: 0;
+
+}
+
+
+/* Green Amtrak triangle */
+
+.legend-triangle.amtrak {
+
+    border-top: 7px solid transparent;
+
+    border-bottom: 7px solid transparent;
+
+    border-left: 12px solid #32ff5c;
+
+    filter: drop-shadow(0 0 3px #32ff5c);
+
+}
+
+
+/* Orange freight triangle */
+
+.legend-triangle.freight {
+
+    border-top: 7px solid transparent;
+
+    border-bottom: 7px solid transparent;
+
+    border-left: 12px solid #ff8c00;
+
+    filter: drop-shadow(0 0 3px #ff8c00);
+
+}
+
+/* =====================================
+   MAP CONTAINER
+===================================== */
+
+.map-container {
+    position: relative;
+    width: 100%;
+}
+
+
+/* =====================================
+   MAP LEGEND
+===================================== */
+
+.map-legend {
+
+    position: absolute;
+
+    left: 15px;
+    bottom: 15px;
+
+    width: 170px;
+
+    padding: 12px 14px;
+
+    background: rgba(10, 15, 20, 0.82);
+
+    border: 1px solid rgba(255, 255, 255, 0.18);
+
+    border-radius: 10px;
+
+    backdrop-filter: blur(6px);
+    -webkit-backdrop-filter: blur(6px);
+
+    color: white;
+
+    z-index: 1000;
+
+    box-sizing: border-box;
+
+    pointer-events: none;
+}
+
+
+/* Legend title */
+
+.legend-title {
+
+    font-size: 11px;
+
+    font-weight: bold;
+
+    letter-spacing: 1.5px;
+
+    margin-bottom: 10px;
+
+    color: #bfc8d0;
+
+}
+
+
+/* Legend rows */
+
+.legend-item {
+
+    display: flex;
+
+    align-items: center;
+
+    gap: 10px;
+
+    font-size: 12px;
+
+    margin-top: 8px;
+
+    white-space: nowrap;
+
+}
+
+
+/* Triangle */
+
+.legend-triangle {
+
+    width: 0;
+    height: 0;
+
+    display: inline-block;
+
+    flex-shrink: 0;
+
+}
+
+
+/* Amtrak */
+
+.legend-triangle.amtrak {
+
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 12px solid #32ff5c;
+
+    filter: drop-shadow(0 0 3px #32ff5c);
+}
+
+
+/* Freight */
+
+.legend-triangle.freight {
+
+    border-top: 7px solid transparent;
+    border-bottom: 7px solid transparent;
+    border-left: 12px solid #ff8c00;
+
+    filter: drop-shadow(0 0 3px #ff8c00);
+}
+
+/* =====================================
+   RANDOMIZED DARK BLUE BACKGROUND DOTS
+===================================== */
+
+body {
+    position: relative;
+    overflow-x: hidden;
+    background: #050a10;
+}
+
+/* Dark blue moving dot field */
+
+body::before {
+    content: "";
+    position: fixed;
+
+    inset: 0;
+
+    pointer-events: none;
+
+    z-index: -1;
+
+    background-image:
+        radial-gradient(
+            circle,
+            rgba(15, 75, 125, 0.45) 1px,
+            transparent 1.5px
+        ),
+        radial-gradient(
+            circle,
+            rgba(8, 55, 100, 0.35) 1px,
+            transparent 1.5px
+        ),
+        radial-gradient(
+            circle,
+            rgba(20, 90, 145, 0.25) 1px,
+            transparent 1.5px
+        );
+
+    background-size:
+        73px 91px,
+        127px 103px,
+        181px 157px;
+
+    background-position:
+        13px 27px,
+        71px 9px,
+        31px 83px;
+
+    animation: movingBackgroundDots 35s linear infinite;
+}
+
+
+/* Slowly move the dot field */
+
+@keyframes movingBackgroundDots {
+
+    0% {
+        background-position:
+            13px 27px,
+            71px 9px,
+            31px 83px;
+    }
+
+    50% {
+        background-position:
+            61px 72px,
+            12px 58px,
+            94px 21px;
+    }
+
+    100% {
+        background-position:
+            113px 118px,
+            -48px 107px,
+            157px -41px;
+    }
+
+}
+
 /* =====================================
    MAP LEGEND
 ===================================== */
@@ -2214,316 +2526,6 @@ body::before {
 
         font-size: 9px;
 
-    }
-
-}
-
-/* =====================================
-   MAP LEGEND
-===================================== */
-
-.map-legend {
-
-    position: absolute;
-
-    left: 15px;
-    bottom: 15px;
-
-    width: 170px;
-
-    padding: 12px 14px;
-
-    background: rgba(10, 15, 20, 0.82);
-
-    border: 1px solid rgba(255, 255, 255, 0.18);
-
-    border-radius: 10px;
-
-    backdrop-filter: blur(6px);
-
-    -webkit-backdrop-filter: blur(6px);
-
-    color: white;
-
-    z-index: 1000;
-
-    box-sizing: border-box;
-
-}
-
-
-/* Legend title */
-
-.legend-title {
-
-    font-size: 11px;
-
-    font-weight: bold;
-
-    letter-spacing: 1.5px;
-
-    margin-bottom: 10px;
-
-    color: #bfc8d0;
-
-}
-
-
-/* Individual legend rows */
-
-.legend-item {
-
-    display: flex;
-
-    align-items: center;
-
-    gap: 10px;
-
-    font-size: 12px;
-
-    margin-top: 8px;
-
-    white-space: nowrap;
-
-}
-
-
-/* Triangle container */
-
-.legend-triangle {
-
-    width: 0;
-    height: 0;
-
-    display: inline-block;
-
-    flex-shrink: 0;
-
-}
-
-
-/* Green Amtrak triangle */
-
-.legend-triangle.amtrak {
-
-    border-top: 7px solid transparent;
-
-    border-bottom: 7px solid transparent;
-
-    border-left: 12px solid #32ff5c;
-
-    filter: drop-shadow(0 0 3px #32ff5c);
-
-}
-
-
-/* Orange freight triangle */
-
-.legend-triangle.freight {
-
-    border-top: 7px solid transparent;
-
-    border-bottom: 7px solid transparent;
-
-    border-left: 12px solid #ff8c00;
-
-    filter: drop-shadow(0 0 3px #ff8c00);
-
-}
-
-/* =====================================
-   MAP CONTAINER
-===================================== */
-
-.map-container {
-    position: relative;
-    width: 100%;
-}
-
-
-/* =====================================
-   MAP LEGEND
-===================================== */
-
-.map-legend {
-
-    position: absolute;
-
-    left: 15px;
-    bottom: 15px;
-
-    width: 170px;
-
-    padding: 12px 14px;
-
-    background: rgba(10, 15, 20, 0.82);
-
-    border: 1px solid rgba(255, 255, 255, 0.18);
-
-    border-radius: 10px;
-
-    backdrop-filter: blur(6px);
-    -webkit-backdrop-filter: blur(6px);
-
-    color: white;
-
-    z-index: 1000;
-
-    box-sizing: border-box;
-
-    pointer-events: none;
-}
-
-
-/* Legend title */
-
-.legend-title {
-
-    font-size: 11px;
-
-    font-weight: bold;
-
-    letter-spacing: 1.5px;
-
-    margin-bottom: 10px;
-
-    color: #bfc8d0;
-
-}
-
-
-/* Legend rows */
-
-.legend-item {
-
-    display: flex;
-
-    align-items: center;
-
-    gap: 10px;
-
-    font-size: 12px;
-
-    margin-top: 8px;
-
-    white-space: nowrap;
-
-}
-
-
-/* Triangle */
-
-.legend-triangle {
-
-    width: 0;
-    height: 0;
-
-    display: inline-block;
-
-    flex-shrink: 0;
-
-}
-
-
-/* Amtrak */
-
-.legend-triangle.amtrak {
-
-    border-top: 7px solid transparent;
-    border-bottom: 7px solid transparent;
-    border-left: 12px solid #32ff5c;
-
-    filter: drop-shadow(0 0 3px #32ff5c);
-}
-
-
-/* Freight */
-
-.legend-triangle.freight {
-
-    border-top: 7px solid transparent;
-    border-bottom: 7px solid transparent;
-    border-left: 12px solid #ff8c00;
-
-    filter: drop-shadow(0 0 3px #ff8c00);
-}
-
-/* =====================================
-   RANDOMIZED DARK BLUE BACKGROUND DOTS
-===================================== */
-
-body {
-    position: relative;
-    overflow-x: hidden;
-    background: #050a10;
-}
-
-/* Dark blue moving dot field */
-
-body::before {
-    content: "";
-    position: fixed;
-
-    inset: 0;
-
-    pointer-events: none;
-
-    z-index: -1;
-
-    background-image:
-        radial-gradient(
-            circle,
-            rgba(15, 75, 125, 0.45) 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle,
-            rgba(8, 55, 100, 0.35) 1px,
-            transparent 1.5px
-        ),
-        radial-gradient(
-            circle,
-            rgba(20, 90, 145, 0.25) 1px,
-            transparent 1.5px
-        );
-
-    background-size:
-        73px 91px,
-        127px 103px,
-        181px 157px;
-
-    background-position:
-        13px 27px,
-        71px 9px,
-        31px 83px;
-
-    animation: movingBackgroundDots 35s linear infinite;
-}
-
-
-/* Slowly move the dot field */
-
-@keyframes movingBackgroundDots {
-
-    0% {
-        background-position:
-            13px 27px,
-            71px 9px,
-            31px 83px;
-    }
-
-    50% {
-        background-position:
-            61px 72px,
-            12px 58px,
-            94px 21px;
-    }
-
-    100% {
-        background-position:
-            113px 118px,
-            -48px 107px,
-            157px -41px;
     }
 
 }
