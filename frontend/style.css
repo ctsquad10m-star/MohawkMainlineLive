@@ -2347,7 +2347,7 @@ body::before {
     position: absolute;
 
     left: 16px;
-    bottom: 16px;
+    bottom: 1px;
 
     width: 190px;
 
