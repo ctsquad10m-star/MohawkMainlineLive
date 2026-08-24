@@ -1,36 +1,36 @@
 {
-    "updated": "2026-08-14 16:50:58",
+    "updated": "2026-08-24 10:58:24",
     "count": 2,
     "trains": [
         {
             "type": "amtrak",
-            "trainNum": "48",
-            "route": "Lake Shore Limited",
+            "trainNum": "64",
+            "route": "Maple Leaf",
             "provider": "Amtrak",
-            "direction": "W",
-            "trainID": "48-13",
-            "latitude": 43.10428341446049,
-            "longitude": -75.22139177050636,
-            "status": "enroute",
-            "completedStops": 13,
-            "totalStops": 20,
-            "nextStop": "Utica",
-            "lastUpdate": "16:50:58"
+            "direction": "E",
+            "trainID": "64-24",
+            "latitude": 43.05860233559405,
+            "longitude": -76.96339672432093,
+            "status": "51 min Late",
+            "completedStops": 10,
+            "totalStops": 22,
+            "nextStop": "Syracuse",
+            "lastUpdate": "10:58:24"
         },
         {
             "type": "amtrak",
-            "trainNum": "63",
-            "route": "Maple Leaf",
+            "trainNum": "281",
+            "route": "Empire Service",
             "provider": "Amtrak",
             "direction": "W",
-            "trainID": "63-14",
-            "latitude": 43.07945352482163,
-            "longitude": -75.72990633763892,
-            "status": "enroute",
-            "completedStops": 15,
-            "totalStops": 22,
-            "nextStop": "Syracuse",
-            "lastUpdate": "16:50:58"
+            "trainID": "281-24",
+            "latitude": 43.10359676842202,
+            "longitude": -75.21916398573262,
+            "status": "On Time",
+            "completedStops": 8,
+            "totalStops": 15,
+            "nextStop": "Utica",
+            "lastUpdate": "10:58:24"
         }
     ]
 }

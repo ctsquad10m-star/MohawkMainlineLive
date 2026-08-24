@@ -1,38 +1,54 @@
 {
-    "updated": "2026-08-14 16:50:59",
-    "count": 3,
+    "updated": "2026-08-24 10:58:26",
+    "count": 4,
     "trains": [
         {
             "type": "freight",
-            "trainNum": "CSX M367",
-            "route": "CSX M367",
+            "trainNum": "CSX I169",
+            "route": "CSX I169",
             "provider": "CSX",
             "direction": "W",
-            "latitude": 43.059386123,
-            "longitude": -76.962024985,
-            "location": "Lyons, NY (Sunderville Rd)",
+            "latitude": 43.085917038,
+            "longitude": -76.377790962,
+            "location": "Memphis, NY (Bennetts Corners Rd)",
             "locomotives": [
-                "CSXT136 - CSX YN2"
+                "CSXT1871 - Atlantic Coast Line"
             ],
-            "spottedOn": 1786723020,
+            "spottedOn": 1787590680,
             "source": "Heritage Units",
-            "lastUpdate": "16:50:59"
+            "lastUpdate": "10:58:26"
         },
         {
             "type": "freight",
-            "trainNum": "CSX M636",
-            "route": "CSX M636",
+            "trainNum": "CSX M363",
+            "route": "CSX M363",
+            "provider": "CSX",
+            "direction": "W",
+            "latitude": 43.104684675,
+            "longitude": -75.222700494,
+            "location": "Utica, NY",
+            "locomotives": [
+                "CSXT537 - CSX YN2"
+            ],
+            "spottedOn": 1787589840,
+            "source": "Heritage Units",
+            "lastUpdate": "10:58:26"
+        },
+        {
+            "type": "freight",
+            "trainNum": "CSX M626",
+            "route": "CSX M626",
             "provider": "CSX",
             "direction": "E",
-            "latitude": 43.103747379,
-            "longitude": -77.443022301,
-            "location": "Fairport, NY (VRF Camera)",
+            "latitude": 43.104684675,
+            "longitude": -75.222700494,
+            "location": "Utica, NY",
             "locomotives": [
-                "CSXT431 - CSX YN2"
+                "CSXT5208 - Chessie System Emblem"
             ],
-            "spottedOn": 1786676280,
+            "spottedOn": 1787579640,
             "source": "Heritage Units",
-            "lastUpdate": "16:50:59"
+            "lastUpdate": "10:58:26"
         },
         {
             "type": "freight",
@@ -40,15 +56,16 @@
             "route": "CSX M637",
             "provider": "CSX",
             "direction": "W",
-            "latitude": 43.103747379,
-            "longitude": -77.443022301,
-            "location": "Fairport, NY (VRF Camera)",
+            "latitude": 43.071753333,
+            "longitude": -76.502009765,
+            "location": "Weedsport, NY (Bonta Bridge Rd)",
             "locomotives": [
-                "CSXT81 - CSX YN2"
+                "CSXT1827 - Baltimore & Ohio",
+                "CSXT5467 - Chessie System Emblem"
             ],
-            "spottedOn": 1786640820,
+            "spottedOn": 1787588160,
             "source": "Heritage Units",
-            "lastUpdate": "16:50:59"
+            "lastUpdate": "10:58:26"
         }
     ]
 }

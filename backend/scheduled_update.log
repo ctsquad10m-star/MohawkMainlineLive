@@ -1,0 +1,333 @@
+Downloading train data...
+Keeping Train 63 (43.11383, -77.48135) W
+
+Saved 1 trains.
+
+===================================
+HERITAGE UNITS FETCHER
+===================================
+
+Loading Heritage Units homepage...
+Homepage status: 200
+Verification token found.
+
+Requesting current Heritage reports...
+Reports status: 200
+
+Reports received: 551
+Map locations received: 356
+
+===================================
+Heritage Units download complete
+===================================
+Saved: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\heritage_raw.json
+Reports: 551
+Map locations: 356
+
+Loading Heritage Units data...
+Found 356 Heritage map locations.
+
+Mohawk report: Fairport, NY (VRF Camera)
+  Keeping CSX M275 W CSXT443 - CSX YN2
+
+Mohawk report: Memphis, NY (Bennetts Corners Rd)
+  Keeping CSX I169 W CSXT1871 - Atlantic Coast Line
+
+Mohawk report: Utica, NY
+  Keeping CSX M363 W CSXT537 - CSX YN2
+  Keeping CSX M626 E CSXT5208 - Chessie System Emblem
+
+Mohawk report: Weedsport, NY (Bonta Bridge Rd)
+  Keeping CSX M637 W CSXT1827 - Baltimore & Ohio
+  Keeping CSX M637 W CSXT5467 - Chessie System Emblem
+
+===================================
+Heritage freight collection complete
+===================================
+CSX M275 W @ Fairport, NY (VRF Camera) (1 locomotives)
+CSX I169 W @ Memphis, NY (Bennetts Corners Rd) (1 locomotives)
+CSX M363 W @ Utica, NY (1 locomotives)
+CSX M626 E @ Utica, NY (1 locomotives)
+CSX M637 W @ Weedsport, NY (Bonta Bridge Rd) (2 locomotives)
+
+Saved 5 freight trains.
+Output: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\freight.json
+
+===================================
+AMTRAK UPDATE
+===================================
+
+
+===================================
+HERITAGE UNITS DOWNLOAD
+===================================
+
+
+===================================
+HERITAGE FREIGHT PROCESSING
+===================================
+
+Downloading train data...
+Keeping Train 64 (43.07999, -77.30863) E
+Keeping Train 281 (43.02722, -74.79970) W
+
+Saved 2 trains.
+
+===================================
+HERITAGE UNITS FETCHER
+===================================
+
+Loading Heritage Units homepage...
+Homepage status: 200
+Verification token found.
+
+Requesting current Heritage reports...
+Reports status: 200
+
+Reports received: 552
+Map locations received: 355
+
+===================================
+Heritage Units download complete
+===================================
+Saved: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\heritage_raw.json
+Reports: 552
+Map locations: 355
+
+Loading Heritage Units data...
+Found 355 Heritage map locations.
+
+Mohawk report: Memphis, NY (Bennetts Corners Rd)
+  Keeping CSX I169 W CSXT1871 - Atlantic Coast Line
+
+Mohawk report: Utica, NY
+  Keeping CSX M363 W CSXT537 - CSX YN2
+  Keeping CSX M626 E CSXT5208 - Chessie System Emblem
+
+Mohawk report: Weedsport, NY (Bonta Bridge Rd)
+  Keeping CSX M637 W CSXT1827 - Baltimore & Ohio
+  Keeping CSX M637 W CSXT5467 - Chessie System Emblem
+
+===================================
+Heritage freight collection complete
+===================================
+CSX I169 W @ Memphis, NY (Bennetts Corners Rd) (1 locomotives)
+CSX M363 W @ Utica, NY (1 locomotives)
+CSX M626 E @ Utica, NY (1 locomotives)
+CSX M637 W @ Weedsport, NY (Bonta Bridge Rd) (2 locomotives)
+
+Saved 4 freight trains.
+Output: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\freight.json
+
+===================================
+AMTRAK UPDATE
+===================================
+
+
+===================================
+HERITAGE UNITS DOWNLOAD
+===================================
+
+
+===================================
+HERITAGE FREIGHT PROCESSING
+===================================
+
+Downloading train data...
+Keeping Train 64 (43.05490, -77.07818) E
+Keeping Train 281 (43.02530, -75.03918) W
+
+Saved 2 trains.
+
+===================================
+HERITAGE UNITS FETCHER
+===================================
+
+Loading Heritage Units homepage...
+Homepage status: 200
+Verification token found.
+
+Requesting current Heritage reports...
+Reports status: 200
+
+Reports received: 552
+Map locations received: 353
+
+===================================
+Heritage Units download complete
+===================================
+Saved: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\heritage_raw.json
+Reports: 552
+Map locations: 353
+
+Loading Heritage Units data...
+Found 353 Heritage map locations.
+
+Mohawk report: Memphis, NY (Bennetts Corners Rd)
+  Keeping CSX I169 W CSXT1871 - Atlantic Coast Line
+
+Mohawk report: Utica, NY
+  Keeping CSX M363 W CSXT537 - CSX YN2
+  Keeping CSX M626 E CSXT5208 - Chessie System Emblem
+
+Mohawk report: Weedsport, NY (Bonta Bridge Rd)
+  Keeping CSX M637 W CSXT1827 - Baltimore & Ohio
+  Keeping CSX M637 W CSXT5467 - Chessie System Emblem
+
+===================================
+Heritage freight collection complete
+===================================
+CSX I169 W @ Memphis, NY (Bennetts Corners Rd) (1 locomotives)
+CSX M363 W @ Utica, NY (1 locomotives)
+CSX M626 E @ Utica, NY (1 locomotives)
+CSX M637 W @ Weedsport, NY (Bonta Bridge Rd) (2 locomotives)
+
+Saved 4 freight trains.
+Output: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\freight.json
+
+===================================
+AMTRAK UPDATE
+===================================
+
+
+===================================
+HERITAGE UNITS DOWNLOAD
+===================================
+
+
+===================================
+HERITAGE FREIGHT PROCESSING
+===================================
+
+Downloading train data...
+Keeping Train 64 (43.05727, -76.99284) E
+Keeping Train 281 (43.08803, -75.16068) W
+
+Saved 2 trains.
+
+===================================
+HERITAGE UNITS FETCHER
+===================================
+
+Loading Heritage Units homepage...
+Homepage status: 200
+Verification token found.
+
+Requesting current Heritage reports...
+Reports status: 200
+
+Reports received: 550
+Map locations received: 354
+
+===================================
+Heritage Units download complete
+===================================
+Saved: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\heritage_raw.json
+Reports: 550
+Map locations: 354
+
+Loading Heritage Units data...
+Found 354 Heritage map locations.
+
+Mohawk report: Memphis, NY (Bennetts Corners Rd)
+  Keeping CSX I169 W CSXT1871 - Atlantic Coast Line
+
+Mohawk report: Utica, NY
+  Keeping CSX M363 W CSXT537 - CSX YN2
+  Keeping CSX M626 E CSXT5208 - Chessie System Emblem
+
+Mohawk report: Weedsport, NY (Bonta Bridge Rd)
+  Keeping CSX M637 W CSXT1827 - Baltimore & Ohio
+  Keeping CSX M637 W CSXT5467 - Chessie System Emblem
+
+===================================
+Heritage freight collection complete
+===================================
+CSX I169 W @ Memphis, NY (Bennetts Corners Rd) (1 locomotives)
+CSX M363 W @ Utica, NY (1 locomotives)
+CSX M626 E @ Utica, NY (1 locomotives)
+CSX M637 W @ Weedsport, NY (Bonta Bridge Rd) (2 locomotives)
+
+Saved 4 freight trains.
+Output: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\freight.json
+
+===================================
+AMTRAK UPDATE
+===================================
+
+
+===================================
+HERITAGE UNITS DOWNLOAD
+===================================
+
+
+===================================
+HERITAGE FREIGHT PROCESSING
+===================================
+
+Downloading train data...
+Keeping Train 64 (43.05860, -76.96340) E
+Keeping Train 281 (43.10360, -75.21916) W
+
+Saved 2 trains.
+
+===================================
+HERITAGE UNITS FETCHER
+===================================
+
+Loading Heritage Units homepage...
+Homepage status: 200
+Verification token found.
+
+Requesting current Heritage reports...
+Reports status: 200
+
+Reports received: 549
+Map locations received: 352
+
+===================================
+Heritage Units download complete
+===================================
+Saved: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\heritage_raw.json
+Reports: 549
+Map locations: 352
+
+Loading Heritage Units data...
+Found 352 Heritage map locations.
+
+Mohawk report: Memphis, NY (Bennetts Corners Rd)
+  Keeping CSX I169 W CSXT1871 - Atlantic Coast Line
+
+Mohawk report: Utica, NY
+  Keeping CSX M363 W CSXT537 - CSX YN2
+  Keeping CSX M626 E CSXT5208 - Chessie System Emblem
+
+Mohawk report: Weedsport, NY (Bonta Bridge Rd)
+  Keeping CSX M637 W CSXT1827 - Baltimore & Ohio
+  Keeping CSX M637 W CSXT5467 - Chessie System Emblem
+
+===================================
+Heritage freight collection complete
+===================================
+CSX I169 W @ Memphis, NY (Bennetts Corners Rd) (1 locomotives)
+CSX M363 W @ Utica, NY (1 locomotives)
+CSX M626 E @ Utica, NY (1 locomotives)
+CSX M637 W @ Weedsport, NY (Bonta Bridge Rd) (2 locomotives)
+
+Saved 4 freight trains.
+Output: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\freight.json
+
+===================================
+AMTRAK UPDATE
+===================================
+
+
+===================================
+HERITAGE UNITS DOWNLOAD
+===================================
+
+
+===================================
+HERITAGE FREIGHT PROCESSING
+===================================
+
