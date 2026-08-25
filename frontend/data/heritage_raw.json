@@ -1,6 +1,6 @@
 {
-    "updated": "2026-08-25 13:11:57",
-    "count": 508,
+    "updated": "2026-08-25 13:13:57",
+    "count": 506,
     "reports": [
         {
             "id": 1084235,
@@ -3332,7 +3332,7 @@
             "visualId": 4,
             "route": true,
             "spotter": "Central Georgia Railfan",
-            "spotterCnt": "5,735 Reports"
+            "spotterCnt": "5,737 Reports"
         },
         {
             "id": 1083460,
@@ -3990,7 +3990,7 @@
             "visualId": 4,
             "route": true,
             "spotter": "Central Georgia Railfan",
-            "spotterCnt": "5,735 Reports"
+            "spotterCnt": "5,737 Reports"
         },
         {
             "id": 1083294,
@@ -4242,7 +4242,7 @@
             "visualId": 4,
             "route": true,
             "spotter": "Central Georgia Railfan",
-            "spotterCnt": "5,735 Reports"
+            "spotterCnt": "5,737 Reports"
         },
         {
             "id": 1083155,
@@ -4396,7 +4396,7 @@
             "visualId": 4,
             "route": false,
             "spotter": "Central Georgia Railfan",
-            "spotterCnt": "5,735 Reports"
+            "spotterCnt": "5,737 Reports"
         },
         {
             "id": 1083093,
@@ -7085,34 +7085,6 @@
             "route": true,
             "spotter": "Amtrak Fan 23",
             "spotterCnt": "197 Reports"
-        },
-        {
-            "id": 1081688,
-            "locoCode": "BNSF1013",
-            "locoName": "BNSF H1 Paint",
-            "locoId": 3214,
-            "spottedOn": 1787418720,
-            "location": "Merced, CA",
-            "direction": "East",
-            "train": "BNSF H-STOBAR",
-            "visualId": 3,
-            "route": true,
-            "spotter": "Modrail9591",
-            "spotterCnt": "15 Reports"
-        },
-        {
-            "id": 1081680,
-            "locoCode": "CN8898",
-            "locoName": "IPO - 25th Anniversary",
-            "locoId": 2427,
-            "spottedOn": 1787418720,
-            "location": "Reserve, LA",
-            "direction": "South",
-            "train": "CN G889-71",
-            "visualId": 3,
-            "route": true,
-            "spotter": "Trainlover56141",
-            "spotterCnt": "6 Reports"
         }
     ],
     "raw": {
@@ -10447,7 +10419,7 @@
                 "visualId": 4,
                 "route": true,
                 "spotter": "Central Georgia Railfan",
-                "spotterCnt": "5,735 Reports"
+                "spotterCnt": "5,737 Reports"
             },
             {
                 "id": 1083460,
@@ -11105,7 +11077,7 @@
                 "visualId": 4,
                 "route": true,
                 "spotter": "Central Georgia Railfan",
-                "spotterCnt": "5,735 Reports"
+                "spotterCnt": "5,737 Reports"
             },
             {
                 "id": 1083294,
@@ -11357,7 +11329,7 @@
                 "visualId": 4,
                 "route": true,
                 "spotter": "Central Georgia Railfan",
-                "spotterCnt": "5,735 Reports"
+                "spotterCnt": "5,737 Reports"
             },
             {
                 "id": 1083155,
@@ -11511,7 +11483,7 @@
                 "visualId": 4,
                 "route": false,
                 "spotter": "Central Georgia Railfan",
-                "spotterCnt": "5,735 Reports"
+                "spotterCnt": "5,737 Reports"
             },
             {
                 "id": 1083093,
@@ -14200,34 +14172,6 @@
                 "route": true,
                 "spotter": "Amtrak Fan 23",
                 "spotterCnt": "197 Reports"
-            },
-            {
-                "id": 1081688,
-                "locoCode": "BNSF1013",
-                "locoName": "BNSF H1 Paint",
-                "locoId": 3214,
-                "spottedOn": 1787418720,
-                "location": "Merced, CA",
-                "direction": "East",
-                "train": "BNSF H-STOBAR",
-                "visualId": 3,
-                "route": true,
-                "spotter": "Modrail9591",
-                "spotterCnt": "15 Reports"
-            },
-            {
-                "id": 1081680,
-                "locoCode": "CN8898",
-                "locoName": "IPO - 25th Anniversary",
-                "locoId": 2427,
-                "spottedOn": 1787418720,
-                "location": "Reserve, LA",
-                "direction": "South",
-                "train": "CN G889-71",
-                "visualId": 3,
-                "route": true,
-                "spotter": "Trainlover56141",
-                "spotterCnt": "6 Reports"
             }
         ],
         "map": [
@@ -14334,7 +14278,7 @@
                 ]
             },
             {
-                "isNew": true,
+                "isNew": false,
                 "name": "Rockville, MD",
                 "lat": 39.085353,
                 "lon": -77.147142,
@@ -14517,7 +14461,7 @@
                 "lat": 41.273186265,
                 "lon": -75.835778466,
                 "direction": 1,
-                "age": 0,
+                "age": 1,
                 "reports": [
                     {
                         "id": 1084219,
@@ -15317,7 +15261,7 @@
                 "lat": 40.122998048,
                 "lon": -87.550104699,
                 "direction": 5,
-                "age": 2,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1084156,
@@ -17335,7 +17279,7 @@
                 "lat": 41.522594233,
                 "lon": -87.426702954,
                 "direction": -1,
-                "age": 17,
+                "age": 18,
                 "reports": [
                     {
                         "id": 1083864,
@@ -18531,7 +18475,7 @@
                 "lat": 47.2138015,
                 "lon": -118.25754,
                 "direction": 2,
-                "age": 24,
+                "age": 25,
                 "reports": [
                     {
                         "id": 1083563,
@@ -19589,7 +19533,7 @@
                 "lat": 39.8896477,
                 "lon": -82.9491685,
                 "direction": 2,
-                "age": 42,
+                "age": 43,
                 "reports": [
                     {
                         "id": 1083051,
@@ -20025,7 +19969,7 @@
                 "lat": 38.237562958,
                 "lon": -85.774876485,
                 "direction": -1,
-                "age": 45,
+                "age": 46,
                 "reports": [
                     {
                         "id": 1082815,
@@ -20391,7 +20335,7 @@
                 "lat": 32.4644882,
                 "lon": -92.1059201,
                 "direction": 5,
-                "age": 48,
+                "age": 49,
                 "reports": [
                     {
                         "id": 1082595,
@@ -20504,7 +20448,7 @@
                 "lat": 41.085733665,
                 "lon": -82.875688157,
                 "direction": 2,
-                "age": 49,
+                "age": 50,
                 "reports": [
                     {
                         "id": 1082530,
@@ -21207,7 +21151,7 @@
                 "lat": 46.402774237,
                 "lon": -122.962964746,
                 "direction": 3,
-                "age": 63,
+                "age": 64,
                 "reports": [
                     {
                         "id": 1082185,
@@ -22002,44 +21946,6 @@
                         "train": "AMTK 20",
                         "visualId": 3,
                         "leading": true
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Merced, CA",
-                "lat": 37.306857683,
-                "lon": -120.475046106,
-                "direction": 2,
-                "age": 72,
-                "reports": [
-                    {
-                        "id": 1081688,
-                        "loco": "BNSF1013 - BNSF H1 Paint",
-                        "spottedOn": 1787418720,
-                        "direction": "East",
-                        "train": "BNSF H-STOBAR",
-                        "visualId": 3,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Reserve, LA",
-                "lat": 30.060131485,
-                "lon": -90.578848001,
-                "direction": 3,
-                "age": 72,
-                "reports": [
-                    {
-                        "id": 1081680,
-                        "loco": "CN8898 - IPO - 25th Anniversary",
-                        "spottedOn": 1787418720,
-                        "direction": "South",
-                        "train": "CN G889-71",
-                        "visualId": 3,
-                        "leading": false
                     }
                 ]
             }

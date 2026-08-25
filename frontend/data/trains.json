@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-25 13:11:56",
+    "updated": "2026-08-25 13:13:56",
     "count": 2,
     "trains": [
         {
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "E",
             "trainID": "48-24",
-            "latitude": 43.00259884366838,
-            "longitude": -74.73406402877177,
+            "latitude": 42.99428280484427,
+            "longitude": -74.66324033513995,
             "status": "Early",
             "completedStops": 14,
             "totalStops": 20,
             "nextStop": "Schenectady",
-            "lastUpdate": "13:11:56"
+            "lastUpdate": "13:13:56"
         },
         {
             "type": "amtrak",
@@ -24,13 +24,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "63-25",
-            "latitude": 43.081769038933665,
-            "longitude": -75.9123633668911,
-            "status": "39 min Late",
+            "latitude": 43.080250788081095,
+            "longitude": -75.9515174324483,
+            "status": "38 min Late",
             "completedStops": 11,
             "totalStops": 18,
             "nextStop": "Syracuse",
-            "lastUpdate": "13:11:56"
+            "lastUpdate": "13:13:56"
         }
     ]
 }
