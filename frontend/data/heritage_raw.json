@@ -1,7 +1,21 @@
 {
-    "updated": "2026-08-25 13:05:58",
+    "updated": "2026-08-25 13:06:58",
     "count": 508,
     "reports": [
+        {
+            "id": 1084232,
+            "locoCode": "CSXT210",
+            "locoName": "CSX YN2",
+            "locoId": 2847,
+            "spottedOn": 1787677500,
+            "location": "Rockville, MD",
+            "direction": "West",
+            "train": "CSX B451",
+            "visualId": 3,
+            "route": true,
+            "spotter": "robtor",
+            "spotterCnt": "31 Reports"
+        },
         {
             "id": 1084230,
             "locoCode": "NS1065",
@@ -1065,20 +1079,6 @@
             "route": false,
             "spotter": "Trainlord boi2319",
             "spotterCnt": "84 Reports"
-        },
-        {
-            "id": 1084062,
-            "locoCode": "CSXT210",
-            "locoName": "CSX YN2",
-            "locoId": 2847,
-            "spottedOn": 1787657340,
-            "location": "Rockville, MD",
-            "direction": "East",
-            "train": "CSX B451",
-            "visualId": 3,
-            "route": true,
-            "spotter": "robtor",
-            "spotterCnt": "30 Reports"
         },
         {
             "id": 1084081,
@@ -7118,6 +7118,20 @@
     "raw": {
         "table": [
             {
+                "id": 1084232,
+                "locoCode": "CSXT210",
+                "locoName": "CSX YN2",
+                "locoId": 2847,
+                "spottedOn": 1787677500,
+                "location": "Rockville, MD",
+                "direction": "West",
+                "train": "CSX B451",
+                "visualId": 3,
+                "route": true,
+                "spotter": "robtor",
+                "spotterCnt": "31 Reports"
+            },
+            {
                 "id": 1084230,
                 "locoCode": "NS1065",
                 "locoName": "Savannah & Atlanta",
@@ -8180,20 +8194,6 @@
                 "route": false,
                 "spotter": "Trainlord boi2319",
                 "spotterCnt": "84 Reports"
-            },
-            {
-                "id": 1084062,
-                "locoCode": "CSXT210",
-                "locoName": "CSX YN2",
-                "locoId": 2847,
-                "spottedOn": 1787657340,
-                "location": "Rockville, MD",
-                "direction": "East",
-                "train": "CSX B451",
-                "visualId": 3,
-                "route": true,
-                "spotter": "robtor",
-                "spotterCnt": "30 Reports"
             },
             {
                 "id": 1084081,
@@ -14233,6 +14233,25 @@
         "map": [
             {
                 "isNew": true,
+                "name": "Rockville, MD",
+                "lat": 39.085353,
+                "lon": -77.147142,
+                "direction": 4,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1084232,
+                        "loco": "CSXT210 - CSX YN2",
+                        "spottedOn": 1787677500,
+                        "direction": "West",
+                        "train": "CSX B451",
+                        "visualId": 3,
+                        "leading": false
+                    }
+                ]
+            },
+            {
+                "isNew": true,
                 "name": "Elkhart, IN (Amtrak Station)",
                 "lat": 41.680152478,
                 "lon": -85.971965526,
@@ -14443,7 +14462,7 @@
                 "lat": 45.568103661,
                 "lon": -94.148772681,
                 "direction": -1,
-                "age": 0,
+                "age": 1,
                 "reports": [
                     {
                         "id": 1084216,
@@ -16081,25 +16100,6 @@
             },
             {
                 "isNew": false,
-                "name": "Rockville, MD",
-                "lat": 39.085353,
-                "lon": -77.147142,
-                "direction": 2,
-                "age": 6,
-                "reports": [
-                    {
-                        "id": 1084062,
-                        "loco": "CSXT210 - CSX YN2",
-                        "spottedOn": 1787657340,
-                        "direction": "East",
-                        "train": "CSX B451",
-                        "visualId": 3,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
                 "name": "Calera, AL",
                 "lat": 33.126036913,
                 "lon": -86.74938665,
@@ -16615,7 +16615,7 @@
                 "lat": 42.272384227,
                 "lon": -83.197303752,
                 "direction": 4,
-                "age": 12,
+                "age": 13,
                 "reports": [
                     {
                         "id": 1084003,
@@ -18419,7 +18419,7 @@
                 "lat": 39.07684239,
                 "lon": -94.657626961,
                 "direction": -1,
-                "age": 23,
+                "age": 24,
                 "reports": [
                     {
                         "id": 1083582,
@@ -20269,7 +20269,7 @@
                 "lat": 30.235272717,
                 "lon": -92.065920078,
                 "direction": 5,
-                "age": 47,
+                "age": 48,
                 "reports": [
                     {
                         "id": 1082670,
@@ -20974,7 +20974,7 @@
                 "lat": 40.31699104,
                 "lon": -74.622991159,
                 "direction": -1,
-                "age": 60,
+                "age": 61,
                 "reports": [
                     {
                         "id": 1082278,

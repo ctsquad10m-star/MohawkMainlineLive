@@ -27968,3 +27968,62 @@ HERITAGE UNITS DOWNLOAD
 HERITAGE FREIGHT PROCESSING
 ===================================
 
+Downloading train data...
+Keeping Train 48 (43.04052, -74.86305) E
+Keeping Train 63 (43.07586, -75.76614) W
+
+Saved 2 trains.
+
+===================================
+HERITAGE UNITS FETCHER
+===================================
+
+Loading Heritage Units homepage...
+Homepage status: 200
+Verification token found.
+
+Requesting current Heritage reports...
+Reports status: 200
+
+Reports received: 508
+Map locations received: 325
+
+===================================
+Heritage Units download complete
+===================================
+Saved: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\heritage_raw.json
+Reports: 508
+Map locations: 325
+
+Loading Heritage Units data...
+Found 325 Heritage map locations.
+
+Mohawk report: Utica, NY
+  Keeping AMTK 48 E AMTK145 - Phase III
+  Keeping CSX M363 W CSXT537 - CSX YN2
+  Keeping CSX M626 E CSXT5208 - Chessie System Emblem
+
+===================================
+Heritage freight collection complete
+===================================
+AMTK 48 E @ Utica, NY (1 locomotives)
+CSX M363 W @ Utica, NY (1 locomotives)
+CSX M626 E @ Utica, NY (1 locomotives)
+
+Saved 3 freight trains.
+Output: C:\Users\Alex\MohawkMainlineLive\backend\heritage\..\..\frontend\data\freight.json
+
+===================================
+AMTRAK UPDATE
+===================================
+
+
+===================================
+HERITAGE UNITS DOWNLOAD
+===================================
+
+
+===================================
+HERITAGE FREIGHT PROCESSING
+===================================
+

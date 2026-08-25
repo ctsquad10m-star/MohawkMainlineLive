@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-25 13:05:56",
+    "updated": "2026-08-25 13:06:56",
     "count": 2,
     "trains": [
         {
@@ -15,7 +15,7 @@
             "completedStops": 14,
             "totalStops": 20,
             "nextStop": "Schenectady",
-            "lastUpdate": "13:05:56"
+            "lastUpdate": "13:06:56"
         },
         {
             "type": "amtrak",
@@ -30,7 +30,7 @@
             "completedStops": 11,
             "totalStops": 18,
             "nextStop": "Syracuse",
-            "lastUpdate": "13:05:56"
+            "lastUpdate": "13:06:56"
         }
     ]
 }
