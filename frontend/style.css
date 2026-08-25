@@ -2682,8 +2682,8 @@ main {
     */
 
     grid-template-rows:
-        minmax(0, 72fr)
-        minmax(120px, 28fr);
+        minmax(0, 69fr)
+        minmax(140px, 31fr);
 
     gap: clamp(6px, .7vw, 15px);
 
