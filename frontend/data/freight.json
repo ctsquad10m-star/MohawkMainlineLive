@@ -1,22 +1,22 @@
 {
-    "updated": "2026-08-24 10:58:26",
-    "count": 4,
+    "updated": "2026-08-25 13:05:58",
+    "count": 3,
     "trains": [
         {
             "type": "freight",
-            "trainNum": "CSX I169",
-            "route": "CSX I169",
-            "provider": "CSX",
-            "direction": "W",
-            "latitude": 43.085917038,
-            "longitude": -76.377790962,
-            "location": "Memphis, NY (Bennetts Corners Rd)",
+            "trainNum": "AMTK 48",
+            "route": "AMTK 48",
+            "provider": "Freight",
+            "direction": "E",
+            "latitude": 43.104684675,
+            "longitude": -75.22021324,
+            "location": "Utica, NY",
             "locomotives": [
-                "CSXT1871 - Atlantic Coast Line"
+                "AMTK145 - Phase III"
             ],
-            "spottedOn": 1787590680,
+            "spottedOn": 1787676300,
             "source": "Heritage Units",
-            "lastUpdate": "10:58:26"
+            "lastUpdate": "13:05:58"
         },
         {
             "type": "freight",
@@ -25,14 +25,14 @@
             "provider": "CSX",
             "direction": "W",
             "latitude": 43.104684675,
-            "longitude": -75.222700494,
+            "longitude": -75.22021324,
             "location": "Utica, NY",
             "locomotives": [
                 "CSXT537 - CSX YN2"
             ],
             "spottedOn": 1787589840,
             "source": "Heritage Units",
-            "lastUpdate": "10:58:26"
+            "lastUpdate": "13:05:58"
         },
         {
             "type": "freight",
@@ -41,31 +41,14 @@
             "provider": "CSX",
             "direction": "E",
             "latitude": 43.104684675,
-            "longitude": -75.222700494,
+            "longitude": -75.22021324,
             "location": "Utica, NY",
             "locomotives": [
                 "CSXT5208 - Chessie System Emblem"
             ],
             "spottedOn": 1787579640,
             "source": "Heritage Units",
-            "lastUpdate": "10:58:26"
-        },
-        {
-            "type": "freight",
-            "trainNum": "CSX M637",
-            "route": "CSX M637",
-            "provider": "CSX",
-            "direction": "W",
-            "latitude": 43.071753333,
-            "longitude": -76.502009765,
-            "location": "Weedsport, NY (Bonta Bridge Rd)",
-            "locomotives": [
-                "CSXT1827 - Baltimore & Ohio",
-                "CSXT5467 - Chessie System Emblem"
-            ],
-            "spottedOn": 1787588160,
-            "source": "Heritage Units",
-            "lastUpdate": "10:58:26"
+            "lastUpdate": "13:05:58"
         }
     ]
 }
