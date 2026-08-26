@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-26 17:32:57",
+    "updated": "2026-08-26 17:36:49",
     "count": 2,
     "trains": [
         {
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "E",
             "trainID": "64-26",
-            "latitude": 43.02562435205992,
-            "longitude": -74.96390724415164,
+            "latitude": 43.022458155125776,
+            "longitude": -74.89531896562914,
             "status": "82 min Late",
             "completedStops": 14,
             "totalStops": 23,
             "nextStop": "Amsterdam",
-            "lastUpdate": "17:32:57"
+            "lastUpdate": "17:36:49"
         },
         {
             "type": "amtrak",
@@ -24,13 +24,13 @@
             "provider": "Amtrak",
             "direction": "W",
             "trainID": "281-26",
-            "latitude": 43.05653476836049,
-            "longitude": -76.98390454375867,
+            "latitude": 43.0613946904784,
+            "longitude": -77.04980727533814,
             "status": "16 min Late",
             "completedStops": 12,
             "totalStops": 16,
             "nextStop": "Rochester",
-            "lastUpdate": "17:32:57"
+            "lastUpdate": "17:36:49"
         }
     ]
 }

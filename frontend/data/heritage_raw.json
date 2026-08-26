@@ -1,7 +1,91 @@
 {
-    "updated": "2026-08-26 17:32:58",
-    "count": 486,
+    "updated": "2026-08-26 17:36:50",
+    "count": 488,
     "reports": [
+        {
+            "id": 1085095,
+            "locoCode": "CN3984",
+            "locoName": "Ex-CitiRail",
+            "locoId": 2422,
+            "spottedOn": 1787780100,
+            "location": "Middlesex Centre, ON",
+            "direction": "East",
+            "train": "CN A438-31",
+            "visualId": 3,
+            "route": true,
+            "spotter": "CnKomokaRailfanner",
+            "spotterCnt": "190 Reports"
+        },
+        {
+            "id": 1085096,
+            "locoCode": "CN4726",
+            "locoName": "CN Zebra",
+            "locoId": 3569,
+            "spottedOn": 1787780100,
+            "location": "Middlesex Centre, ON",
+            "direction": "East",
+            "train": "CN A438-31",
+            "visualId": 3,
+            "route": true,
+            "spotter": "CnKomokaRailfanner",
+            "spotterCnt": "190 Reports"
+        },
+        {
+            "id": 1085094,
+            "locoCode": "BNSF1108",
+            "locoName": "BNSF H1 Paint",
+            "locoId": 3110,
+            "spottedOn": 1787780100,
+            "location": "Prescott, WI (Webcam)",
+            "direction": "East",
+            "train": "BNSF Q-SSECHC",
+            "visualId": 4,
+            "route": true,
+            "spotter": "Trainsfordays196",
+            "spotterCnt": "9 Reports"
+        },
+        {
+            "id": 1085093,
+            "locoCode": "BNSF2026",
+            "locoName": "America 250 Years",
+            "locoId": 3496,
+            "spottedOn": 1787780100,
+            "location": "Prescott, WI (Webcam)",
+            "direction": "East",
+            "train": "BNSF Q-SSECHC",
+            "visualId": 4,
+            "route": true,
+            "spotter": "Trainsfordays196",
+            "spotterCnt": "9 Reports"
+        },
+        {
+            "id": 1085091,
+            "locoCode": "CFE4032",
+            "locoName": "Genesee & Wyoming (Whisker)",
+            "locoId": 2763,
+            "spottedOn": 1787779980,
+            "location": "Dolton, IL (Park Ave)",
+            "direction": "West",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "SD70JACK",
+            "spotterCnt": "19 Reports"
+        },
+        {
+            "id": 1085090,
+            "locoCode": "CFE4036",
+            "locoName": "Honoring Veterans & Service Members",
+            "locoId": 2747,
+            "spottedOn": 1787779980,
+            "location": "Dolton, IL (Park Ave)",
+            "direction": "West",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "SD70JACK",
+            "spotterCnt": "19 Reports"
+        },
         {
             "id": 1085087,
             "locoCode": "CSXT451",
@@ -71,6 +155,20 @@
             "route": false,
             "spotter": "jc likes bnsf",
             "spotterCnt": "21 Reports"
+        },
+        {
+            "id": 1085092,
+            "locoCode": "BNSF2322",
+            "locoName": "BN Paint",
+            "locoId": 1569,
+            "spottedOn": 1787779200,
+            "location": "Longview, WA",
+            "direction": "In Yard",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "BalloonBugle88",
+            "spotterCnt": "201 Reports"
         },
         {
             "id": 1085078,
@@ -395,34 +493,6 @@
             "spotterCnt": "273 Reports"
         },
         {
-            "id": 1085049,
-            "locoCode": "BNSF1108",
-            "locoName": "BNSF H1 Paint",
-            "locoId": 3110,
-            "spottedOn": 1787776860,
-            "location": "Newport, MN",
-            "direction": "East",
-            "train": "BNSF Q-SSECHC",
-            "visualId": 3,
-            "route": true,
-            "spotter": "The Midwestern Railfan",
-            "spotterCnt": "16 Reports"
-        },
-        {
-            "id": 1085048,
-            "locoCode": "BNSF2026",
-            "locoName": "America 250 Years",
-            "locoId": 3496,
-            "spottedOn": 1787776860,
-            "location": "Newport, MN",
-            "direction": "East",
-            "train": "BNSF Q-SSECHC",
-            "visualId": 3,
-            "route": true,
-            "spotter": "The Midwestern Railfan",
-            "spotterCnt": "16 Reports"
-        },
-        {
             "id": 1085047,
             "locoCode": "UP1982",
             "locoName": "Missouri Pacific",
@@ -619,10 +689,10 @@
             "spotterCnt": "46 Reports"
         },
         {
-            "id": 1085025,
-            "locoCode": "NS8103",
-            "locoName": "Norfolk & Western",
-            "locoId": 12,
+            "id": 1085024,
+            "locoCode": "NS1776",
+            "locoName": "America 250 Years (Bell)",
+            "locoId": 3502,
             "spottedOn": 1787774940,
             "location": "Knoxville, TN",
             "direction": "In Yard",
@@ -633,10 +703,10 @@
             "spotterCnt": "99 Reports"
         },
         {
-            "id": 1085024,
-            "locoCode": "NS1776",
-            "locoName": "America 250 Years (Bell)",
-            "locoId": 3502,
+            "id": 1085025,
+            "locoCode": "NS8103",
+            "locoName": "Norfolk & Western",
+            "locoId": 12,
             "spottedOn": 1787774940,
             "location": "Knoxville, TN",
             "direction": "In Yard",
@@ -1837,7 +1907,7 @@
             "spotterCnt": "2,274 Reports"
         },
         {
-            "id": 1084871,
+            "id": 1084883,
             "locoCode": "NS8025",
             "locoName": "Monongahela",
             "locoId": 17,
@@ -1847,8 +1917,8 @@
             "train": "UP ZLAAI",
             "visualId": 4,
             "route": true,
-            "spotter": "RTW Productions",
-            "spotterCnt": "120 Reports"
+            "spotter": "Wengerr",
+            "spotterCnt": "17,940 Reports"
         },
         {
             "id": 1084868,
@@ -2240,7 +2310,7 @@
             "visualId": 3,
             "route": true,
             "spotter": "CnKomokaRailfanner",
-            "spotterCnt": "188 Reports"
+            "spotterCnt": "190 Reports"
         },
         {
             "id": 1084809,
@@ -3251,10 +3321,10 @@
             "spotterCnt": "806 Reports"
         },
         {
-            "id": 1084536,
-            "locoCode": "MRL4408",
+            "id": 1084537,
+            "locoCode": "MRL4405",
             "locoName": "Montana Rail Link",
-            "locoId": 2667,
+            "locoId": 2664,
             "spottedOn": 1787702160,
             "location": "Helena Valley West Central, MT",
             "direction": "East",
@@ -3265,10 +3335,10 @@
             "spotterCnt": "806 Reports"
         },
         {
-            "id": 1084537,
-            "locoCode": "MRL4405",
+            "id": 1084536,
+            "locoCode": "MRL4408",
             "locoName": "Montana Rail Link",
-            "locoId": 2664,
+            "locoId": 2667,
             "spottedOn": 1787702160,
             "location": "Helena Valley West Central, MT",
             "direction": "East",
@@ -4021,34 +4091,6 @@
             "spotterCnt": "171 Reports"
         },
         {
-            "id": 1084306,
-            "locoCode": "CRC1776",
-            "locoName": "America 250 Years",
-            "locoId": 3585,
-            "spottedOn": 1787683920,
-            "location": "Spencer, NC (NC Transportation Museum)",
-            "direction": "N/A",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "AdDawg1504",
-            "spotterCnt": "171 Reports"
-        },
-        {
-            "id": 1084299,
-            "locoCode": "RJC1776",
-            "locoName": "America 250 Years",
-            "locoId": 3693,
-            "spottedOn": 1787683920,
-            "location": "Spencer, NC (NC Transportation Museum)",
-            "direction": "N/A",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "AdDawg1504",
-            "spotterCnt": "171 Reports"
-        },
-        {
             "id": 1084315,
             "locoCode": "TPLX1776",
             "locoName": "America 250 Years",
@@ -4077,48 +4119,6 @@
             "spotterCnt": "171 Reports"
         },
         {
-            "id": 1084294,
-            "locoCode": "ACWR5520",
-            "locoName": "America 250 Years",
-            "locoId": 3662,
-            "spottedOn": 1787683920,
-            "location": "Spencer, NC (NC Transportation Museum)",
-            "direction": "N/A",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "AdDawg1504",
-            "spotterCnt": "171 Reports"
-        },
-        {
-            "id": 1084305,
-            "locoCode": "DL1776",
-            "locoName": "Spirit of Freedom",
-            "locoId": 3510,
-            "spottedOn": 1787683920,
-            "location": "Spencer, NC (NC Transportation Museum)",
-            "direction": "N/A",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "AdDawg1504",
-            "spotterCnt": "171 Reports"
-        },
-        {
-            "id": 1084295,
-            "locoCode": "BPRR4434",
-            "locoName": "America 250 Years",
-            "locoId": 3416,
-            "spottedOn": 1787683920,
-            "location": "Spencer, NC (NC Transportation Museum)",
-            "direction": "N/A",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "AdDawg1504",
-            "spotterCnt": "171 Reports"
-        },
-        {
             "id": 1084314,
             "locoCode": "RNCX1776",
             "locoName": "America 250 Years",
@@ -4133,10 +4133,10 @@
             "spotterCnt": "171 Reports"
         },
         {
-            "id": 1084293,
-            "locoCode": "OMLX4200",
+            "id": 1084295,
+            "locoCode": "BPRR4434",
             "locoName": "America 250 Years",
-            "locoId": 3669,
+            "locoId": 3416,
             "spottedOn": 1787683920,
             "location": "Spencer, NC (NC Transportation Museum)",
             "direction": "N/A",
@@ -4193,6 +4193,76 @@
             "locoCode": "RBMN1776",
             "locoName": "Celebrating 250 Years of Independence",
             "locoId": 3413,
+            "spottedOn": 1787683920,
+            "location": "Spencer, NC (NC Transportation Museum)",
+            "direction": "N/A",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "AdDawg1504",
+            "spotterCnt": "171 Reports"
+        },
+        {
+            "id": 1084306,
+            "locoCode": "CRC1776",
+            "locoName": "America 250 Years",
+            "locoId": 3585,
+            "spottedOn": 1787683920,
+            "location": "Spencer, NC (NC Transportation Museum)",
+            "direction": "N/A",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "AdDawg1504",
+            "spotterCnt": "171 Reports"
+        },
+        {
+            "id": 1084293,
+            "locoCode": "OMLX4200",
+            "locoName": "America 250 Years",
+            "locoId": 3669,
+            "spottedOn": 1787683920,
+            "location": "Spencer, NC (NC Transportation Museum)",
+            "direction": "N/A",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "AdDawg1504",
+            "spotterCnt": "171 Reports"
+        },
+        {
+            "id": 1084305,
+            "locoCode": "DL1776",
+            "locoName": "Spirit of Freedom",
+            "locoId": 3510,
+            "spottedOn": 1787683920,
+            "location": "Spencer, NC (NC Transportation Museum)",
+            "direction": "N/A",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "AdDawg1504",
+            "spotterCnt": "171 Reports"
+        },
+        {
+            "id": 1084294,
+            "locoCode": "ACWR5520",
+            "locoName": "America 250 Years",
+            "locoId": 3662,
+            "spottedOn": 1787683920,
+            "location": "Spencer, NC (NC Transportation Museum)",
+            "direction": "N/A",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "AdDawg1504",
+            "spotterCnt": "171 Reports"
+        },
+        {
+            "id": 1084299,
+            "locoCode": "RJC1776",
+            "locoName": "America 250 Years",
+            "locoId": 3693,
             "spottedOn": 1787683920,
             "location": "Spencer, NC (NC Transportation Museum)",
             "direction": "N/A",
@@ -4483,10 +4553,10 @@
             "spotterCnt": "179 Reports"
         },
         {
-            "id": 1084266,
-            "locoCode": "CN2787",
-            "locoName": "Ex-Citirail",
-            "locoId": 2519,
+            "id": 1084267,
+            "locoCode": "CN3923",
+            "locoName": "Ex-CitiRail",
+            "locoId": 2361,
             "spottedOn": 1787681100,
             "location": "Durand, MI",
             "direction": "West",
@@ -4497,10 +4567,10 @@
             "spotterCnt": "17 Reports"
         },
         {
-            "id": 1084267,
-            "locoCode": "CN3923",
-            "locoName": "Ex-CitiRail",
-            "locoId": 2361,
+            "id": 1084266,
+            "locoCode": "CN2787",
+            "locoName": "Ex-Citirail",
+            "locoId": 2519,
             "spottedOn": 1787681100,
             "location": "Durand, MI",
             "direction": "West",
@@ -4525,10 +4595,10 @@
             "spotterCnt": "1,910 Reports"
         },
         {
-            "id": 1084257,
-            "locoCode": "CSXT438",
+            "id": 1084256,
+            "locoCode": "CSXT431",
             "locoName": "CSX YN2",
-            "locoId": 2911,
+            "locoId": 2909,
             "spottedOn": 1787679960,
             "location": "Berea, OH",
             "direction": "East",
@@ -4539,10 +4609,10 @@
             "spotterCnt": "54 Reports"
         },
         {
-            "id": 1084256,
-            "locoCode": "CSXT431",
+            "id": 1084257,
+            "locoCode": "CSXT438",
             "locoName": "CSX YN2",
-            "locoId": 2909,
+            "locoId": 2911,
             "spottedOn": 1787679960,
             "location": "Berea, OH",
             "direction": "East",
@@ -5337,18 +5407,18 @@
             "spotterCnt": "16 Reports"
         },
         {
-            "id": 1083825,
-            "locoCode": "CN3984",
-            "locoName": "Ex-CitiRail",
-            "locoId": 2422,
-            "spottedOn": 1787611740,
-            "location": "London, ON (LiveTrains Camera)",
+            "id": 1083823,
+            "locoCode": "BNSF1120",
+            "locoName": "BNSF H1 Paint",
+            "locoId": 3120,
+            "spottedOn": 1787611620,
+            "location": "Lorenzo, IL",
             "direction": "West",
-            "train": "CN A439-31",
-            "visualId": 4,
+            "train": "BNSF S-LPCLBJ",
+            "visualId": 3,
             "route": true,
-            "spotter": "thetaylorwithautism2005",
-            "spotterCnt": "2,274 Reports"
+            "spotter": "Railgoon2013",
+            "spotterCnt": "34 Reports"
         },
         {
             "id": 1084049,
@@ -5365,18 +5435,18 @@
             "spotterCnt": "1,654 Reports"
         },
         {
-            "id": 1083823,
-            "locoCode": "BNSF1120",
-            "locoName": "BNSF H1 Paint",
-            "locoId": 3120,
-            "spottedOn": 1787611620,
-            "location": "Lorenzo, IL",
-            "direction": "West",
-            "train": "BNSF S-LPCLBJ",
+            "id": 1083860,
+            "locoCode": "CSXT9041",
+            "locoName": "CSX YN2",
+            "locoId": 3079,
+            "spottedOn": 1787610840,
+            "location": "Springfield, TN",
+            "direction": "North",
+            "train": "CSX L392",
             "visualId": 3,
             "route": true,
-            "spotter": "Railgoon2013",
-            "spotterCnt": "34 Reports"
+            "spotter": "TrainzShenaniganz",
+            "spotterCnt": "39 Reports"
         },
         {
             "id": 1083820,
@@ -5391,20 +5461,6 @@
             "route": true,
             "spotter": "toastertrains",
             "spotterCnt": "80 Reports"
-        },
-        {
-            "id": 1083860,
-            "locoCode": "CSXT9041",
-            "locoName": "CSX YN2",
-            "locoId": 3079,
-            "spottedOn": 1787610840,
-            "location": "Springfield, TN",
-            "direction": "North",
-            "train": "CSX L392",
-            "visualId": 3,
-            "route": true,
-            "spotter": "TrainzShenaniganz",
-            "spotterCnt": "39 Reports"
         },
         {
             "id": 1083815,
@@ -5656,7 +5712,7 @@
             "visualId": 4,
             "route": true,
             "spotter": "RTW Productions",
-            "spotterCnt": "120 Reports"
+            "spotterCnt": "119 Reports"
         },
         {
             "id": 1083649,
@@ -5869,10 +5925,10 @@
             "spotterCnt": "1,428 Reports"
         },
         {
-            "id": 1083544,
-            "locoCode": "CSXT4568",
-            "locoName": "50th Anniversary Operation Lifesaver",
-            "locoId": 2540,
+            "id": 1083545,
+            "locoCode": "CSXT1982",
+            "locoName": "Seaboard System",
+            "locoId": 2587,
             "spottedOn": 1787588160,
             "location": "Cumberland, MD",
             "direction": "In Yard",
@@ -5883,10 +5939,10 @@
             "spotterCnt": "572 Reports"
         },
         {
-            "id": 1083545,
-            "locoCode": "CSXT1982",
-            "locoName": "Seaboard System",
-            "locoId": 2587,
+            "id": 1083544,
+            "locoCode": "CSXT4568",
+            "locoName": "50th Anniversary Operation Lifesaver",
+            "locoId": 2540,
             "spottedOn": 1787588160,
             "location": "Cumberland, MD",
             "direction": "In Yard",
@@ -6093,10 +6149,10 @@
             "spotterCnt": "283 Reports"
         },
         {
-            "id": 1083367,
-            "locoCode": "CN3926",
+            "id": 1083366,
+            "locoCode": "CN3940",
             "locoName": "Ex-CitiRail",
-            "locoId": 2364,
+            "locoId": 2378,
             "spottedOn": 1787564400,
             "location": "Drummondville, QC",
             "direction": "East",
@@ -6107,10 +6163,10 @@
             "spotterCnt": "4,030 Reports"
         },
         {
-            "id": 1083366,
-            "locoCode": "CN3940",
+            "id": 1083367,
+            "locoCode": "CN3926",
             "locoName": "Ex-CitiRail",
-            "locoId": 2378,
+            "locoId": 2364,
             "spottedOn": 1787564400,
             "location": "Drummondville, QC",
             "direction": "East",
@@ -6580,7 +6636,7 @@
             "visualId": 3,
             "route": false,
             "spotter": "CnKomokaRailfanner",
-            "spotterCnt": "188 Reports"
+            "spotterCnt": "190 Reports"
         },
         {
             "id": 1083228,
@@ -6625,20 +6681,6 @@
             "spotterCnt": "291 Reports"
         },
         {
-            "id": 1083048,
-            "locoCode": "BCOL4653",
-            "locoName": "BC Rail Paint",
-            "locoId": 709,
-            "spottedOn": 1787524680,
-            "location": "Winnipeg, MB",
-            "direction": "West",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "Cappuccino",
-            "spotterCnt": "19 Reports"
-        },
-        {
             "id": 1083144,
             "locoCode": "BNSF4712",
             "locoName": "BNSF Warbonnet",
@@ -6651,6 +6693,20 @@
             "route": true,
             "spotter": "Alco251",
             "spotterCnt": "554 Reports"
+        },
+        {
+            "id": 1083048,
+            "locoCode": "BCOL4653",
+            "locoName": "BC Rail Paint",
+            "locoId": 709,
+            "spottedOn": 1787524680,
+            "location": "Winnipeg, MB",
+            "direction": "West",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "Cappuccino",
+            "spotterCnt": "19 Reports"
         },
         {
             "id": 1083044,
@@ -6667,20 +6723,6 @@
             "spotterCnt": "30 Reports"
         },
         {
-            "id": 1083029,
-            "locoCode": "CN4716",
-            "locoName": "CN Zebra",
-            "locoId": 3548,
-            "spottedOn": 1787523960,
-            "location": "Oakville, ON",
-            "direction": "In Yard",
-            "train": null,
-            "visualId": 3,
-            "route": false,
-            "spotter": "CnKomokaRailfanner",
-            "spotterCnt": "188 Reports"
-        },
-        {
             "id": 1083028,
             "locoCode": "CN9547",
             "locoName": "CN Zebra",
@@ -6692,7 +6734,21 @@
             "visualId": 3,
             "route": false,
             "spotter": "CnKomokaRailfanner",
-            "spotterCnt": "188 Reports"
+            "spotterCnt": "190 Reports"
+        },
+        {
+            "id": 1083029,
+            "locoCode": "CN4716",
+            "locoName": "CN Zebra",
+            "locoId": 3548,
+            "spottedOn": 1787523960,
+            "location": "Oakville, ON",
+            "direction": "In Yard",
+            "train": null,
+            "visualId": 3,
+            "route": false,
+            "spotter": "CnKomokaRailfanner",
+            "spotterCnt": "190 Reports"
         },
         {
             "id": 1083219,
@@ -6777,38 +6833,94 @@
             "route": true,
             "spotter": "joshuacarterrailfan",
             "spotterCnt": "14 Reports"
-        },
-        {
-            "id": 1082977,
-            "locoCode": "CP1101",
-            "locoName": "Hydrogen (Green/Blue/Gray)",
-            "locoId": 3408,
-            "spottedOn": 1787520900,
-            "location": "Calgary, AB",
-            "direction": "West",
-            "train": "CPKC CO41",
-            "visualId": 3,
-            "route": false,
-            "spotter": "CPJJP",
-            "spotterCnt": "349 Reports"
-        },
-        {
-            "id": 1082975,
-            "locoCode": "CP1102",
-            "locoName": "Hydrogen (Green/Blue/Gray)",
-            "locoId": 3468,
-            "spottedOn": 1787520900,
-            "location": "Calgary, AB",
-            "direction": "West",
-            "train": "CPKC CO41",
-            "visualId": 3,
-            "route": false,
-            "spotter": "CPJJP",
-            "spotterCnt": "349 Reports"
         }
     ],
     "raw": {
         "table": [
+            {
+                "id": 1085095,
+                "locoCode": "CN3984",
+                "locoName": "Ex-CitiRail",
+                "locoId": 2422,
+                "spottedOn": 1787780100,
+                "location": "Middlesex Centre, ON",
+                "direction": "East",
+                "train": "CN A438-31",
+                "visualId": 3,
+                "route": true,
+                "spotter": "CnKomokaRailfanner",
+                "spotterCnt": "190 Reports"
+            },
+            {
+                "id": 1085096,
+                "locoCode": "CN4726",
+                "locoName": "CN Zebra",
+                "locoId": 3569,
+                "spottedOn": 1787780100,
+                "location": "Middlesex Centre, ON",
+                "direction": "East",
+                "train": "CN A438-31",
+                "visualId": 3,
+                "route": true,
+                "spotter": "CnKomokaRailfanner",
+                "spotterCnt": "190 Reports"
+            },
+            {
+                "id": 1085094,
+                "locoCode": "BNSF1108",
+                "locoName": "BNSF H1 Paint",
+                "locoId": 3110,
+                "spottedOn": 1787780100,
+                "location": "Prescott, WI (Webcam)",
+                "direction": "East",
+                "train": "BNSF Q-SSECHC",
+                "visualId": 4,
+                "route": true,
+                "spotter": "Trainsfordays196",
+                "spotterCnt": "9 Reports"
+            },
+            {
+                "id": 1085093,
+                "locoCode": "BNSF2026",
+                "locoName": "America 250 Years",
+                "locoId": 3496,
+                "spottedOn": 1787780100,
+                "location": "Prescott, WI (Webcam)",
+                "direction": "East",
+                "train": "BNSF Q-SSECHC",
+                "visualId": 4,
+                "route": true,
+                "spotter": "Trainsfordays196",
+                "spotterCnt": "9 Reports"
+            },
+            {
+                "id": 1085091,
+                "locoCode": "CFE4032",
+                "locoName": "Genesee & Wyoming (Whisker)",
+                "locoId": 2763,
+                "spottedOn": 1787779980,
+                "location": "Dolton, IL (Park Ave)",
+                "direction": "West",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "SD70JACK",
+                "spotterCnt": "19 Reports"
+            },
+            {
+                "id": 1085090,
+                "locoCode": "CFE4036",
+                "locoName": "Honoring Veterans & Service Members",
+                "locoId": 2747,
+                "spottedOn": 1787779980,
+                "location": "Dolton, IL (Park Ave)",
+                "direction": "West",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "SD70JACK",
+                "spotterCnt": "19 Reports"
+            },
             {
                 "id": 1085087,
                 "locoCode": "CSXT451",
@@ -6878,6 +6990,20 @@
                 "route": false,
                 "spotter": "jc likes bnsf",
                 "spotterCnt": "21 Reports"
+            },
+            {
+                "id": 1085092,
+                "locoCode": "BNSF2322",
+                "locoName": "BN Paint",
+                "locoId": 1569,
+                "spottedOn": 1787779200,
+                "location": "Longview, WA",
+                "direction": "In Yard",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "BalloonBugle88",
+                "spotterCnt": "201 Reports"
             },
             {
                 "id": 1085078,
@@ -7202,34 +7328,6 @@
                 "spotterCnt": "273 Reports"
             },
             {
-                "id": 1085049,
-                "locoCode": "BNSF1108",
-                "locoName": "BNSF H1 Paint",
-                "locoId": 3110,
-                "spottedOn": 1787776860,
-                "location": "Newport, MN",
-                "direction": "East",
-                "train": "BNSF Q-SSECHC",
-                "visualId": 3,
-                "route": true,
-                "spotter": "The Midwestern Railfan",
-                "spotterCnt": "16 Reports"
-            },
-            {
-                "id": 1085048,
-                "locoCode": "BNSF2026",
-                "locoName": "America 250 Years",
-                "locoId": 3496,
-                "spottedOn": 1787776860,
-                "location": "Newport, MN",
-                "direction": "East",
-                "train": "BNSF Q-SSECHC",
-                "visualId": 3,
-                "route": true,
-                "spotter": "The Midwestern Railfan",
-                "spotterCnt": "16 Reports"
-            },
-            {
                 "id": 1085047,
                 "locoCode": "UP1982",
                 "locoName": "Missouri Pacific",
@@ -7426,10 +7524,10 @@
                 "spotterCnt": "46 Reports"
             },
             {
-                "id": 1085025,
-                "locoCode": "NS8103",
-                "locoName": "Norfolk & Western",
-                "locoId": 12,
+                "id": 1085024,
+                "locoCode": "NS1776",
+                "locoName": "America 250 Years (Bell)",
+                "locoId": 3502,
                 "spottedOn": 1787774940,
                 "location": "Knoxville, TN",
                 "direction": "In Yard",
@@ -7440,10 +7538,10 @@
                 "spotterCnt": "99 Reports"
             },
             {
-                "id": 1085024,
-                "locoCode": "NS1776",
-                "locoName": "America 250 Years (Bell)",
-                "locoId": 3502,
+                "id": 1085025,
+                "locoCode": "NS8103",
+                "locoName": "Norfolk & Western",
+                "locoId": 12,
                 "spottedOn": 1787774940,
                 "location": "Knoxville, TN",
                 "direction": "In Yard",
@@ -8644,7 +8742,7 @@
                 "spotterCnt": "2,274 Reports"
             },
             {
-                "id": 1084871,
+                "id": 1084883,
                 "locoCode": "NS8025",
                 "locoName": "Monongahela",
                 "locoId": 17,
@@ -8654,8 +8752,8 @@
                 "train": "UP ZLAAI",
                 "visualId": 4,
                 "route": true,
-                "spotter": "RTW Productions",
-                "spotterCnt": "120 Reports"
+                "spotter": "Wengerr",
+                "spotterCnt": "17,940 Reports"
             },
             {
                 "id": 1084868,
@@ -9047,7 +9145,7 @@
                 "visualId": 3,
                 "route": true,
                 "spotter": "CnKomokaRailfanner",
-                "spotterCnt": "188 Reports"
+                "spotterCnt": "190 Reports"
             },
             {
                 "id": 1084809,
@@ -10058,10 +10156,10 @@
                 "spotterCnt": "806 Reports"
             },
             {
-                "id": 1084536,
-                "locoCode": "MRL4408",
+                "id": 1084537,
+                "locoCode": "MRL4405",
                 "locoName": "Montana Rail Link",
-                "locoId": 2667,
+                "locoId": 2664,
                 "spottedOn": 1787702160,
                 "location": "Helena Valley West Central, MT",
                 "direction": "East",
@@ -10072,10 +10170,10 @@
                 "spotterCnt": "806 Reports"
             },
             {
-                "id": 1084537,
-                "locoCode": "MRL4405",
+                "id": 1084536,
+                "locoCode": "MRL4408",
                 "locoName": "Montana Rail Link",
-                "locoId": 2664,
+                "locoId": 2667,
                 "spottedOn": 1787702160,
                 "location": "Helena Valley West Central, MT",
                 "direction": "East",
@@ -10828,34 +10926,6 @@
                 "spotterCnt": "171 Reports"
             },
             {
-                "id": 1084306,
-                "locoCode": "CRC1776",
-                "locoName": "America 250 Years",
-                "locoId": 3585,
-                "spottedOn": 1787683920,
-                "location": "Spencer, NC (NC Transportation Museum)",
-                "direction": "N/A",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "AdDawg1504",
-                "spotterCnt": "171 Reports"
-            },
-            {
-                "id": 1084299,
-                "locoCode": "RJC1776",
-                "locoName": "America 250 Years",
-                "locoId": 3693,
-                "spottedOn": 1787683920,
-                "location": "Spencer, NC (NC Transportation Museum)",
-                "direction": "N/A",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "AdDawg1504",
-                "spotterCnt": "171 Reports"
-            },
-            {
                 "id": 1084315,
                 "locoCode": "TPLX1776",
                 "locoName": "America 250 Years",
@@ -10884,48 +10954,6 @@
                 "spotterCnt": "171 Reports"
             },
             {
-                "id": 1084294,
-                "locoCode": "ACWR5520",
-                "locoName": "America 250 Years",
-                "locoId": 3662,
-                "spottedOn": 1787683920,
-                "location": "Spencer, NC (NC Transportation Museum)",
-                "direction": "N/A",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "AdDawg1504",
-                "spotterCnt": "171 Reports"
-            },
-            {
-                "id": 1084305,
-                "locoCode": "DL1776",
-                "locoName": "Spirit of Freedom",
-                "locoId": 3510,
-                "spottedOn": 1787683920,
-                "location": "Spencer, NC (NC Transportation Museum)",
-                "direction": "N/A",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "AdDawg1504",
-                "spotterCnt": "171 Reports"
-            },
-            {
-                "id": 1084295,
-                "locoCode": "BPRR4434",
-                "locoName": "America 250 Years",
-                "locoId": 3416,
-                "spottedOn": 1787683920,
-                "location": "Spencer, NC (NC Transportation Museum)",
-                "direction": "N/A",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "AdDawg1504",
-                "spotterCnt": "171 Reports"
-            },
-            {
                 "id": 1084314,
                 "locoCode": "RNCX1776",
                 "locoName": "America 250 Years",
@@ -10940,10 +10968,10 @@
                 "spotterCnt": "171 Reports"
             },
             {
-                "id": 1084293,
-                "locoCode": "OMLX4200",
+                "id": 1084295,
+                "locoCode": "BPRR4434",
                 "locoName": "America 250 Years",
-                "locoId": 3669,
+                "locoId": 3416,
                 "spottedOn": 1787683920,
                 "location": "Spencer, NC (NC Transportation Museum)",
                 "direction": "N/A",
@@ -11000,6 +11028,76 @@
                 "locoCode": "RBMN1776",
                 "locoName": "Celebrating 250 Years of Independence",
                 "locoId": 3413,
+                "spottedOn": 1787683920,
+                "location": "Spencer, NC (NC Transportation Museum)",
+                "direction": "N/A",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "AdDawg1504",
+                "spotterCnt": "171 Reports"
+            },
+            {
+                "id": 1084306,
+                "locoCode": "CRC1776",
+                "locoName": "America 250 Years",
+                "locoId": 3585,
+                "spottedOn": 1787683920,
+                "location": "Spencer, NC (NC Transportation Museum)",
+                "direction": "N/A",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "AdDawg1504",
+                "spotterCnt": "171 Reports"
+            },
+            {
+                "id": 1084293,
+                "locoCode": "OMLX4200",
+                "locoName": "America 250 Years",
+                "locoId": 3669,
+                "spottedOn": 1787683920,
+                "location": "Spencer, NC (NC Transportation Museum)",
+                "direction": "N/A",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "AdDawg1504",
+                "spotterCnt": "171 Reports"
+            },
+            {
+                "id": 1084305,
+                "locoCode": "DL1776",
+                "locoName": "Spirit of Freedom",
+                "locoId": 3510,
+                "spottedOn": 1787683920,
+                "location": "Spencer, NC (NC Transportation Museum)",
+                "direction": "N/A",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "AdDawg1504",
+                "spotterCnt": "171 Reports"
+            },
+            {
+                "id": 1084294,
+                "locoCode": "ACWR5520",
+                "locoName": "America 250 Years",
+                "locoId": 3662,
+                "spottedOn": 1787683920,
+                "location": "Spencer, NC (NC Transportation Museum)",
+                "direction": "N/A",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "AdDawg1504",
+                "spotterCnt": "171 Reports"
+            },
+            {
+                "id": 1084299,
+                "locoCode": "RJC1776",
+                "locoName": "America 250 Years",
+                "locoId": 3693,
                 "spottedOn": 1787683920,
                 "location": "Spencer, NC (NC Transportation Museum)",
                 "direction": "N/A",
@@ -11290,10 +11388,10 @@
                 "spotterCnt": "179 Reports"
             },
             {
-                "id": 1084266,
-                "locoCode": "CN2787",
-                "locoName": "Ex-Citirail",
-                "locoId": 2519,
+                "id": 1084267,
+                "locoCode": "CN3923",
+                "locoName": "Ex-CitiRail",
+                "locoId": 2361,
                 "spottedOn": 1787681100,
                 "location": "Durand, MI",
                 "direction": "West",
@@ -11304,10 +11402,10 @@
                 "spotterCnt": "17 Reports"
             },
             {
-                "id": 1084267,
-                "locoCode": "CN3923",
-                "locoName": "Ex-CitiRail",
-                "locoId": 2361,
+                "id": 1084266,
+                "locoCode": "CN2787",
+                "locoName": "Ex-Citirail",
+                "locoId": 2519,
                 "spottedOn": 1787681100,
                 "location": "Durand, MI",
                 "direction": "West",
@@ -11332,10 +11430,10 @@
                 "spotterCnt": "1,910 Reports"
             },
             {
-                "id": 1084257,
-                "locoCode": "CSXT438",
+                "id": 1084256,
+                "locoCode": "CSXT431",
                 "locoName": "CSX YN2",
-                "locoId": 2911,
+                "locoId": 2909,
                 "spottedOn": 1787679960,
                 "location": "Berea, OH",
                 "direction": "East",
@@ -11346,10 +11444,10 @@
                 "spotterCnt": "54 Reports"
             },
             {
-                "id": 1084256,
-                "locoCode": "CSXT431",
+                "id": 1084257,
+                "locoCode": "CSXT438",
                 "locoName": "CSX YN2",
-                "locoId": 2909,
+                "locoId": 2911,
                 "spottedOn": 1787679960,
                 "location": "Berea, OH",
                 "direction": "East",
@@ -12144,18 +12242,18 @@
                 "spotterCnt": "16 Reports"
             },
             {
-                "id": 1083825,
-                "locoCode": "CN3984",
-                "locoName": "Ex-CitiRail",
-                "locoId": 2422,
-                "spottedOn": 1787611740,
-                "location": "London, ON (LiveTrains Camera)",
+                "id": 1083823,
+                "locoCode": "BNSF1120",
+                "locoName": "BNSF H1 Paint",
+                "locoId": 3120,
+                "spottedOn": 1787611620,
+                "location": "Lorenzo, IL",
                 "direction": "West",
-                "train": "CN A439-31",
-                "visualId": 4,
+                "train": "BNSF S-LPCLBJ",
+                "visualId": 3,
                 "route": true,
-                "spotter": "thetaylorwithautism2005",
-                "spotterCnt": "2,274 Reports"
+                "spotter": "Railgoon2013",
+                "spotterCnt": "34 Reports"
             },
             {
                 "id": 1084049,
@@ -12172,18 +12270,18 @@
                 "spotterCnt": "1,654 Reports"
             },
             {
-                "id": 1083823,
-                "locoCode": "BNSF1120",
-                "locoName": "BNSF H1 Paint",
-                "locoId": 3120,
-                "spottedOn": 1787611620,
-                "location": "Lorenzo, IL",
-                "direction": "West",
-                "train": "BNSF S-LPCLBJ",
+                "id": 1083860,
+                "locoCode": "CSXT9041",
+                "locoName": "CSX YN2",
+                "locoId": 3079,
+                "spottedOn": 1787610840,
+                "location": "Springfield, TN",
+                "direction": "North",
+                "train": "CSX L392",
                 "visualId": 3,
                 "route": true,
-                "spotter": "Railgoon2013",
-                "spotterCnt": "34 Reports"
+                "spotter": "TrainzShenaniganz",
+                "spotterCnt": "39 Reports"
             },
             {
                 "id": 1083820,
@@ -12198,20 +12296,6 @@
                 "route": true,
                 "spotter": "toastertrains",
                 "spotterCnt": "80 Reports"
-            },
-            {
-                "id": 1083860,
-                "locoCode": "CSXT9041",
-                "locoName": "CSX YN2",
-                "locoId": 3079,
-                "spottedOn": 1787610840,
-                "location": "Springfield, TN",
-                "direction": "North",
-                "train": "CSX L392",
-                "visualId": 3,
-                "route": true,
-                "spotter": "TrainzShenaniganz",
-                "spotterCnt": "39 Reports"
             },
             {
                 "id": 1083815,
@@ -12463,7 +12547,7 @@
                 "visualId": 4,
                 "route": true,
                 "spotter": "RTW Productions",
-                "spotterCnt": "120 Reports"
+                "spotterCnt": "119 Reports"
             },
             {
                 "id": 1083649,
@@ -12676,10 +12760,10 @@
                 "spotterCnt": "1,428 Reports"
             },
             {
-                "id": 1083544,
-                "locoCode": "CSXT4568",
-                "locoName": "50th Anniversary Operation Lifesaver",
-                "locoId": 2540,
+                "id": 1083545,
+                "locoCode": "CSXT1982",
+                "locoName": "Seaboard System",
+                "locoId": 2587,
                 "spottedOn": 1787588160,
                 "location": "Cumberland, MD",
                 "direction": "In Yard",
@@ -12690,10 +12774,10 @@
                 "spotterCnt": "572 Reports"
             },
             {
-                "id": 1083545,
-                "locoCode": "CSXT1982",
-                "locoName": "Seaboard System",
-                "locoId": 2587,
+                "id": 1083544,
+                "locoCode": "CSXT4568",
+                "locoName": "50th Anniversary Operation Lifesaver",
+                "locoId": 2540,
                 "spottedOn": 1787588160,
                 "location": "Cumberland, MD",
                 "direction": "In Yard",
@@ -12900,10 +12984,10 @@
                 "spotterCnt": "283 Reports"
             },
             {
-                "id": 1083367,
-                "locoCode": "CN3926",
+                "id": 1083366,
+                "locoCode": "CN3940",
                 "locoName": "Ex-CitiRail",
-                "locoId": 2364,
+                "locoId": 2378,
                 "spottedOn": 1787564400,
                 "location": "Drummondville, QC",
                 "direction": "East",
@@ -12914,10 +12998,10 @@
                 "spotterCnt": "4,030 Reports"
             },
             {
-                "id": 1083366,
-                "locoCode": "CN3940",
+                "id": 1083367,
+                "locoCode": "CN3926",
                 "locoName": "Ex-CitiRail",
-                "locoId": 2378,
+                "locoId": 2364,
                 "spottedOn": 1787564400,
                 "location": "Drummondville, QC",
                 "direction": "East",
@@ -13387,7 +13471,7 @@
                 "visualId": 3,
                 "route": false,
                 "spotter": "CnKomokaRailfanner",
-                "spotterCnt": "188 Reports"
+                "spotterCnt": "190 Reports"
             },
             {
                 "id": 1083228,
@@ -13432,20 +13516,6 @@
                 "spotterCnt": "291 Reports"
             },
             {
-                "id": 1083048,
-                "locoCode": "BCOL4653",
-                "locoName": "BC Rail Paint",
-                "locoId": 709,
-                "spottedOn": 1787524680,
-                "location": "Winnipeg, MB",
-                "direction": "West",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "Cappuccino",
-                "spotterCnt": "19 Reports"
-            },
-            {
                 "id": 1083144,
                 "locoCode": "BNSF4712",
                 "locoName": "BNSF Warbonnet",
@@ -13458,6 +13528,20 @@
                 "route": true,
                 "spotter": "Alco251",
                 "spotterCnt": "554 Reports"
+            },
+            {
+                "id": 1083048,
+                "locoCode": "BCOL4653",
+                "locoName": "BC Rail Paint",
+                "locoId": 709,
+                "spottedOn": 1787524680,
+                "location": "Winnipeg, MB",
+                "direction": "West",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "Cappuccino",
+                "spotterCnt": "19 Reports"
             },
             {
                 "id": 1083044,
@@ -13474,20 +13558,6 @@
                 "spotterCnt": "30 Reports"
             },
             {
-                "id": 1083029,
-                "locoCode": "CN4716",
-                "locoName": "CN Zebra",
-                "locoId": 3548,
-                "spottedOn": 1787523960,
-                "location": "Oakville, ON",
-                "direction": "In Yard",
-                "train": null,
-                "visualId": 3,
-                "route": false,
-                "spotter": "CnKomokaRailfanner",
-                "spotterCnt": "188 Reports"
-            },
-            {
                 "id": 1083028,
                 "locoCode": "CN9547",
                 "locoName": "CN Zebra",
@@ -13499,7 +13569,21 @@
                 "visualId": 3,
                 "route": false,
                 "spotter": "CnKomokaRailfanner",
-                "spotterCnt": "188 Reports"
+                "spotterCnt": "190 Reports"
+            },
+            {
+                "id": 1083029,
+                "locoCode": "CN4716",
+                "locoName": "CN Zebra",
+                "locoId": 3548,
+                "spottedOn": 1787523960,
+                "location": "Oakville, ON",
+                "direction": "In Yard",
+                "train": null,
+                "visualId": 3,
+                "route": false,
+                "spotter": "CnKomokaRailfanner",
+                "spotterCnt": "190 Reports"
             },
             {
                 "id": 1083219,
@@ -13584,39 +13668,113 @@
                 "route": true,
                 "spotter": "joshuacarterrailfan",
                 "spotterCnt": "14 Reports"
-            },
-            {
-                "id": 1082977,
-                "locoCode": "CP1101",
-                "locoName": "Hydrogen (Green/Blue/Gray)",
-                "locoId": 3408,
-                "spottedOn": 1787520900,
-                "location": "Calgary, AB",
-                "direction": "West",
-                "train": "CPKC CO41",
-                "visualId": 3,
-                "route": false,
-                "spotter": "CPJJP",
-                "spotterCnt": "349 Reports"
-            },
-            {
-                "id": 1082975,
-                "locoCode": "CP1102",
-                "locoName": "Hydrogen (Green/Blue/Gray)",
-                "locoId": 3468,
-                "spottedOn": 1787520900,
-                "location": "Calgary, AB",
-                "direction": "West",
-                "train": "CPKC CO41",
-                "visualId": 3,
-                "route": false,
-                "spotter": "CPJJP",
-                "spotterCnt": "349 Reports"
             }
         ],
         "map": [
             {
                 "isNew": true,
+                "name": "Middlesex Centre, ON",
+                "lat": 42.95651935,
+                "lon": -81.425440429,
+                "direction": -1,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1085095,
+                        "loco": "CN3984 - Ex-CitiRail",
+                        "spottedOn": 1787780100,
+                        "direction": "East",
+                        "train": "CN A438-31",
+                        "visualId": 3,
+                        "leading": true
+                    },
+                    {
+                        "id": 1085096,
+                        "loco": "CN4726 - CN Zebra",
+                        "spottedOn": 1787780100,
+                        "direction": "East",
+                        "train": "CN A438-31",
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1084812,
+                        "loco": "CN2783 - Ex-Citirail",
+                        "spottedOn": 1787754300,
+                        "direction": "West",
+                        "train": "CN L501-31",
+                        "visualId": 3,
+                        "leading": true
+                    }
+                ]
+            },
+            {
+                "isNew": true,
+                "name": "Prescott, WI (Webcam)",
+                "lat": 44.7475621,
+                "lon": -92.8009,
+                "direction": -1,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1085094,
+                        "loco": "BNSF1108 - BNSF H1 Paint",
+                        "spottedOn": 1787780100,
+                        "direction": "East",
+                        "train": "BNSF Q-SSECHC",
+                        "visualId": 4,
+                        "leading": false
+                    },
+                    {
+                        "id": 1085093,
+                        "loco": "BNSF2026 - America 250 Years",
+                        "spottedOn": 1787780100,
+                        "direction": "East",
+                        "train": "BNSF Q-SSECHC",
+                        "visualId": 4,
+                        "leading": true
+                    }
+                ]
+            },
+            {
+                "isNew": true,
+                "name": "Dolton, IL (Park Ave)",
+                "lat": 41.64085954,
+                "lon": -87.608551415,
+                "direction": -1,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1085091,
+                        "loco": "CFE4032 - Genesee & Wyoming (Whisker)",
+                        "spottedOn": 1787779980,
+                        "direction": "West",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1085090,
+                        "loco": "CFE4036 - Honoring Veterans & Service Members",
+                        "spottedOn": 1787779980,
+                        "direction": "West",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": true
+                    },
+                    {
+                        "id": 1085077,
+                        "loco": "BNSF988 - BNSF H1 Paint",
+                        "spottedOn": 1787778900,
+                        "direction": "East",
+                        "train": "CSX B119",
+                        "visualId": 3,
+                        "leading": false
+                    }
+                ]
+            },
+            {
+                "isNew": false,
                 "name": "Folkston, GA (VRF Camera)",
                 "lat": 30.833017135,
                 "lon": -82.008713492,
@@ -13728,6 +13886,34 @@
             },
             {
                 "isNew": false,
+                "name": "Longview, WA",
+                "lat": 46.189999,
+                "lon": -122.914558413,
+                "direction": -1,
+                "age": 0,
+                "reports": [
+                    {
+                        "id": 1085092,
+                        "loco": "BNSF2322 - BN Paint",
+                        "spottedOn": 1787779200,
+                        "direction": "In Yard",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": true
+                    },
+                    {
+                        "id": 1084954,
+                        "loco": "BNSF3176 - ATSF Bluebonnet",
+                        "spottedOn": 1787769420,
+                        "direction": "In Yard",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": true
+                    }
+                ]
+            },
+            {
+                "isNew": false,
                 "name": "Clinton, IA",
                 "lat": 41.82258576,
                 "lon": -90.209116401,
@@ -13740,25 +13926,6 @@
                         "spottedOn": 1787779080,
                         "direction": "West",
                         "train": "UP MPRNP",
-                        "visualId": 3,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Dolton, IL (Park Ave)",
-                "lat": 41.64085954,
-                "lon": -87.608551415,
-                "direction": 2,
-                "age": 0,
-                "reports": [
-                    {
-                        "id": 1085077,
-                        "loco": "BNSF988 - BNSF H1 Paint",
-                        "spottedOn": 1787778900,
-                        "direction": "East",
-                        "train": "CSX B119",
                         "visualId": 3,
                         "leading": false
                     }
@@ -13854,7 +14021,7 @@
                 "lat": 42.260792885,
                 "lon": -71.794947743,
                 "direction": 2,
-                "age": 0,
+                "age": 1,
                 "reports": [
                     {
                         "id": 1085071,
@@ -14158,34 +14325,6 @@
                         "train": "NS 370",
                         "visualId": 3,
                         "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Newport, MN",
-                "lat": 44.880581197,
-                "lon": -93.004368582,
-                "direction": -1,
-                "age": 1,
-                "reports": [
-                    {
-                        "id": 1085049,
-                        "loco": "BNSF1108 - BNSF H1 Paint",
-                        "spottedOn": 1787776860,
-                        "direction": "East",
-                        "train": "BNSF Q-SSECHC",
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1085048,
-                        "loco": "BNSF2026 - America 250 Years",
-                        "spottedOn": 1787776860,
-                        "direction": "East",
-                        "train": "BNSF Q-SSECHC",
-                        "visualId": 3,
-                        "leading": true
                     }
                 ]
             },
@@ -14554,8 +14693,8 @@
                 "age": 1,
                 "reports": [
                     {
-                        "id": 1085025,
-                        "loco": "NS8103 - Norfolk & Western",
+                        "id": 1085024,
+                        "loco": "NS1776 - America 250 Years (Bell)",
                         "spottedOn": 1787774940,
                         "direction": "In Yard",
                         "train": null,
@@ -14563,8 +14702,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1085024,
-                        "loco": "NS1776 - America 250 Years (Bell)",
+                        "id": 1085025,
+                        "loco": "NS8103 - Norfolk & Western",
                         "spottedOn": 1787774940,
                         "direction": "In Yard",
                         "train": null,
@@ -14598,7 +14737,7 @@
                 "lat": 33.296549844,
                 "lon": -86.868919684,
                 "direction": 3,
-                "age": 1,
+                "age": 2,
                 "reports": [
                     {
                         "id": 1085021,
@@ -15040,7 +15179,7 @@
                 "lat": 41.884470755,
                 "lon": -88.02963255,
                 "direction": 2,
-                "age": 2,
+                "age": 3,
                 "reports": [
                     {
                         "id": 1084979,
@@ -15395,25 +15534,6 @@
                         "loco": "CSXT113 - CSX YN2",
                         "spottedOn": 1787769420,
                         "direction": "East",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": true
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Longview, WA",
-                "lat": 46.139351137,
-                "lon": -122.914558413,
-                "direction": 5,
-                "age": 3,
-                "reports": [
-                    {
-                        "id": 1084954,
-                        "loco": "BNSF3176 - ATSF Bluebonnet",
-                        "spottedOn": 1787769420,
-                        "direction": "In Yard",
                         "train": null,
                         "visualId": 3,
                         "leading": true
@@ -16143,15 +16263,6 @@
                         "leading": false
                     },
                     {
-                        "id": 1083825,
-                        "loco": "CN3984 - Ex-CitiRail",
-                        "spottedOn": 1787611740,
-                        "direction": "West",
-                        "train": "CN A439-31",
-                        "visualId": 4,
-                        "leading": false
-                    },
-                    {
                         "id": 1083514,
                         "loco": "CN3191 - 100th Anniversary",
                         "spottedOn": 1787583840,
@@ -16171,7 +16282,7 @@
                 "age": 5,
                 "reports": [
                     {
-                        "id": 1084871,
+                        "id": 1084883,
                         "loco": "NS8025 - Monongahela",
                         "spottedOn": 1787762040,
                         "direction": "East",
@@ -16649,25 +16760,6 @@
                         "train": "BPRR RISI",
                         "visualId": 3,
                         "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
-                "name": "Middlesex Centre, ON",
-                "lat": 42.9515,
-                "lon": -81.4463,
-                "direction": 4,
-                "age": 7,
-                "reports": [
-                    {
-                        "id": 1084812,
-                        "loco": "CN2783 - Ex-Citirail",
-                        "spottedOn": 1787754300,
-                        "direction": "West",
-                        "train": "CN L501-31",
-                        "visualId": 3,
-                        "leading": true
                     }
                 ]
             },
@@ -17428,7 +17520,7 @@
                 "lat": 46.991538339,
                 "lon": -122.794294282,
                 "direction": 1,
-                "age": 19,
+                "age": 20,
                 "reports": [
                     {
                         "id": 1084710,
@@ -17468,15 +17560,6 @@
                         "leading": true
                     },
                     {
-                        "id": 1083367,
-                        "loco": "CN3926 - Ex-CitiRail",
-                        "spottedOn": 1787564400,
-                        "direction": "East",
-                        "train": "CN B730-41",
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
                         "id": 1083366,
                         "loco": "CN3940 - Ex-CitiRail",
                         "spottedOn": 1787564400,
@@ -17484,6 +17567,15 @@
                         "train": "CN B730-41",
                         "visualId": 3,
                         "leading": true
+                    },
+                    {
+                        "id": 1083367,
+                        "loco": "CN3926 - Ex-CitiRail",
+                        "spottedOn": 1787564400,
+                        "direction": "East",
+                        "train": "CN B730-41",
+                        "visualId": 3,
+                        "leading": false
                     },
                     {
                         "id": 1083282,
@@ -17719,7 +17811,7 @@
                 "lat": 41.605803771,
                 "lon": -87.335586958,
                 "direction": 4,
-                "age": 21,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1084543,
@@ -17738,7 +17830,7 @@
                 "lat": 41.873987301,
                 "lon": -80.796349998,
                 "direction": 5,
-                "age": 21,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1084547,
@@ -17757,7 +17849,7 @@
                 "lat": 39.188683,
                 "lon": -94.684154,
                 "direction": 4,
-                "age": 21,
+                "age": 22,
                 "reports": [
                     {
                         "id": 1084647,
@@ -17816,8 +17908,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1084536,
-                        "loco": "MRL4408 - Montana Rail Link",
+                        "id": 1084537,
+                        "loco": "MRL4405 - Montana Rail Link",
                         "spottedOn": 1787702160,
                         "direction": "East",
                         "train": "BNSF K-HELHEL",
@@ -17825,8 +17917,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1084537,
-                        "loco": "MRL4405 - Montana Rail Link",
+                        "id": 1084536,
+                        "loco": "MRL4408 - Montana Rail Link",
                         "spottedOn": 1787702160,
                         "direction": "East",
                         "train": "BNSF K-HELHEL",
@@ -17897,7 +17989,7 @@
                 "lat": 35.025927396,
                 "lon": -110.708766288,
                 "direction": 4,
-                "age": 22,
+                "age": 23,
                 "reports": [
                     {
                         "id": 1084500,
@@ -18058,7 +18150,7 @@
                 "lat": 45.047288832,
                 "lon": -93.362256444,
                 "direction": 2,
-                "age": 23,
+                "age": 24,
                 "reports": [
                     {
                         "id": 1084452,
@@ -18585,15 +18677,6 @@
                         "leading": false
                     },
                     {
-                        "id": 1084266,
-                        "loco": "CN2787 - Ex-Citirail",
-                        "spottedOn": 1787681100,
-                        "direction": "West",
-                        "train": "CN M399-31",
-                        "visualId": 3,
-                        "leading": true
-                    },
-                    {
                         "id": 1084267,
                         "loco": "CN3923 - Ex-CitiRail",
                         "spottedOn": 1787681100,
@@ -18601,6 +18684,15 @@
                         "train": "CN M399-31",
                         "visualId": 3,
                         "leading": false
+                    },
+                    {
+                        "id": 1084266,
+                        "loco": "CN2787 - Ex-Citirail",
+                        "spottedOn": 1787681100,
+                        "direction": "West",
+                        "train": "CN M399-31",
+                        "visualId": 3,
+                        "leading": true
                     }
                 ]
             },
@@ -18666,7 +18758,7 @@
                 "lat": 47.918549514,
                 "lon": -97.079461605,
                 "direction": 2,
-                "age": 26,
+                "age": 27,
                 "reports": [
                     {
                         "id": 1084331,
@@ -18762,24 +18854,6 @@
                         "leading": false
                     },
                     {
-                        "id": 1084306,
-                        "loco": "CRC1776 - America 250 Years",
-                        "spottedOn": 1787683920,
-                        "direction": "N/A",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1084299,
-                        "loco": "RJC1776 - America 250 Years",
-                        "spottedOn": 1787683920,
-                        "direction": "N/A",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
                         "id": 1084315,
                         "loco": "TPLX1776 - America 250 Years",
                         "spottedOn": 1787683920,
@@ -18798,33 +18872,6 @@
                         "leading": false
                     },
                     {
-                        "id": 1084294,
-                        "loco": "ACWR5520 - America 250 Years",
-                        "spottedOn": 1787683920,
-                        "direction": "N/A",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1084305,
-                        "loco": "DL1776 - Spirit of Freedom",
-                        "spottedOn": 1787683920,
-                        "direction": "N/A",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1084295,
-                        "loco": "BPRR4434 - America 250 Years",
-                        "spottedOn": 1787683920,
-                        "direction": "N/A",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
                         "id": 1084314,
                         "loco": "RNCX1776 - America 250 Years",
                         "spottedOn": 1787683920,
@@ -18834,8 +18881,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1084293,
-                        "loco": "OMLX4200 - America 250 Years",
+                        "id": 1084295,
+                        "loco": "BPRR4434 - America 250 Years",
                         "spottedOn": 1787683920,
                         "direction": "N/A",
                         "train": null,
@@ -18872,6 +18919,51 @@
                     {
                         "id": 1084311,
                         "loco": "RBMN1776 - Celebrating 250 Years of Independence",
+                        "spottedOn": 1787683920,
+                        "direction": "N/A",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1084306,
+                        "loco": "CRC1776 - America 250 Years",
+                        "spottedOn": 1787683920,
+                        "direction": "N/A",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1084293,
+                        "loco": "OMLX4200 - America 250 Years",
+                        "spottedOn": 1787683920,
+                        "direction": "N/A",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1084305,
+                        "loco": "DL1776 - Spirit of Freedom",
+                        "spottedOn": 1787683920,
+                        "direction": "N/A",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1084294,
+                        "loco": "ACWR5520 - America 250 Years",
+                        "spottedOn": 1787683920,
+                        "direction": "N/A",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
+                    },
+                    {
+                        "id": 1084299,
+                        "loco": "RJC1776 - America 250 Years",
                         "spottedOn": 1787683920,
                         "direction": "N/A",
                         "train": null,
@@ -19148,8 +19240,8 @@
                 "age": 28,
                 "reports": [
                     {
-                        "id": 1084257,
-                        "loco": "CSXT438 - CSX YN2",
+                        "id": 1084256,
+                        "loco": "CSXT431 - CSX YN2",
                         "spottedOn": 1787679960,
                         "direction": "East",
                         "train": "CSX M356",
@@ -19157,8 +19249,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1084256,
-                        "loco": "CSXT431 - CSX YN2",
+                        "id": 1084257,
+                        "loco": "CSXT438 - CSX YN2",
                         "spottedOn": 1787679960,
                         "direction": "East",
                         "train": "CSX M356",
@@ -19258,7 +19350,7 @@
                 "lat": 37.218093262,
                 "lon": -93.229925,
                 "direction": -1,
-                "age": 29,
+                "age": 30,
                 "reports": [
                     {
                         "id": 1084241,
@@ -19417,7 +19509,7 @@
                 "lat": 45.40503803,
                 "lon": -73.49604391,
                 "direction": 3,
-                "age": 31,
+                "age": 32,
                 "reports": [
                     {
                         "id": 1084146,
@@ -19604,7 +19696,7 @@
                 "lat": 42.90983,
                 "lon": -83.983179227,
                 "direction": -1,
-                "age": 34,
+                "age": 35,
                 "reports": [
                     {
                         "id": 1084056,
@@ -19958,25 +20050,6 @@
             },
             {
                 "isNew": false,
-                "name": "Shakopee, MN",
-                "lat": 44.7972191,
-                "lon": -93.529363,
-                "direction": 3,
-                "age": 47,
-                "reports": [
-                    {
-                        "id": 1083820,
-                        "loco": "UP1066 - SP Paint",
-                        "spottedOn": 1787610840,
-                        "direction": "South",
-                        "train": "UP MALSS",
-                        "visualId": 3,
-                        "leading": false
-                    }
-                ]
-            },
-            {
-                "isNew": false,
                 "name": "Springfield, TN",
                 "lat": 36.504585971,
                 "lon": -86.886119707,
@@ -19991,6 +20064,25 @@
                         "train": "CSX L392",
                         "visualId": 3,
                         "leading": true
+                    }
+                ]
+            },
+            {
+                "isNew": false,
+                "name": "Shakopee, MN",
+                "lat": 44.7972191,
+                "lon": -93.529363,
+                "direction": 3,
+                "age": 47,
+                "reports": [
+                    {
+                        "id": 1083820,
+                        "loco": "UP1066 - SP Paint",
+                        "spottedOn": 1787610840,
+                        "direction": "South",
+                        "train": "UP MALSS",
+                        "visualId": 3,
+                        "leading": false
                     }
                 ]
             },
@@ -20017,7 +20109,7 @@
                 "isNew": false,
                 "name": "Calgary, AB",
                 "lat": 51.032795892,
-                "lon": -114.023313329,
+                "lon": -114.042427344,
                 "direction": -1,
                 "age": 47,
                 "reports": [
@@ -20036,24 +20128,6 @@
                         "spottedOn": 1787546640,
                         "direction": "South",
                         "train": null,
-                        "visualId": 3,
-                        "leading": true
-                    },
-                    {
-                        "id": 1082977,
-                        "loco": "CP1101 - Hydrogen (Green/Blue/Gray)",
-                        "spottedOn": 1787520900,
-                        "direction": "West",
-                        "train": "CPKC CO41",
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
-                        "id": 1082975,
-                        "loco": "CP1102 - Hydrogen (Green/Blue/Gray)",
-                        "spottedOn": 1787520900,
-                        "direction": "West",
-                        "train": "CPKC CO41",
                         "visualId": 3,
                         "leading": true
                     }
@@ -20540,8 +20614,8 @@
                 "age": 53,
                 "reports": [
                     {
-                        "id": 1083544,
-                        "loco": "CSXT4568 - 50th Anniversary Operation Lifesaver",
+                        "id": 1083545,
+                        "loco": "CSXT1982 - Seaboard System",
                         "spottedOn": 1787588160,
                         "direction": "In Yard",
                         "train": null,
@@ -20549,8 +20623,8 @@
                         "leading": false
                     },
                     {
-                        "id": 1083545,
-                        "loco": "CSXT1982 - Seaboard System",
+                        "id": 1083544,
+                        "loco": "CSXT4568 - 50th Anniversary Operation Lifesaver",
                         "spottedOn": 1787588160,
                         "direction": "In Yard",
                         "train": null,
@@ -20679,7 +20753,7 @@
                 "lat": 41.688169,
                 "lon": -86.342009879,
                 "direction": 2,
-                "age": 56,
+                "age": 57,
                 "reports": [
                     {
                         "id": 1083460,
@@ -21043,15 +21117,6 @@
                 "age": 71,
                 "reports": [
                     {
-                        "id": 1083029,
-                        "loco": "CN4716 - CN Zebra",
-                        "spottedOn": 1787523960,
-                        "direction": "In Yard",
-                        "train": null,
-                        "visualId": 3,
-                        "leading": false
-                    },
-                    {
                         "id": 1083028,
                         "loco": "CN9547 - CN Zebra",
                         "spottedOn": 1787523960,
@@ -21059,6 +21124,15 @@
                         "train": null,
                         "visualId": 3,
                         "leading": true
+                    },
+                    {
+                        "id": 1083029,
+                        "loco": "CN4716 - CN Zebra",
+                        "spottedOn": 1787523960,
+                        "direction": "In Yard",
+                        "train": null,
+                        "visualId": 3,
+                        "leading": false
                     }
                 ]
             },
