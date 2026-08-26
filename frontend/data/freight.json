@@ -1,6 +1,6 @@
 {
-    "updated": "2026-08-25 13:13:57",
-    "count": 3,
+    "updated": "2026-08-26 17:32:58",
+    "count": 1,
     "trains": [
         {
             "type": "freight",
@@ -9,46 +9,14 @@
             "provider": "Freight",
             "direction": "E",
             "latitude": 43.104684675,
-            "longitude": -75.22021324,
+            "longitude": -75.222700494,
             "location": "Utica, NY",
             "locomotives": [
-                "AMTK145 - Phase III"
+                "AMTK108 - Phase VI"
             ],
-            "spottedOn": 1787676300,
+            "spottedOn": 1787763240,
             "source": "Heritage Units",
-            "lastUpdate": "13:13:57"
-        },
-        {
-            "type": "freight",
-            "trainNum": "CSX M363",
-            "route": "CSX M363",
-            "provider": "CSX",
-            "direction": "W",
-            "latitude": 43.104684675,
-            "longitude": -75.22021324,
-            "location": "Utica, NY",
-            "locomotives": [
-                "CSXT537 - CSX YN2"
-            ],
-            "spottedOn": 1787589840,
-            "source": "Heritage Units",
-            "lastUpdate": "13:13:57"
-        },
-        {
-            "type": "freight",
-            "trainNum": "CSX M626",
-            "route": "CSX M626",
-            "provider": "CSX",
-            "direction": "E",
-            "latitude": 43.104684675,
-            "longitude": -75.22021324,
-            "location": "Utica, NY",
-            "locomotives": [
-                "CSXT5208 - Chessie System Emblem"
-            ],
-            "spottedOn": 1787579640,
-            "source": "Heritage Units",
-            "lastUpdate": "13:13:57"
+            "lastUpdate": "17:32:58"
         }
     ]
 }

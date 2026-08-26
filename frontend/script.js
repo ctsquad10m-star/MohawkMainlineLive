@@ -23,15 +23,13 @@ const map = L.map('map', {
 // Dark tactical map
 
 L.tileLayer(
+    'https://basemaps.cartocdn.com/rastertiles/voyager/{z}/{x}/{y}.png?key=cb1_28s6_1_a55a11e78ff33b3c782278d8',
+    {
+        maxZoom: 19,
 
-'https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png',
-
-{
-
-    maxZoom: 19
-
-}
-
+        attribution:
+            '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a> &copy; <a href="https://carto.com/attributions">CARTO</a>'
+    }
 ).addTo(map);
 
 
