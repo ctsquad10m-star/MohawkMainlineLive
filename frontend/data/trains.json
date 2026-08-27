@@ -1,36 +1,36 @@
 {
-    "updated": "2026-08-26 17:36:49",
+    "updated": "2026-08-27 10:33:57",
     "count": 2,
     "trains": [
         {
             "type": "amtrak",
-            "trainNum": "64",
-            "route": "Maple Leaf",
+            "trainNum": "48",
+            "route": "Lake Shore Limited",
             "provider": "Amtrak",
             "direction": "E",
-            "trainID": "64-26",
-            "latitude": 43.022458155125776,
-            "longitude": -74.89531896562914,
-            "status": "82 min Late",
-            "completedStops": 14,
-            "totalStops": 23,
-            "nextStop": "Amsterdam",
-            "lastUpdate": "17:36:49"
+            "trainID": "48-26",
+            "latitude": 43.156701082360264,
+            "longitude": -77.57620515701277,
+            "status": "Slightly Late",
+            "completedStops": 12,
+            "totalStops": 20,
+            "nextStop": "Syracuse",
+            "lastUpdate": "10:33:57"
         },
         {
             "type": "amtrak",
-            "trainNum": "281",
+            "trainNum": "284",
             "route": "Empire Service",
             "provider": "Amtrak",
-            "direction": "W",
-            "trainID": "281-26",
-            "latitude": 43.0613946904784,
-            "longitude": -77.04980727533814,
-            "status": "16 min Late",
-            "completedStops": 12,
-            "totalStops": 16,
-            "nextStop": "Rochester",
-            "lastUpdate": "17:36:49"
+            "direction": "E",
+            "trainID": "284-27",
+            "latitude": 43.062958757021406,
+            "longitude": -76.07309187247371,
+            "status": "30 min Late",
+            "completedStops": 6,
+            "totalStops": 17,
+            "nextStop": "Rome",
+            "lastUpdate": "10:33:57"
         }
     ]
 }

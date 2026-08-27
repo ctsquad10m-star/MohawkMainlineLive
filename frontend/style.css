@@ -3563,7 +3563,7 @@ aside {
 ========================================= */
 
 .operations .content {
-    font-size: 14px;
+    font-size: 17px;
 }
 
 .operations .train-card {
@@ -3576,28 +3576,28 @@ aside {
 }
 
 .operations .train-name {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 700;
 }
 
 .operations .train-direction {
-    font-size: 14px;
+    font-size: 17px;
     font-weight: 700;
 }
 
 .operations .train-location {
-    font-size: 14px;
+    font-size: 17px;
 }
 
 .operations .train-status {
-    font-size: 15px;
+    font-size: 17px;
     font-weight: 700;
 }
 
 .operations .small-text {
-    font-size: 12px;
+    font-size: 15px;
 }
 
 .operations .train-details {
-    font-size: 13px;
+    font-size: 15px;
 }
