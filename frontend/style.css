@@ -3557,3 +3557,47 @@ aside {
         height: 160px;
     }
 }
+
+/* =========================================
+   ACTIVE TRAIN MOVEMENTS - LARGER TEXT
+========================================= */
+
+.operations .content {
+    font-size: 14px;
+}
+
+.operations .train-card {
+    padding: 12px 14px;
+}
+
+.operations .train-number {
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.operations .train-name {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.operations .train-direction {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.operations .train-location {
+    font-size: 14px;
+}
+
+.operations .train-status {
+    font-size: 15px;
+    font-weight: 700;
+}
+
+.operations .small-text {
+    font-size: 12px;
+}
+
+.operations .train-details {
+    font-size: 13px;
+}
