@@ -1277,7 +1277,7 @@ main {
     display: grid;
 
     grid-template-columns: 72% 28%;
-    grid-template-rows: 72% 28%;
+    grid-template-rows: 67% 33%;
 
     gap: 0.6%;
 

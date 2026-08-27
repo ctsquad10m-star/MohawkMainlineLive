@@ -1,5 +1,5 @@
 {
-    "updated": "2026-08-27 10:33:57",
+    "updated": "2026-08-27 10:36:57",
     "count": 2,
     "trains": [
         {
@@ -9,13 +9,13 @@
             "provider": "Amtrak",
             "direction": "E",
             "trainID": "48-26",
-            "latitude": 43.156701082360264,
-            "longitude": -77.57620515701277,
+            "latitude": 43.1468324595446,
+            "longitude": -77.55374421101355,
             "status": "Slightly Late",
             "completedStops": 12,
             "totalStops": 20,
             "nextStop": "Syracuse",
-            "lastUpdate": "10:33:57"
+            "lastUpdate": "10:36:57"
         },
         {
             "type": "amtrak",
@@ -24,13 +24,13 @@
             "provider": "Amtrak",
             "direction": "E",
             "trainID": "284-27",
-            "latitude": 43.062958757021406,
-            "longitude": -76.07309187247371,
+            "latitude": 43.0714464625594,
+            "longitude": -76.02383648618353,
             "status": "30 min Late",
             "completedStops": 6,
             "totalStops": 17,
             "nextStop": "Rome",
-            "lastUpdate": "10:33:57"
+            "lastUpdate": "10:36:57"
         }
     ]
 }
